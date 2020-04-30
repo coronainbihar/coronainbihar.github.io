@@ -380,7 +380,7 @@
 },
 {
     "confirmed": "0", 
-    "district": "Not confirmed ", 
+    "district": "Not Confirmed", 
     "link": "index.html", 
     "recovered": "17", 
     "active": "0", 
@@ -393,7 +393,7 @@
     "district": "Bihar", 
     "link": "index.html", 
     "recovered": "82", 
-    "active": "358", 
+    "active": "341", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

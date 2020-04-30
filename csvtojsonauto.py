@@ -22,7 +22,9 @@ for row in reader:
 			jsonfile.write('\n')
 			jsonfile.write(']')
 		elif (row['district']=='Not Confirmed') :
-			print "parsed last"
+			json.dump(row, jsonfile, indent=4, sort_keys=False)
+			jsonfile.write(',')
+			jsonfile.write('\n')
 		else :
 			json.dump(row, jsontemp, indent=4, sort_keys=False)
 			jsontemp.write('\n')

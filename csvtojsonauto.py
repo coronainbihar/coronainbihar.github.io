@@ -16,7 +16,14 @@ check = True
 
 for row in reader:
 	if (row['block']=='Total'):
-		if (row['district']!='Bihar') :
+		
+		if (row['district']=='Bihar') :
+			json.dump(row, jsonfile, indent=4, sort_keys=False)
+			jsonfile.write('\n')
+			jsonfile.write(']')
+		elif (row['district']=='Not Confirmed') :
+			print "parsed last"
+		else :
 			json.dump(row, jsontemp, indent=4, sort_keys=False)
 			jsontemp.write('\n')
 			jsontemp.write(']')
@@ -24,10 +31,6 @@ for row in reader:
 			jsonfile.write(',')
 			jsonfile.write('\n')
 			check = True
-		else :
-			json.dump(row, jsonfile, indent=4, sort_keys=False)
-			jsonfile.write('\n')
-			jsonfile.write(']')
 	else :
 		if (check):
 			dis = row['district']

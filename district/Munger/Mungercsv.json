@@ -39,11 +39,11 @@
     "block": "HAVELI KHARAGPUR"
 },
 {
-    "confirmed": "82", 
+    "confirmed": "85", 
     "district": "Munger", 
     "link": "district/Munger/index.html", 
     "recovered": "5", 
-    "active": "77", 
+    "active": "80", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAMALPUR"
@@ -89,11 +89,11 @@
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "92", 
+    "confirmed": "95", 
     "district": "Munger", 
     "link": "district/Munger/index.html", 
     "recovered": "11", 
-    "active": "80", 
+    "active": "83", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

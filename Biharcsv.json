@@ -209,11 +209,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "92", 
+    "confirmed": "95", 
     "district": "Munger", 
     "link": "district/Munger/index.html", 
     "recovered": "11", 
-    "active": "80", 
+    "active": "83", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -379,11 +379,21 @@
     "block": "Total"
 },
 {
-    "confirmed": "422", 
+    "confirmed": "0", 
+    "district": "Not confirmed ", 
+    "link": "index.html", 
+    "recovered": "17", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+},
+{
+    "confirmed": "425", 
     "district": "Bihar", 
     "link": "index.html", 
-    "recovered": "65", 
-    "active": "355", 
+    "recovered": "82", 
+    "active": "358", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

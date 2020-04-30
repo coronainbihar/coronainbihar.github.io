@@ -65,7 +65,7 @@ body {
 
 .column.middle td {
   padding: 8px;
-  text-align: left;
+  text-align: center;
   border: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   /*font-size : 20px ;*/

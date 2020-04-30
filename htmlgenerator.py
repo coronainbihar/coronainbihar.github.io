@@ -34,7 +34,7 @@ for row in reader:
 	</script>
 
 
-	<title>Corona in '''+district+''' | coronainbihar.github.io</title>
+	<title>Coronavirus in '''+district+''' | coronainbihar.github.io</title>
 	<meta name="title" content="Coronavirus Outbreak in'''+district+''': Blockwise Dashboard"/>
 	<link rel="icon" type="image/png"  href="../../icon.png"/>
 	<meta charset="utf-8">

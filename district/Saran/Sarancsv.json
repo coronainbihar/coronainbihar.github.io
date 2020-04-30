@@ -9,11 +9,11 @@
     "block": "AMNOUR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Saran", 
     "link": "district/Saran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BANIYAPUR"
@@ -179,11 +179,11 @@
     "block": "RIVILGANJ"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Saran", 
     "link": "district/Saran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SONEPUR"
@@ -199,11 +199,11 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "8", 
     "district": "Saran", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "5", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

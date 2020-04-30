@@ -199,11 +199,11 @@
     "block": "PATNA SADAR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Patna", 
     "link": "district/Patna/index.html", 
     "recovered": "1", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PHULWARI SHARIF"
@@ -229,11 +229,11 @@
     "block": "SAMPATCHAK"
 },
 {
-    "confirmed": "42", 
+    "confirmed": "43", 
     "district": "Patna", 
     "link": "district/Patna/index.html", 
     "recovered": "5", 
-    "active": "37", 
+    "active": "38", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -1,0 +1,191 @@
+[{
+    "confirmed": "2", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "1", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bachwara"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bakhri"
+},
+{
+    "confirmed": "1", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Balia"
+},
+{
+    "confirmed": "3", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "3", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barauni"
+},
+{
+    "confirmed": "1", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Begusarai"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bhagawanpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Birpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Cheria Bariyarpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chhourahi"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Dandari"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Garhpura"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Khodabandpur"
+},
+{
+    "confirmed": "1", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Mansurchak"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Matihani"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Navkothi"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sahebpur Kamal"
+},
+{
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Samho-Akaha-Kurha"
+},
+{
+    "confirmed": "3", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "1", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Teghra"
+},
+{
+    "confirmed": "11", 
+    "district": "Begusarai", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "5", 
+    "active": "6", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

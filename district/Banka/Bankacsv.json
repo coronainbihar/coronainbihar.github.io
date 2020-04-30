@@ -1,0 +1,121 @@
+[{
+    "confirmed": "1", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Amarpur"
+},
+{
+    "confirmed": "1", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Banka"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barahat"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Belhar"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bounsi"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chandan"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Dhoraiya"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Fullidumar"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Katoriya"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Rajoun"
+},
+{
+    "confirmed": "0", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Shambhuganj"
+},
+{
+    "confirmed": "2", 
+    "district": "Banka", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

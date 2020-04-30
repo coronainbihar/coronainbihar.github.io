@@ -1,0 +1,121 @@
+[{
+    "confirmed": "5", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "5", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Aurangabad"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barun"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Daudnagar"
+},
+{
+    "confirmed": "3", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Deo"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Goh"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Haspura"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kutumba"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Madanpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Nabinagar"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Obra"
+},
+{
+    "confirmed": "0", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Rafiganj"
+},
+{
+    "confirmed": "8", 
+    "district": "Aurangabad", 
+    "link": "district/Aurangabad/index.html", 
+    "recovered": "0", 
+    "active": "8", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

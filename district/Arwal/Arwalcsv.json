@@ -1,0 +1,61 @@
+[{
+    "confirmed": "3", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Arwal"
+},
+{
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sonbhadra Banshi Surypur"
+},
+{
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kaler"
+},
+{
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Karpi"
+},
+{
+    "confirmed": "1", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kurtha"
+},
+{
+    "confirmed": "4", 
+    "district": "Arwal", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

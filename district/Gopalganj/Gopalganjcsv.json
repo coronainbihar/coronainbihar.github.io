@@ -1,0 +1,151 @@
+[{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Baikunthpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barauli"
+},
+{
+    "confirmed": "3", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "1", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bhore"
+},
+{
+    "confirmed": "13", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "13", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Gopalganj"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Hathua"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kateya"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kuchaikot"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Manjha"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Panchdevari"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Phulwaria"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sidhwalia"
+},
+{
+    "confirmed": "1", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Thawe"
+},
+{
+    "confirmed": "1", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Uchkagaon"
+},
+{
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Vijaipur"
+},
+{
+    "confirmed": "18", 
+    "district": "Gopalganj", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "3", 
+    "active": "15", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

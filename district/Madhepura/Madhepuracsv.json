@@ -1,0 +1,141 @@
+[{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ALAMNAGAR"
+},
+{
+    "confirmed": "1", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BIHARIGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHAUSA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GHAILADH"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GAMHARIA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GUALPARA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KUMARKHAND"
+},
+{
+    "confirmed": "1", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MADHEPURA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MURLIGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PURAINI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SHANKARPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SIGHESHWARSTHAN"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "UDA KISHANGANJ"
+},
+{
+    "confirmed": "2", 
+    "district": "Madhepura", 
+    "link": "district/Madhepura/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

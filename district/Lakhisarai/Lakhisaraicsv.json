@@ -1,0 +1,81 @@
+[{
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barahia"
+},
+{
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Channan"
+},
+{
+    "confirmed": "1", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Halsi"
+},
+{
+    "confirmed": "2", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Lakhisarai"
+},
+{
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Piparia"
+},
+{
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ramgarh Chowk"
+},
+{
+    "confirmed": "1", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Suryagarha"
+},
+{
+    "confirmed": "4", 
+    "district": "Lakhisarai", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "1", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

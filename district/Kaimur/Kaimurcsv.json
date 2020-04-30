@@ -1,0 +1,121 @@
+[{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Adhaura"
+},
+{
+    "confirmed": "8", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "8", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bhabhua"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bhagwanpur"
+},
+{
+    "confirmed": "10", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "10", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chainpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chand"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Durgawati"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kudra"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Mohania"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Nuawon"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ramgarh"
+},
+{
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Rampur"
+},
+{
+    "confirmed": "18", 
+    "district": "Kaimur", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "18", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

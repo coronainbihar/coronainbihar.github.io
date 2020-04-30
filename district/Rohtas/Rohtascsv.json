@@ -1,0 +1,201 @@
+[{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "AKORHIGOLA"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BIKRAMGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHENARI"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DAWATH"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DEHRI"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DINARA"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KARAKAT"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KARGAHAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KOCHAS"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NASRIGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NAUHATTA"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NOKHA"
+},
+{
+    "confirmed": "2", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAJPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ROHTAS"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SANJHAULI"
+},
+{
+    "confirmed": "31", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "31", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SASARAM"
+},
+{
+    "confirmed": "1", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SHEOSAGAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SURAJPURA"
+},
+{
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "TILOUTHU"
+},
+{
+    "confirmed": "34", 
+    "district": "Rohtas", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "34", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

@@ -1,0 +1,151 @@
+[{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Agioan"
+},
+{
+    "confirmed": "9", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "9", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ara Sadar"
+},
+{
+    "confirmed": "1", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barhara"
+},
+{
+    "confirmed": "1", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bihiya"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Charpokhri"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Garhani"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Jagdishpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Koilwar"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Piro"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sahar"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sandesh"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Shahpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Tarari"
+},
+{
+    "confirmed": "0", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Udwantnagar"
+},
+{
+    "confirmed": "11", 
+    "district": "Bhojpur", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "1", 
+    "active": "10", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

@@ -1,0 +1,121 @@
+[{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Brahmpur"
+},
+{
+    "confirmed": "1", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Buxar"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chakki"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chausha"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chaugain"
+},
+{
+    "confirmed": "39", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "1", 
+    "active": "38", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Dumraon"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Itarhi"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kesath"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Nawanagar"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Rajpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Simari"
+},
+{
+    "confirmed": "40", 
+    "district": "Buxar", 
+    "link": "district/Buxar/index.html", 
+    "recovered": "1", 
+    "active": "39", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

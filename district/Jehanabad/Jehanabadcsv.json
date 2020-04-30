@@ -1,0 +1,81 @@
+[{
+    "confirmed": "1", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ghoshi"
+},
+{
+    "confirmed": "0", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Hulasgunj"
+},
+{
+    "confirmed": "2", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Jehanabad"
+},
+{
+    "confirmed": "1", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kako"
+},
+{
+    "confirmed": "0", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Makhdumpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Modanganj"
+},
+{
+    "confirmed": "0", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ratni Faridpur"
+},
+{
+    "confirmed": "4", 
+    "district": "Jehanabad", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

@@ -1,0 +1,171 @@
+[{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BHAGWANPUR"
+},
+{
+    "confirmed": "1", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BIDUPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHEHRAKALA"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DESRI"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GARAUL"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "HAJIPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JANDAHA"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LALGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAHNAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAHUA"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PATEDHI BELSAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PATEPUR"
+},
+{
+    "confirmed": "1", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "RAGHOPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAJAPAKAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SAHDEI"
+},
+{
+    "confirmed": "1", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "VAISHALI"
+},
+{
+    "confirmed": "3", 
+    "district": "Vaishali", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "Total"
+}
+]

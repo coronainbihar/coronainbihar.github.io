@@ -44,38 +44,47 @@ body {
 /* Middle column */
 .column.middle {
   width: 60%;
+  
 }
 
 .column.middle table {
   border-collapse: collapse;
+  /*border: 1px solid black;*/
   width: 100%;
-  table-align: center;
+  resize: both;
+  overflow: auto;
 }
 
 .column.middle th {
   padding: 12px;
   text-align: center;
-  border-bottom: 1px solid #ddd;
+  border: 1px solid #ddd;
+  border-bottom: 1px solid black;
   /*font-size : 2em ;*/
 }
 
 .column.middle td {
   padding: 8px;
   text-align: left;
+  border: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   /*font-size : 20px ;*/
 }
 
+.column.middle tr:nth-child(even) {
+  background-color: #ffeedb
+}
+
 .column.middle tr:hover {
-	background-color:#eee;
+	background-color:#ddd;
 	cursor:pointer;
 }
 
 .column.middle c {
   background-color: white;
   color: black;
-  border: 2px solid orange;
-  width : 24%;
+  border: 1.5px solid orange;
+  width : 27.5%;
   text-align: center;
   display: inline-block;
 }
@@ -87,8 +96,8 @@ body {
 .column.middle a {
   background-color: white;
   color: black;
-  border: 2px solid blue;
-  width : 24%;
+  border: 1.5px solid blue;
+  width : 20%;
   text-align: center;
   display: inline-block;
 }
@@ -100,8 +109,8 @@ body {
 .column.middle r {
   background-color: white;
   color: black;
-  border: 2px solid green;
-  width : 24%;
+  border: 1.5px solid green;
+  width : 27.5%;
   text-align: center;
   display: inline-block;
 }
@@ -113,8 +122,8 @@ body {
 .column.middle d {
   background-color: white;
   color: black;
-  border: 2px solid red;
-  width : 24%;
+  border: 1.5px solid red;
+  width : 25%;
   text-align: center;
   display: inline-block;
 }

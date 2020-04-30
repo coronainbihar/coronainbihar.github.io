@@ -12,11 +12,11 @@ var xmlhttp = new XMLHttpRequest();
 		var txt = "" ;
 		txt += "<table>" ;
 
-		txt += "<tr><th>Block</th><th>New Confirmed</th><th>Confirmed</th><th>Active</th><th>Recovered</th><th>Deceased</th></tr>" ;
+		txt += "<tr><th>Block</th><th>Confirmed</th><th>Active</th><th>Recovered</th><th>Deceased</th></tr>" ;
 		var x ;
 		for (x = 0; x < len-1; x++) {
 		  /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */
-		  txt += "<tr><td>"+myObj[x].block+"</td><td>"+myObj[x].new_confirmed+"</td><td>"+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
+		  txt += "<tr><td>"+myObj[x].block+"</td><td>"+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
 		}
 		txt += "</table>"    
 		document.getElementById("demo").innerHTML = txt;

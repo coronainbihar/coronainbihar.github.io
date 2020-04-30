@@ -269,11 +269,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "36", 
     "district": "Rohtas", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "34", 
+    "active": "36", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -379,11 +379,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "407", 
+    "confirmed": "409", 
     "district": "Bihar", 
     "link": "index.html", 
     "recovered": "65", 
-    "active": "340", 
+    "active": "342", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

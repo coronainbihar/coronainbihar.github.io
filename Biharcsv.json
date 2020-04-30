@@ -232,8 +232,8 @@
     "confirmed": "35", 
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "6", 
-    "active": "29", 
+    "recovered": "7", 
+    "active": "28", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -329,11 +329,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "6", 
     "district": "Sitamarhi", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -379,11 +379,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "403", 
+    "confirmed": "407", 
     "district": "Bihar", 
     "link": "index.html", 
-    "recovered": "64", 
-    "active": "337", 
+    "recovered": "65", 
+    "active": "340", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

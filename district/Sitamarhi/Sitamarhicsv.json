@@ -39,11 +39,11 @@
     "block": "BELSAND"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "4", 
     "district": "Sitamarhi", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BOKHRA"
@@ -169,11 +169,11 @@
     "block": "SURSAND"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "6", 
     "district": "Sitamarhi", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

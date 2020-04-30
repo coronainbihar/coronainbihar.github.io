@@ -34,10 +34,15 @@ for row in reader:
 	</script>
 
 
-	<title>Corona in Bihar</title>
+	<title>Corona in '''+district+''' | coronainbihar.github.io</title>
+	<meta name="title" content="Coronavirus Outbreak in'''+district+''': Blockwise Dashboard"/>
+	<link rel="icon" type="image/png"  href="../../icon.png"/>
 	<meta charset="utf-8">
+	<meta name="description" content="An effort to track coronavirus outbreak in Bihar with tables of the number of cases by district and block.">
+	<meta name="keywords" content="Corona, Bihar, Covid-19, Blockwise, Block, Coronavirus">
+	<meta name="author" content="Anand Kumar Verma">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="../../index.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
 	</head>
 	<body>
 

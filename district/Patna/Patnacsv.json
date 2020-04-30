@@ -1,0 +1,241 @@
+[{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ATHMALGOLA"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAKHTIARPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BARH"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BELCHHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BIHTA"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BIKRAM"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DANAPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DANIYAWAAN"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DHANARUA"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DULHIN BAZAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "FATUHA"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GHOSWARI"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KHUSRUPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MANER"
+},
+{
+    "confirmed": "2", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MASAURHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MOKAMA"
+},
+{
+    "confirmed": "1", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NAUBATPUR"
+},
+{
+    "confirmed": "1", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PALIGANJ"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PANDARAK"
+},
+{
+    "confirmed": "34", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "2", 
+    "active": "32", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PATNA SADAR"
+},
+{
+    "confirmed": "2", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "1", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PHULWARI SHARIF"
+},
+{
+    "confirmed": "0", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PUNPUN"
+},
+{
+    "confirmed": "2", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "2", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SAMPATCHAK"
+},
+{
+    "confirmed": "42", 
+    "district": "Patna", 
+    "link": "district/Patna/index.html", 
+    "recovered": "5", 
+    "active": "37", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

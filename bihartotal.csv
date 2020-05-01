@@ -95,13 +95,13 @@ Buxar,Buxar,district/Buxar/index.html,0,1,1,0,0
 Buxar,Chakki,district/Buxar/index.html,0,0,0,0,0
 Buxar,Chausha,district/Buxar/index.html,0,0,0,0,0
 Buxar,Chaugain,district/Buxar/index.html,0,0,0,0,0
-Buxar,Dumraon,district/Buxar/index.html,0,39,38,1,0
+Buxar,Dumraon,district/Buxar/index.html,0,39,38,5,0
 Buxar,Itarhi,district/Buxar/index.html,0,0,0,0,0
 Buxar,Kesath,district/Buxar/index.html,0,0,0,0,0
 Buxar,Nawanagar,district/Buxar/index.html,0,0,0,0,0
 Buxar,Rajpur,district/Buxar/index.html,0,0,0,0,0
 Buxar,Simari,district/Buxar/index.html,0,0,0,0,0
-Buxar,Total,district/Buxar/index.html,0,40,39,1,0
+Buxar,Total,district/Buxar/index.html,0,40,39,5,0
 Darbhanga,Alinagar,district/Darbhanga/index.html,0,0,0,0,0
 Darbhanga,Bahadurpur,district/Darbhanga/index.html,0,0,0,0,0
 Darbhanga,Baheri,district/Darbhanga/index.html,0,0,0,0,0
@@ -301,12 +301,12 @@ Munger,ASARGANJ,district/Munger/index.html,0,0,0,0,0
 Munger,BARIYARPUR,district/Munger/index.html,0,0,0,0,0
 Munger,DHARAHARA,district/Munger/index.html,0,0,0,0,0
 Munger,HAVELI KHARAGPUR,district/Munger/index.html,0,0,0,0,0
-Munger,JAMALPUR,district/Munger/index.html,0,85,80,5,0
+Munger,JAMALPUR,district/Munger/index.html,0,85,80,11,0
 Munger,MUNGER SADAR,district/Munger/index.html,0,10,3,6,1
 Munger,SANGARAMPUR,district/Munger/index.html,0,0,0,0,0
 Munger,TARAPURA,district/Munger/index.html,0,0,0,0,0
 Munger,TETIYA BAMBER,district/Munger/index.html,0,0,0,0,0
-Munger,Total,district/Munger/index.html,0,95,83,11,1
+Munger,Total,district/Munger/index.html,0,95,83,17,1
 Muzaffarpur,SAHEBGANJ,district/Muzaffarpur/index.html,0,0,0,0,0
 Muzaffarpur,MOTIPUR,district/Muzaffarpur/index.html,0,0,0,0,0
 Muzaffarpur,PAROO,district/Muzaffarpur/index.html,0,0,0,0,0
@@ -326,7 +326,7 @@ Muzaffarpur,BANDRA,district/Muzaffarpur/index.html,0,0,0,0,0
 Muzaffarpur,Total,district/Muzaffarpur/index.html,0,0,0,0,0
 Nalanda,ASTHAWAN,district/Nalanda/index.html,0,0,0,0,0
 Nalanda,BEN,district/Nalanda/index.html,0,0,0,0,0
-Nalanda,BIHARSARIF,district/Nalanda/index.html,0,33,28,5,0
+Nalanda,BIHARSARIF,district/Nalanda/index.html,0,33,28,10,0
 Nalanda,BIND,district/Nalanda/index.html,0,0,0,0,0
 Nalanda,CHANDI,district/Nalanda/index.html,0,0,0,0,0
 Nalanda,EKANGARSARAI,district/Nalanda/index.html,0,0,0,0,0
@@ -344,7 +344,7 @@ Nalanda,RAJGIR,district/Nalanda/index.html,0,0,0,0,0
 Nalanda,SARMERA,district/Nalanda/index.html,0,0,0,0,0
 Nalanda,SILAO,district/Nalanda/index.html,0,1,0,1,0
 Nalanda,THARTHARI,district/Nalanda/index.html,0,0,0,0,0
-Nalanda,Total,district/Nalanda/index.html,0,36,29,7,0
+Nalanda,Total,district/Nalanda/index.html,0,36,29,12,0
 Nawada,AKBARPUR,district/Nawada/index.html,0,0,0,0,0
 Nawada,GOVINDPUR,district/Nawada/index.html,0,0,0,0,0
 Nawada,HISUA,district/Nawada/index.html,0,1,1,0,0
@@ -379,11 +379,11 @@ Patna,MOKAMA,district/Patna/index.html,0,0,0,0,0
 Patna,NAUBATPUR,district/Patna/index.html,0,1,1,0,0
 Patna,PALIGANJ,district/Patna/index.html,0,1,1,0,0
 Patna,PANDARAK,district/Patna/index.html,0,0,0,0,0
-Patna,PATNA SADAR,district/Patna/index.html,0,35,33,2,0
+Patna,PATNA SADAR,district/Patna/index.html,0,35,33,3,0
 Patna,PHULWARI SHARIF,district/Patna/index.html,0,3,2,1,0
 Patna,PUNPUN,district/Patna/index.html,0,0,0,0,0
 Patna,SAMPATCHAK,district/Patna/index.html,0,2,0,2,0
-Patna,Total,district/Patna/index.html,0,44,39,5,0
+Patna,Total,district/Patna/index.html,0,44,39,6,0
 Purnea,AMOUR,district/Purnea/index.html,0,0,0,0,0
 Purnea,BAISA,district/Purnea/index.html,0,0,0,0,0
 Purnea,BAISI,district/Purnea/index.html,0,0,0,0,0
@@ -519,10 +519,10 @@ Siwan,MAHARAJGANJ,district/Siwan/index.html,0,0,0,0,0
 Siwan,MAIRWA,district/Siwan/index.html,0,0,0,0,0
 Siwan,NAUTAN,district/Siwan/index.html,0,1,0,1,0
 Siwan,PACHRUKHI,district/Siwan/index.html,0,1,0,1,0
-Siwan,RAGHUNATHPUR,district/Siwan/index.html,0,23,7,16,0
+Siwan,RAGHUNATHPUR,district/Siwan/index.html,0,23,7,19,0
 Siwan,SISWAN,district/Siwan/index.html,0,0,0,0,0
 Siwan,SIWAN,district/Siwan/index.html,0,1,1,0,0
-Siwan,Total,district/Siwan/index.html,0,30,8,22,0
+Siwan,Total,district/Siwan/index.html,0,30,8,25,0
 Supaul,BASANTPUR,district/Supaul/index.html,0,0,0,0,0
 Supaul,CHHATAPUR,district/Supaul/index.html,0,0,0,0,0
 Supaul,KISHANPUR,district/Supaul/index.html,0,0,0,0,0
@@ -571,5 +571,5 @@ West Champaran,RAMNAGAR,district/West Champaran/index.html,0,0,0,0,0
 West Champaran,SIKTA,district/West Champaran/index.html,0,0,0,0,0
 West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0
 West Champaran,Total,district/West Champaran/index.html,0,5,5,0,0
-Not Confirmed,Total,index.html,0,0,0,17,0
-Bihar,Total,index.html,0,426,342,82,2
+Not Confirmed,Total,index.html,0,0,0,0,0
+Bihar,Total,index.html,0,426,340,84,2

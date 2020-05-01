@@ -89,7 +89,7 @@ for row in reader:
 		var txt = "" ;
 		txt += "<table>" ;
 
-		txt += "<tr><th onclick=\"sortTable(0, 0)\">Block &#8645</th><th onclick=\"sortTable(1, 1)\" style=\"color:orange;\">Confirmed &#8645</th><th onclick=\"sortTable(2, 1)\" style=\"color:blue;\">Active &#8645</th><th onclick=\"sortTable(3, 1)\" style=\"color:green;\">Recovered &#8645</th><th onclick=\"sortTable(4, 1)\" style=\"color:red;\">Deceased &#8645</th></tr>" ;
+		txt += "<tr><th onclick=\\"sortTable(0, 0)\\">Block &#8645</th><th onclick=\\"sortTable(1, 1)\\" style=\\"color:orange;\\">Confirmed &#8645</th><th onclick=\\"sortTable(2, 1)\\" style=\\"color:blue;\\">Active &#8645</th><th onclick=\\"sortTable(3, 1)\\" style=\\"color:green;\\">Recovered &#8645</th><th onclick=\\"sortTable(4, 1)\\" style=\\"color:red;\\">Deceased &#8645</th></tr>" ;
 		var x ;
 		for (x = 0; x < len-1; x++) {
 		  /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */

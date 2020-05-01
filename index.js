@@ -6,7 +6,7 @@ xmlhttp.onreadystatechange = function() {
     var len = myObj.length ;
 
     var htxt = "" ;
-    htxt += "<c>Confirmed<br>"+myObj[len-1].confirmed+"</c><a >Active<br>"+myObj[len-1].active+"</a><r>Recovered<br>"+myObj[len-1].recovered+"</r><d>Deceased<br>"+myObj[len-1].deceased+"</d>" ;
+    htxt += "<c>Confirmed<br>"+"<font color = \"red\">[+"+myObj[len-1].new_confirmed+"]</font>"+myObj[len-1].confirmed+"</c><a >Active<br>"+myObj[len-1].active+"</a><r>Recovered<br>"+myObj[len-1].recovered+"</r><d>Deceased<br>"+myObj[len-1].deceased+"</d>" ;
     document.getElementById("hdemo").innerHTML = htxt;
     
     var txt = "" ;
@@ -16,7 +16,11 @@ xmlhttp.onreadystatechange = function() {
     var x ;
     for (x = 0; x < len-1; x++) {
       /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */
-	  txt += "<tr onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
+	  var nc = "" ;
+	  if (myObj[x].new_confirmed > 0){
+		  nc = "<font color = \"red\">[+"+myObj[x].new_confirmed+"]</font>" ;
+	  }
+	  txt += "<tr onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</table>"    
     document.getElementById("demo").innerHTML = txt;

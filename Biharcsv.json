@@ -64,7 +64,7 @@
     "link": "district/Bhojpur/index.html", 
     "recovered": "1", 
     "active": "11", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -74,7 +74,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
     "active": "46", 
-    "new_confirmed": "0", 
+    "new_confirmed": "11", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -144,7 +144,7 @@
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
     "active": "24", 
-    "new_confirmed": "0", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -154,7 +154,7 @@
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "0", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -204,7 +204,7 @@
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "18", 
-    "new_confirmed": "0", 
+    "new_confirmed": "13", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -234,7 +234,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "12", 
     "active": "24", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -274,7 +274,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
     "active": "52", 
-    "new_confirmed": "0", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -382,7 +382,7 @@
     "confirmed": "0", 
     "district": "Not Confirmed", 
     "link": "index.html", 
-    "recovered": "0", 
+    "recovered": "7", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -392,9 +392,9 @@
     "confirmed": "466", 
     "district": "Bihar", 
     "link": "index.html", 
-    "recovered": "84", 
-    "active": "379", 
-    "new_confirmed": "0", 
+    "recovered": "91", 
+    "active": "372", 
+    "new_confirmed": "41", 
     "deceased": "3", 
     "block": "Total"
 }

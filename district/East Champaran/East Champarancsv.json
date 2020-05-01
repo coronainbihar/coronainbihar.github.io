@@ -19,13 +19,13 @@
     "block": "Areraj"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "East Champaran", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
     "active": "0", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Banjariya"
 },
 {
@@ -139,11 +139,11 @@
     "block": "Mehsi"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "3", 
     "district": "East Champaran", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Motihari"
@@ -273,9 +273,9 @@
     "district": "East Champaran", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "4", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

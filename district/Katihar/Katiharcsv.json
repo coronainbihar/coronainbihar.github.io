@@ -89,11 +89,11 @@
     "block": "Kadwa"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Katihar", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Katihar"
@@ -109,11 +109,11 @@
     "block": "Korha"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Katihar", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kursela"
@@ -159,11 +159,11 @@
     "block": "Sameli"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Katihar", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

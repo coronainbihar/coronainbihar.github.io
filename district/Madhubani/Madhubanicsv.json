@@ -69,21 +69,21 @@
     "block": "HARLAKHI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Madhubani", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAINAGAR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "6", 
     "district": "Madhubani", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JHANJHARPUR"
@@ -199,21 +199,21 @@
     "block": "RAHIKA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "6", 
     "district": "Madhubani", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAJNAGAR"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "18", 
     "district": "Madhubani", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "18", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -123,7 +123,7 @@ Darbhanga,Tardih,district/Darbhanga/index.html,0,0,0,0,0
 Darbhanga,Total,district/Darbhanga/index.html,0,5,5,0,0
 East Champaran,Adapur,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Areraj,district/East Champaran/index.html,0,0,0,0,0
-East Champaran,Banjariya,district/East Champaran/index.html,0,0,0,0,0
+East Champaran,Banjariya,district/East Champaran/index.html,0,1,0,0,1
 East Champaran,Chakia,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Chhauradano,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Chiraiya,district/East Champaran/index.html,0,0,0,0,0
@@ -135,7 +135,7 @@ East Champaran,Kesaria,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Kotwa,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Madhuban,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Mehsi,district/East Champaran/index.html,0,0,0,0,0
-East Champaran,Motihari,district/East Champaran/index.html,0,4,4,0,0
+East Champaran,Motihari,district/East Champaran/index.html,0,3,3,0,0
 East Champaran,Paharpur,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Pakaridayal,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Patahi,district/East Champaran/index.html,0,0,0,0,0
@@ -148,7 +148,7 @@ East Champaran,Sugauli,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Tetaria,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Turkauliya,district/East Champaran/index.html,0,0,0,0,0
 East Champaran,Bankatwa,district/East Champaran/index.html,0,0,0,0,0
-East Champaran,Total,district/East Champaran/index.html,0,5,5,0,0
+East Champaran,Total,district/East Champaran/index.html,0,5,4,0,1
 Gaya,Amas,district/Gaya/index.html,0,0,0,0,0
 Gaya,Atri,district/Gaya/index.html,0,0,0,0,0
 Gaya,Banke Bazar,district/Gaya/index.html,0,0,0,0,0
@@ -229,14 +229,14 @@ Katihar,Dandkhora,district/Katihar/index.html,0,0,0,0,0
 Katihar,Falka,district/Katihar/index.html,0,0,0,0,0
 Katihar,Hasanganj,district/Katihar/index.html,0,0,0,0,0
 Katihar,Kadwa,district/Katihar/index.html,0,0,0,0,0
-Katihar,Katihar,district/Katihar/index.html,0,0,0,0,0
+Katihar,Katihar,district/Katihar/index.html,0,1,1,0,0
 Katihar,Korha,district/Katihar/index.html,0,0,0,0,0
-Katihar,Kursela,district/Katihar/index.html,0,0,0,0,0
+Katihar,Kursela,district/Katihar/index.html,0,1,1,0,0
 Katihar,Manihari,district/Katihar/index.html,0,0,0,0,0
 Katihar,Mansahi,district/Katihar/index.html,0,0,0,0,0
 Katihar,Pranpur,district/Katihar/index.html,0,0,0,0,0
 Katihar,Sameli,district/Katihar/index.html,0,0,0,0,0
-Katihar,Total,district/Katihar/index.html,0,0,0,0,0
+Katihar,Total,district/Katihar/index.html,0,2,2,0,0
 Khagaria,Allouli Beldaur,district/Khagaria/index.html,0,0,0,0,0
 Khagaria,Beldaur,district/Khagaria/index.html,0,0,0,0,0
 Khagaria,Chautham,district/Khagaria/index.html,0,0,0,0,0
@@ -282,8 +282,8 @@ Madhubani,BENIPATTI,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,BISFI,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,GHOGHARDIHA,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,HARLAKHI,district/Madhubani/index.html,0,0,0,0,0
-Madhubani,JAINAGAR,district/Madhubani/index.html,0,0,0,0,0
-Madhubani,JHANJHARPUR,district/Madhubani/index.html,0,2,2,0,0
+Madhubani,JAINAGAR,district/Madhubani/index.html,0,3,3,0,0
+Madhubani,JHANJHARPUR,district/Madhubani/index.html,0,6,6,0,0
 Madhubani,KALUAHI,district/Madhubani/index.html,0,1,1,0,0
 Madhubani,KHAJAULI,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,KHUTAUNA,district/Madhubani/index.html,0,0,0,0,0
@@ -295,8 +295,8 @@ Madhubani,MADHWAPUR,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,PANDAUL,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,PHULPARAS,district/Madhubani/index.html,0,0,0,0,0
 Madhubani,RAHIKA,district/Madhubani/index.html,0,0,0,0,0
-Madhubani,RAJNAGAR,district/Madhubani/index.html,0,0,0,0,0
-Madhubani,Total,district/Madhubani/index.html,0,5,5,0,0
+Madhubani,RAJNAGAR,district/Madhubani/index.html,0,6,6,0,0
+Madhubani,Total,district/Madhubani/index.html,0,18,18,0,0
 Munger,ASARGANJ,district/Munger/index.html,0,0,0,0,0
 Munger,BARIYARPUR,district/Munger/index.html,0,0,0,0,0
 Munger,DHARAHARA,district/Munger/index.html,0,0,0,0,0
@@ -414,11 +414,11 @@ Rohtas,NOKHA,district/Rohtas/index.html,0,2,2,0,0
 Rohtas,RAJPUR,district/Rohtas/index.html,0,2,2,0,0
 Rohtas,ROHTAS,district/Rohtas/index.html,0,0,0,0,0
 Rohtas,SANJHAULI,district/Rohtas/index.html,0,0,0,0,0
-Rohtas,SASARAM,district/Rohtas/index.html,0,39,39,0,0
+Rohtas,SASARAM,district/Rohtas/index.html,0,40,40,0,0
 Rohtas,SHEOSAGAR,district/Rohtas/index.html,0,1,1,0,0
 Rohtas,SURAJPURA,district/Rohtas/index.html,0,0,0,0,0
 Rohtas,TILOUTHU,district/Rohtas/index.html,0,0,0,0,0
-Rohtas,Total,district/Rohtas/index.html,0,51,51,0,0
+Rohtas,Total,district/Rohtas/index.html,0,52,52,0,0
 Saharsa,KAHRA,district/Saharsa/index.html,0,0,0,0,0
 Saharsa,SATTAR KATIYA,district/Saharsa/index.html,0,0,0,0,0
 Saharsa,SAUR BAZAR,district/Saharsa/index.html,0,0,0,0,0
@@ -572,4 +572,4 @@ West Champaran,SIKTA,district/West Champaran/index.html,0,0,0,0,0
 West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0
 West Champaran,Total,district/West Champaran/index.html,0,5,5,0,0
 Not Confirmed,Total,index.html,0,0,0,0,0
-Bihar,Total,index.html,0,450,364,84,2
+Bihar,Total,index.html,0,466,379,84,3

@@ -93,9 +93,9 @@
     "district": "East Champaran", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "4", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 },
 {
@@ -149,11 +149,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Katihar", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -199,11 +199,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "18", 
     "district": "Madhubani", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "18", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -269,11 +269,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "51", 
+    "confirmed": "52", 
     "district": "Rohtas", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "51", 
+    "active": "52", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -389,13 +389,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "450", 
+    "confirmed": "466", 
     "district": "Bihar", 
     "link": "index.html", 
     "recovered": "84", 
-    "active": "364", 
+    "active": "379", 
     "new_confirmed": "0", 
-    "deceased": "2", 
+    "deceased": "3", 
     "block": "Total"
 }
 ]

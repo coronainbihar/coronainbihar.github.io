@@ -9,11 +9,11 @@
     "block": "Agioan"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "Bhojpur", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
-    "active": "9", 
+    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ara Sadar"
@@ -139,11 +139,11 @@
     "block": "Udwantnagar"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Bhojpur", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "1", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

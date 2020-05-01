@@ -29,11 +29,11 @@
     "block": "Bhagwanpur"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "16", 
     "district": "Kaimur", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "16", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chainpur"
@@ -109,11 +109,11 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "24", 
     "district": "Kaimur", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "18", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

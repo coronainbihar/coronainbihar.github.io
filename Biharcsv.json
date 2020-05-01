@@ -59,21 +59,21 @@
     "block": "Total"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Bhojpur", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "1", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "40", 
+    "confirmed": "51", 
     "district": "Buxar", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "35", 
+    "active": "46", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -139,11 +139,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "24", 
     "district": "Kaimur", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "18", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -269,11 +269,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "45", 
+    "confirmed": "51", 
     "district": "Rohtas", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "45", 
+    "active": "51", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -389,11 +389,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "426", 
+    "confirmed": "450", 
     "district": "Bihar", 
     "link": "index.html", 
     "recovered": "84", 
-    "active": "340", 
+    "active": "364", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

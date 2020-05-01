@@ -12,7 +12,7 @@ function sortTable(n, type) {
     rows = table.rows;
     /* Loop through all table rows (except the
     first, which contains table headers): */
-    for (i = 1; i < (rows.length - 1); i++) {
+    for (i = 1; i < (rows.length - 2); i++) {
       // Start by saying there should be no switching:
       shouldSwitch = false;
       /* Get the two elements you want to compare,
@@ -39,14 +39,14 @@ function sortTable(n, type) {
       else {
         if (dir == "asc") {
           if (Number(x.innerHTML) > Number(y.innerHTML)) {
-  shouldSwitch = true;
-  break;
-}
+			  shouldSwitch = true;
+			  break;
+			}
         } else if (dir == "desc") {
-          if (Number(x.innerHTML) < Number(y.innerHTML)) {
-  shouldSwitch = true;
-  break;
-}
+			if (Number(x.innerHTML) < Number(y.innerHTML)) {
+			  shouldSwitch = true;
+			  break;
+			}
         }
       }
     }

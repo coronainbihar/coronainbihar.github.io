@@ -12,7 +12,7 @@ xmlhttp.onreadystatechange = function() {
     var txt = "" ;
     txt += "<table>" ;
 
-    txt += "<tr><th>District</th><th style=\"color:orange;\">Confirmed</th><th style=\"color:blue;\">Active</th><th style=\"color:green;\">Recovered</th><th style=\"color:red;\">Deceased</th></tr>" ;
+    txt += "<tr><th onclick=\"sortTable(0, 0)\">District &#8645</th><th style=\"color:orange;\">Confirmed</th><th style=\"color:blue;\">Active</th><th style=\"color:green;\">Recovered</th><th style=\"color:red;\">Deceased</th></tr>" ;
     var x ;
     for (x = 0; x < len-1; x++) {
       /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */

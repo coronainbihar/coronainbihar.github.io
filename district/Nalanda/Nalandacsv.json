@@ -19,11 +19,11 @@
     "block": "BEN"
 },
 {
-    "confirmed": "32", 
+    "confirmed": "33", 
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "5", 
-    "active": "27", 
+    "active": "28", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIHARSARIF"
@@ -199,11 +199,11 @@
     "block": "THARTHARI"
 },
 {
-    "confirmed": "35", 
+    "confirmed": "36", 
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "7", 
-    "active": "28", 
+    "active": "29", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

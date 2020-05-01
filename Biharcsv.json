@@ -229,11 +229,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "35", 
+    "confirmed": "36", 
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "7", 
-    "active": "28", 
+    "active": "29", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -249,11 +249,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "43", 
+    "confirmed": "44", 
     "district": "Patna", 
     "link": "district/Patna/index.html", 
     "recovered": "5", 
-    "active": "38", 
+    "active": "39", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -269,11 +269,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "46", 
+    "confirmed": "45", 
     "district": "Rohtas", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "46", 
+    "active": "45", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -389,11 +389,11 @@
     "block": "Total"
 },
 {
-    "confirmed": "425", 
+    "confirmed": "426", 
     "district": "Bihar", 
     "link": "index.html", 
     "recovered": "82", 
-    "active": "341", 
+    "active": "342", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

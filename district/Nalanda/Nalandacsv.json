@@ -23,7 +23,7 @@
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "10", 
-    "active": "28", 
+    "active": "23", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIHARSARIF"
@@ -203,7 +203,7 @@
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "12", 
-    "active": "29", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

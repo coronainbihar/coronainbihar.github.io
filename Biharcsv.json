@@ -73,7 +73,7 @@
     "district": "Buxar", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "39", 
+    "active": "35", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -213,7 +213,7 @@
     "district": "Munger", 
     "link": "district/Munger/index.html", 
     "recovered": "17", 
-    "active": "83", 
+    "active": "77", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -233,7 +233,7 @@
     "district": "Nalanda", 
     "link": "district/Nalanda/index.html", 
     "recovered": "12", 
-    "active": "29", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -253,7 +253,7 @@
     "district": "Patna", 
     "link": "district/Patna/index.html", 
     "recovered": "6", 
-    "active": "39", 
+    "active": "38", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -343,7 +343,7 @@
     "district": "Siwan", 
     "link": "district/Siwan/index.html", 
     "recovered": "25", 
-    "active": "8", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

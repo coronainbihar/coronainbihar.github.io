@@ -60,7 +60,7 @@ for row in reader:
 		<p><br></p>
 
 		<p id="hdemo"></p>
-		<p id="demo"></p>
+		<table id="demo"></table>
 		<script src="index.js" type="text/javascript"></script>
 		
 	  </div>

@@ -1,0 +1,5 @@
+- name: Git Auto Commit
+  uses: stefanzweifel/git-auto-commit-action@v4.1.6
+  
+  with:
+    commit_message: Apply automatic changes

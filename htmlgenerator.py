@@ -60,7 +60,9 @@ for row in reader:
 		<p><br></p>
 
 		<p id="hdemo"></p>
-		<table id="demo"></table>
+		<div style="overflow-x:auto;">
+			<table id="demo"></table>
+		</div>
 		<script src="index.js" type="text/javascript"></script>
 		
 	  </div>

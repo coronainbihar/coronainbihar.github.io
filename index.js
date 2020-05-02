@@ -30,7 +30,7 @@ xmlhttp.onreadystatechange = function() {
 		  zcolor = " #ff7b0090"
 	  }
 	  else {
-		  zcolor = " #lightgreen"
+		  zcolor = " lightgreen"
 	  }
 	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }

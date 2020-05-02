@@ -20,7 +20,7 @@ xmlhttp.onreadystatechange = function() {
 	  if (myObj[x].new_confirmed > 0){
 		  nc = "<font color = \"red\">[+"+myObj[x].new_confirmed+"]  </font>" ;
 	  }
-	  txt += "<tr onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
+	  txt += "<tr onclick=\"window.location=\'"+myObj[x].link+"\';\"><td style=\"background-color:"+myObj[x].color+";\">"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</table>"    
     document.getElementById("demo").innerHTML = txt;

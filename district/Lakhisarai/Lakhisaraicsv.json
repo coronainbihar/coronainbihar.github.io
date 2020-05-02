@@ -1,6 +1,7 @@
 [{
     "confirmed": "0", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -11,6 +12,7 @@
 {
     "confirmed": "0", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -21,6 +23,7 @@
 {
     "confirmed": "1", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -31,6 +34,7 @@
 {
     "confirmed": "2", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "2", 
@@ -41,6 +45,7 @@
 {
     "confirmed": "0", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -51,6 +56,7 @@
 {
     "confirmed": "0", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -61,6 +67,7 @@
 {
     "confirmed": "1", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "1", 
     "active": "0", 
@@ -71,6 +78,7 @@
 {
     "confirmed": "4", 
     "district": "Lakhisarai", 
+    "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "1", 
     "active": "3", 

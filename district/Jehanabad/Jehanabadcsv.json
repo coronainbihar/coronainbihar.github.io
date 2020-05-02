@@ -1,6 +1,7 @@
 [{
     "confirmed": "1", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -11,6 +12,7 @@
 {
     "confirmed": "0", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -21,6 +23,7 @@
 {
     "confirmed": "2", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "2", 
@@ -31,6 +34,7 @@
 {
     "confirmed": "1", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -41,6 +45,7 @@
 {
     "confirmed": "0", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -51,6 +56,7 @@
 {
     "confirmed": "0", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -61,6 +67,7 @@
 {
     "confirmed": "0", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -71,6 +78,7 @@
 {
     "confirmed": "4", 
     "district": "Jehanabad", 
+    "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "4", 

@@ -24,13 +24,16 @@ xmlhttp.onreadystatechange = function() {
 	  }
 	  
 	  if (myObj[x].color == "red"){
-		  zcolor = " #ff000060"
+		  zcolor = " #ff000060" ;
 	  }
 	  else if (myObj[x].color == "orange"){
-		  zcolor = " #ff7b0090"
+		  zcolor = " #ff7b0090" ;
+	  }
+	  else if (myObj[x].color == "green"){
+		  zcolor = " lightgreen"
 	  }
 	  else {
-		  zcolor = " lightgreen"
+		  zcolor = " " ;
 	  }
 	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }

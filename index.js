@@ -29,12 +29,12 @@ xmlhttp.onreadystatechange = function() {
 	  else if (myObj[x].color == "orange"){
 		  zcolor = " #ff7b0090" ;
 	  }
-	  else if (myObj[x].color == "green"){
+	  else {
 		  zcolor = " lightgreen"
 	  }
-	  else {
+	  /*else {
 		  zcolor = " " ;
-	  }
+	  }*/
 	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</table>"    

@@ -1,7 +1,7 @@
 [{
     "confirmed": "0", 
     "district": "Bhojpur", 
-    "color": "orange", 
+    "color": "", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
     "active": "0", 

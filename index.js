@@ -19,9 +19,9 @@ xmlhttp.onreadystatechange = function() {
 	  var nc = "" ;
 	  var zcolor = "" ;
 	  
-	  if (myObj[x].new_confirmed > 0){
+	  /*if (myObj[x].new_confirmed > 0){
 		  nc = "<font color = \"red\">[+"+myObj[x].new_confirmed+"]  </font>" ;
-	  }
+	  }*/
 	  
 	  if (myObj[x].color == "red"){
 		  zcolor = " #ff0000a0" ;

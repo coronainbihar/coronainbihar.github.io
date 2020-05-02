@@ -177,7 +177,7 @@
 {
     "confirmed": "5", 
     "district": "Bhagalpur", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "1", 
     "active": "4", 

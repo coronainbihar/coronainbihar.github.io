@@ -87,6 +87,7 @@ body {
   width : 27.5%;
   text-align: center;
   display: inline-block;
+  padding: 4px;
 }
 
 .column.middle c:hover{
@@ -100,6 +101,7 @@ body {
   width : 20%;
   text-align: center;
   display: inline-block;
+  padding: 4px;
 }
 
 .column.middle a:hover{
@@ -113,6 +115,7 @@ body {
   width : 27.5%;
   text-align: center;
   display: inline-block;
+  padding: 4px;
 }
 
 .column.middle r:hover{
@@ -126,6 +129,7 @@ body {
   width : 25%;
   text-align: center;
   display: inline-block;
+  padding: 4px;
 }
 
 .column.middle d:hover{

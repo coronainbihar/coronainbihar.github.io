@@ -87,24 +87,24 @@
     "block": "Hasanganj"
 },
 {
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Kadwa"
-},
-{
     "confirmed": "1", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Kadwa"
+},
+{
+    "confirmed": "2", 
+    "district": "Katihar", 
+    "color": "", 
+    "link": "district/Katihar/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Katihar"
 },
@@ -175,12 +175,12 @@
     "block": "Sameli"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

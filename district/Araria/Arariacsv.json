@@ -1,10 +1,10 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Araria", 
     "color": "", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Araria"
@@ -98,12 +98,12 @@
     "block": "Sikti"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Araria", 
     "color": "", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -42,8 +42,8 @@
     "confirmed": "85", 
     "district": "Munger", 
     "link": "district/Munger/index.html", 
-    "recovered": "11", 
-    "active": "74", 
+    "recovered": "12", 
+    "active": "73", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAMALPUR"
@@ -92,8 +92,8 @@
     "confirmed": "95", 
     "district": "Munger", 
     "link": "district/Munger/index.html", 
-    "recovered": "17", 
-    "active": "77", 
+    "recovered": "18", 
+    "active": "76", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

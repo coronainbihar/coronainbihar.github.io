@@ -10,9 +10,9 @@ xmlhttp.onreadystatechange = function() {
     document.getElementById("hdemo").innerHTML = htxt;
     
     var txt = "" ;
-    txt += "<table>" ;
+    txt += "<table><thead>" ;
 
-    txt += "<tr><th onclick=\"sortTable(0, 0)\">District &#8645</th><th onclick=\"sortTable(1, 1)\" style=\"color:orange;\">Confirmed &#8645</th><th onclick=\"sortTable(2, 1)\" style=\"color:blue;\">Active &#8645</th><th onclick=\"sortTable(3, 1)\" style=\"color:green;\">Recovered &#8645</th><th onclick=\"sortTable(4, 1)\" style=\"color:red;\">Deceased &#8645</th></tr>" ;
+    txt += "<tr><th onclick=\"sortTable(0, 0)\">District &#8645</th><th onclick=\"sortTable(1, 1)\" style=\"color:orange;\">Confirmed &#8645</th><th onclick=\"sortTable(2, 1)\" style=\"color:blue;\">Active &#8645</th><th onclick=\"sortTable(3, 1)\" style=\"color:green;\">Recovered &#8645</th><th onclick=\"sortTable(4, 1)\" style=\"color:red;\">Deceased &#8645</th></tr></thead><tbody>" ;
     var x ;
     for (x = 0; x < len-1; x++) {
       /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */
@@ -37,9 +37,29 @@ xmlhttp.onreadystatechange = function() {
 	  }*/
 	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
-    txt += "</table>"    
-    document.getElementById("demo").innerHTML = txt;
+    txt += "</tbody></table>"    
+    document.getElementById("myTable").innerHTML = txt;
   }
 };
 xmlhttp.open("GET", "Biharcsv.json", true);
 xmlhttp.send();
+
+
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}

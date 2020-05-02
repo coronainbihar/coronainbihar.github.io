@@ -40,7 +40,7 @@ body {
 /* Middle column */
 .column.middle {
   width: 60%;
-  
+  font-size : 1em ;
 }
 
 div {
@@ -53,12 +53,24 @@ div {
   border-left: 6px solid #2196F3;
 }
 
+#myInput {
+  background-image: url('/searchicon.svg');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
 .column.middle table {
   border-collapse: collapse;
   /*border: 1px solid black;*/
   width: 100%;
   resize: both;
   overflow: auto;
+  
 }
 
 .column.middle th {

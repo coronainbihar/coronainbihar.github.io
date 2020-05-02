@@ -76,12 +76,12 @@
     "block": "Kudra"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Kaimur", 
     "color": "", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Mohania"
@@ -120,12 +120,12 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "27", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "26", 
+    "active": "27", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

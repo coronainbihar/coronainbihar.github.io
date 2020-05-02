@@ -24,7 +24,7 @@ xmlhttp.onreadystatechange = function() {
 	  }
 	  
 	  if (myObj[x].color == "red"){
-		  zcolor = " #ff000060" ;
+		  zcolor = " #ff0000a0" ;
 	  }
 	  else if (myObj[x].color == "orange"){
 		  zcolor = " #ff7b0090" ;

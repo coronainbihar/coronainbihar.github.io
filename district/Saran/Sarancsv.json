@@ -221,7 +221,7 @@
 {
     "confirmed": "8", 
     "district": "Saran", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
     "active": "7", 

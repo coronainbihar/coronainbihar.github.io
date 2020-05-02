@@ -199,7 +199,7 @@
 {
     "confirmed": "11", 
     "district": "Begusarai", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "5", 
     "active": "6", 

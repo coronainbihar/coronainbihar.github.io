@@ -155,7 +155,7 @@
 {
     "confirmed": "1", 
     "district": "Purnea", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Purnea/index.html", 
     "recovered": "0", 
     "active": "1", 

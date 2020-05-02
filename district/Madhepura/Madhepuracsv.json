@@ -144,7 +144,7 @@
 {
     "confirmed": "2", 
     "district": "Madhepura", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
     "active": "2", 

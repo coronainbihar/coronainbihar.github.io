@@ -17,10 +17,22 @@ xmlhttp.onreadystatechange = function() {
     for (x = 0; x < len-1; x++) {
       /* txt += "<tr><td>" + myObj[x].name + "</td></tr>"; */
 	  var nc = "" ;
+	  var zcolor = "" ;
+	  
 	  if (myObj[x].new_confirmed > 0){
 		  nc = "<font color = \"red\">[+"+myObj[x].new_confirmed+"]  </font>" ;
 	  }
-	  txt += "<tr onclick=\"window.location=\'"+myObj[x].link+"\';\"><td style=\"background-color:"+myObj[x].color+";\">"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
+	  
+	  if (myObj[x].color == "red"){
+		  zcolor = " #ff000060"
+	  }
+	  else if (myObj[x].color == "orange"){
+		  zcolor = " #ff7b0090"
+	  }
+	  else {
+		  zcolor = " #lightgreen"
+	  }
+	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</table>"    
     document.getElementById("demo").innerHTML = txt;

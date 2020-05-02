@@ -48,9 +48,9 @@
     "color": "", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "3", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "BOKHRA"
 },
 {
@@ -191,9 +191,9 @@
     "color": "", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "6", 
+    "active": "5", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

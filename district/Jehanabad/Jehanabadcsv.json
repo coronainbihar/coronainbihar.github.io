@@ -78,7 +78,7 @@
 {
     "confirmed": "4", 
     "district": "Jehanabad", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "4", 

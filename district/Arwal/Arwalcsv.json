@@ -56,7 +56,7 @@
 {
     "confirmed": "4", 
     "district": "Arwal", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "0", 
     "active": "4", 

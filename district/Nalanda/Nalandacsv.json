@@ -221,7 +221,7 @@
 {
     "confirmed": "36", 
     "district": "Nalanda", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "25", 
     "active": "11", 

@@ -155,7 +155,7 @@
 {
     "confirmed": "18", 
     "district": "Gopalganj", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "3", 
     "active": "15", 

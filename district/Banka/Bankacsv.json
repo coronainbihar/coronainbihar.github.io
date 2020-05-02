@@ -122,7 +122,7 @@
 {
     "confirmed": "2", 
     "district": "Banka", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "2", 

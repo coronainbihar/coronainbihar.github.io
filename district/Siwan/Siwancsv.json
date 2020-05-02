@@ -210,7 +210,7 @@
 {
     "confirmed": "30", 
     "district": "Siwan", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "25", 
     "active": "5", 

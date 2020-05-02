@@ -177,7 +177,7 @@
 {
     "confirmed": "3", 
     "district": "Vaishali", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
     "active": "2", 

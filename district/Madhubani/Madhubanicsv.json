@@ -232,7 +232,7 @@
 {
     "confirmed": "18", 
     "district": "Madhubani", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "18", 

@@ -298,7 +298,7 @@
 {
     "confirmed": "5", 
     "district": "East Champaran", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
     "active": "4", 

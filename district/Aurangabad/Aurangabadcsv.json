@@ -122,7 +122,7 @@
 {
     "confirmed": "8", 
     "district": "Aurangabad", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
     "active": "8", 

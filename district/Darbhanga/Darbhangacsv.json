@@ -199,7 +199,7 @@
 {
     "confirmed": "5", 
     "district": "Darbhanga", 
-    "color": "", 
+    "color": "orange", 
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
     "active": "5", 

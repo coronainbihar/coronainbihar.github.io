@@ -10,13 +10,13 @@
     "block": "Adhaura"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "Kaimur", 
     "color": "", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "10", 
-    "new_confirmed": "2", 
+    "active": "11", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bhabhua"
 },
@@ -120,12 +120,12 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "27", 
+    "confirmed": "28", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "27", 
+    "active": "28", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

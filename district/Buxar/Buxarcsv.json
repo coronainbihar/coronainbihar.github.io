@@ -10,12 +10,12 @@
     "block": "Brahmpur"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Buxar"
@@ -54,12 +54,12 @@
     "block": "Chaugain"
 },
 {
-    "confirmed": "52", 
+    "confirmed": "53", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "47", 
+    "active": "48", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Dumraon"
@@ -120,12 +120,12 @@
     "block": "Simari"
 },
 {
-    "confirmed": "53", 
+    "confirmed": "55", 
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "48", 
+    "active": "50", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

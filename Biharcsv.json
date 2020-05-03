@@ -1,10 +1,10 @@
 [{
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Araria", 
     "color": "", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -32,12 +32,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Banka", 
     "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -234,8 +234,8 @@
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
-    "recovered": "18", 
-    "active": "76", 
+    "recovered": "19", 
+    "active": "75", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -256,8 +256,8 @@
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "25", 
-    "active": "11", 
+    "recovered": "24", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -329,12 +329,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "7", 
     "district": "Saran", 
     "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "8", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

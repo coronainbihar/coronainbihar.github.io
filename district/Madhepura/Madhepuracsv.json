@@ -32,12 +32,12 @@
     "block": "CHAUSA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GHAILADH"
@@ -76,12 +76,12 @@
     "block": "KUMARKHAND"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MADHEPURA"

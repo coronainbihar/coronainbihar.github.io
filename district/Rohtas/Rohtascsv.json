@@ -10,12 +10,12 @@
     "block": "AKORHIGOLA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIKRAMGANJ"
@@ -32,23 +32,23 @@
     "block": "CHENARI"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DAWATH"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DEHRI"
@@ -87,12 +87,12 @@
     "block": "KARGAHAR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "5", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KOCHAS"
@@ -120,12 +120,12 @@
     "block": "NAUHATTA"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NOKHA"
@@ -164,23 +164,23 @@
     "block": "SANJHAULI"
 },
 {
-    "confirmed": "40", 
+    "confirmed": "33", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "40", 
+    "active": "33", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SASARAM"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEOSAGAR"

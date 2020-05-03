@@ -10,23 +10,23 @@
     "block": "AMNOUR"
 },
 {
+    "confirmed": "3", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BANIYAPUR"
+},
+{
     "confirmed": "1", 
     "district": "Saran", 
     "color": "", 
     "link": "district/Saran/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "BANIYAPUR"
-},
-{
-    "confirmed": "5", 
-    "district": "Saran", 
-    "color": "", 
-    "link": "district/Saran/index.html", 
-    "recovered": "0", 
-    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "CHAPRA"
@@ -219,12 +219,12 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "7", 
     "district": "Saran", 
     "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "8", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

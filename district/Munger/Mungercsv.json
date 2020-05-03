@@ -47,8 +47,8 @@
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
-    "recovered": "12", 
-    "active": "73", 
+    "recovered": "13", 
+    "active": "72", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAMALPUR"
@@ -102,8 +102,8 @@
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
-    "recovered": "18", 
-    "active": "76", 
+    "recovered": "19", 
+    "active": "75", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

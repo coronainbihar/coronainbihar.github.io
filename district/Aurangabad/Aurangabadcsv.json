@@ -1,10 +1,10 @@
 [{
-    "confirmed": "5", 
+    "confirmed": "3", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Aurangabad"
@@ -32,12 +32,12 @@
     "block": "Daudnagar"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Deo"
@@ -98,12 +98,12 @@
     "block": "Nabinagar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Obra"

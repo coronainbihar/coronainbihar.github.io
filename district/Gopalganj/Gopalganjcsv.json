@@ -21,23 +21,23 @@
     "block": "Barauli"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "9", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "1", 
-    "active": "2", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bhore"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "2", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "13", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gopalganj"
@@ -54,12 +54,12 @@
     "block": "Hathua"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kateya"
@@ -87,23 +87,23 @@
     "block": "Manjha"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Panchdevari"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Phulwaria"

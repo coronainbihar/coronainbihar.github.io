@@ -1,10 +1,10 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ASTHAWAN"
@@ -21,11 +21,11 @@
     "block": "BEN"
 },
 {
-    "confirmed": "33", 
+    "confirmed": "34", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "23", 
+    "recovered": "24", 
     "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -131,12 +131,12 @@
     "block": "KATRISARAI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "0", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "1", 
-    "active": "1", 
+    "recovered": "0", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAGARNAUSA"
@@ -175,12 +175,12 @@
     "block": "RAHUI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAJGIR"
@@ -197,11 +197,11 @@
     "block": "SARMERA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "1", 
+    "recovered": "0", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -223,8 +223,8 @@
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "25", 
-    "active": "11", 
+    "recovered": "24", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

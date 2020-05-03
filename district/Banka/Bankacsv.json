@@ -10,12 +10,12 @@
     "block": "Amarpur"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Banka"
@@ -120,12 +120,12 @@
     "block": "Shambhuganj"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Banka", 
     "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

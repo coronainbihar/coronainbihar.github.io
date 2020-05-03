@@ -32,14 +32,14 @@
     "block": "CHEHRAKALA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "DESRI"
 },
 {
@@ -131,14 +131,14 @@
     "block": "PATEPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
     "active": "0", 
     "new_confirmed": "0", 
-    "deceased": "1", 
+    "deceased": "0", 
     "block": "RAGHOPUR"
 },
 {
@@ -164,12 +164,12 @@
     "block": "SAHDEI"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "VAISHALI"

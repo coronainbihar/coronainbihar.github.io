@@ -10,23 +10,23 @@
     "block": "Adapur"
 },
 {
-    "confirmed": "0", 
-    "district": "East Champaran", 
-    "color": "", 
-    "link": "district/East Champaran/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Areraj"
-},
-{
     "confirmed": "1", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Areraj"
+},
+{
+    "confirmed": "3", 
+    "district": "East Champaran", 
+    "color": "", 
+    "link": "district/East Champaran/index.html", 
+    "recovered": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Banjariya"
@@ -153,12 +153,12 @@
     "block": "Mehsi"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "0", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Motihari"

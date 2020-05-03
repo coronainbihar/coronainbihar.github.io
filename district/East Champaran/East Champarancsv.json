@@ -54,12 +54,12 @@
     "block": "Chhauradano"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chiraiya"
@@ -153,12 +153,12 @@
     "block": "Mehsi"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Motihari"
@@ -175,12 +175,12 @@
     "block": "Paharpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Pakaridayal"
@@ -296,12 +296,12 @@
     "block": "Bankatwa"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "9", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

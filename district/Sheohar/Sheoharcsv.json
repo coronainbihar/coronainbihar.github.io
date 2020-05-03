@@ -32,12 +32,12 @@
     "block": "PURNAHIYA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Sheohar", 
     "color": "", 
     "link": "district/Sheohar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEOHAR"
@@ -54,12 +54,12 @@
     "block": "TARIYANI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Sheohar", 
-    "color": "", 
+    "color": "green", 
     "link": "district/Sheohar/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

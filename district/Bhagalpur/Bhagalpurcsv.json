@@ -1,21 +1,21 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bihpur"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gauradih"
@@ -43,23 +43,23 @@
     "block": "Ishmailpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jagdishpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kahalgaon"
@@ -87,12 +87,12 @@
     "block": "Narayanpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nathnagar"
@@ -142,12 +142,12 @@
     "block": "Sabour"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Shahkund"
@@ -175,12 +175,12 @@
     "block": "Sultanganj Purushottam"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "11", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "1", 
-    "active": "4", 
+    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

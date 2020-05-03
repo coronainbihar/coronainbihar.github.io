@@ -54,12 +54,12 @@
     "block": "Chaugain"
 },
 {
-    "confirmed": "53", 
+    "confirmed": "54", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "48", 
+    "active": "49", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Dumraon"
@@ -120,12 +120,12 @@
     "block": "Simari"
 },
 {
-    "confirmed": "55", 
+    "confirmed": "56", 
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
     "recovered": "5", 
-    "active": "50", 
+    "active": "51", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

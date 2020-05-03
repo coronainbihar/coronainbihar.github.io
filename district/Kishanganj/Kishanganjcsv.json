@@ -78,7 +78,7 @@
 {
     "confirmed": "0", 
     "district": "Kishanganj", 
-    "color": "", 
+    "color": "green", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
     "active": "0", 

@@ -221,7 +221,7 @@
 {
     "confirmed": "0", 
     "district": "Samastipur", 
-    "color": "", 
+    "color": "green", 
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "0", 

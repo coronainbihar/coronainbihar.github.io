@@ -32,12 +32,12 @@
     "block": "BAIRIYA"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "0", 
     "district": "West Champaran", 
     "color": "", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BETTIAH"
@@ -76,12 +76,12 @@
     "block": "GAUNAHA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "10", 
     "district": "West Champaran", 
     "color": "", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JOGAPATTI"
@@ -197,13 +197,24 @@
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "10", 
     "district": "West Champaran", 
-    "color": "", 
+    "color": "green", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "10", 
     "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]{
+    "confirmed": "0", 
+    "district": "Unknown", 
+    "color": "", 
+    "link": "index.html", 
+    "recovered": "19", 
+    "active": "0", 
+    "new_confirmed": "22", 
     "deceased": "0", 
     "block": "Total"
 }

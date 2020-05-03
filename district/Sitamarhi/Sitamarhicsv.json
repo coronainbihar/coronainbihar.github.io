@@ -188,7 +188,7 @@
 {
     "confirmed": "6", 
     "district": "Sitamarhi", 
-    "color": "", 
+    "color": "green", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
     "active": "5", 

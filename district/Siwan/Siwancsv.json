@@ -21,12 +21,12 @@
     "block": "BARHARIA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Siwan", 
     "color": "", 
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BASANTPUR"
@@ -208,12 +208,12 @@
     "block": "SIWAN"
 },
 {
-    "confirmed": "30", 
+    "confirmed": "31", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "25", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

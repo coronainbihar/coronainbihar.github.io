@@ -10,12 +10,12 @@
     "block": "ASARGANJ"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARIYARPUR"
@@ -43,12 +43,12 @@
     "block": "HAVELI KHARAGPUR"
 },
 {
-    "confirmed": "85", 
+    "confirmed": "87", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "13", 
-    "active": "72", 
+    "active": "74", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAMALPUR"
@@ -87,23 +87,23 @@
     "block": "TARAPURA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "4", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "95", 
+    "confirmed": "102", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "19", 
-    "active": "75", 
+    "active": "82", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

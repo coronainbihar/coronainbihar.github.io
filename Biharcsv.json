@@ -10,23 +10,23 @@
     "block": "Total"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "13", 
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "8", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -230,12 +230,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "95", 
+    "confirmed": "102", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "19", 
-    "active": "75", 
+    "active": "82", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -342,7 +342,7 @@
 {
     "confirmed": "1", 
     "district": "Sheikhpura", 
-    "color": "", 
+    "color": "green", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "22", 
+    "new_confirmed": "35", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "503", 
+    "confirmed": "516", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "119", 
-    "active": "380", 
-    "new_confirmed": "22", 
+    "active": "393", 
+    "new_confirmed": "35", 
     "deceased": "4", 
     "block": "Total"
 }

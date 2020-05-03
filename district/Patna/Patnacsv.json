@@ -175,12 +175,12 @@
     "block": "MOKAMA"
 },
 {
-    "confirmed": "25", 
+    "confirmed": "1", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
-    "recovered": "3", 
-    "active": "22", 
+    "recovered": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAUBATPUR"
@@ -208,23 +208,23 @@
     "block": "PANDARAK"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "35", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
-    "recovered": "0", 
-    "active": "8", 
+    "recovered": "3", 
+    "active": "32", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PATNA SADAR"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "3", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "1", 
-    "active": "5", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PHULWARI SHARIF"

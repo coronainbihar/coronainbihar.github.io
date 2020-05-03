@@ -6,8 +6,9 @@ xmlhttp.onreadystatechange = function() {
     var len = myObj.length ;
 
     var htxt = "" ;
-    htxt += "<c>Confirmed<br>"+"<font color = \"red\">[+"+myObj[len-1].new_confirmed+"]  </font>"+myObj[len-1].confirmed+"</c><a >Active<br>"+myObj[len-1].active+"</a><r>Recovered<br>"+myObj[len-1].recovered+"</r><d>Deceased<br>"+myObj[len-1].deceased+"</d>" ;
+    htxt += "<ccard>Confirmed<br>"+"<font color = \"red\">[+"+myObj[len-1].new_confirmed+"]  </font>"+myObj[len-1].confirmed+"</ccard><acard >Active<br>"+myObj[len-1].active+"</acard><rcard>Recovered<br>"+myObj[len-1].recovered+"</rcard><dcard>Deceased<br>"+myObj[len-1].deceased+"</dcard>" ;
     document.getElementById("hdemo").innerHTML = htxt;
+    
     
     var txt = "" ;
     txt += "<table><thead>" ;
@@ -24,13 +25,13 @@ xmlhttp.onreadystatechange = function() {
 	  }*/
 	  
 	  if (myObj[x].color == "red"){
-		  zcolor = " #ff0000a0" ;
+		  zcolor = " rgba(255, 0, 0, 0.4)" ;
 	  }
 	  else if (myObj[x].color == "orange"){
-		  zcolor = " #ff7b0090" ;
+		  zcolor = " rgba(255, 165, 0, 0.4)" ;
 	  }
-	  else {
-		  zcolor = " lightgreen"
+	  else  {
+		  zcolor = " rgba(0, 128, 0, 0.4)"
 	  }
 	  /*else {
 		  zcolor = " " ;

@@ -176,9 +176,11 @@ for row in reader:
       }
     }
   }
-  function openWin() {
-	  window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
-  }
+  
+}
+
+function openWin() {
+  window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
 }
 
 	'''

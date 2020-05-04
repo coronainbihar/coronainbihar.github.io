@@ -73,6 +73,9 @@ for row in reader:
 	  </div>
 	</div>
 	<div class="footer">
+	  <form>
+		<input type="button" id = "error_button" value="Report an Error / Feedback" onclick="openWin()">
+	  </form>
 	  <p>Developed by <a target="_blank" href="https://www.linkedin.com/in/anand-kumar-verma/">Anand Kumar Verma.</a></p>  
 	</div>
 	</body>
@@ -172,6 +175,9 @@ for row in reader:
         switching = true;
       }
     }
+  }
+  function openWin() {
+	  window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
   }
 }
 

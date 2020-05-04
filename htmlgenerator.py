@@ -276,10 +276,7 @@ function openWin() {
 	};
 	xmlhttp.open("GET", "https://api.covid19india.org/districts_daily.json", true);
 	xmlhttp.send();
-	Highcharts.theme = {
-	  colors: ['blue', 'green', 'red'],
-	};
-	Highcharts.setOptions( Highcharts.theme);'''
+	'''
 
 	htmlfile.write(htmltxt)
 	jsfile.write(jstxt)

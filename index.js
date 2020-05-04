@@ -64,3 +64,7 @@ function myFunction() {
     }       
   }
 }
+
+function openWin() {
+  window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
+}

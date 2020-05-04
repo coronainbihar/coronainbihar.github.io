@@ -287,3 +287,4 @@ function openWin() {
 
 	htmlfile.write(htmltxt)
 	jsfile.write(jstxt)
+	chartfile.write(charttxt)

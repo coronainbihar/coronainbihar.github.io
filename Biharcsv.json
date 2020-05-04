@@ -43,12 +43,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "13", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "5", 
-    "active": "6", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -219,12 +219,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "23", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "18", 
+    "active": "23", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -406,12 +406,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "West Champaran", 
     "color": "orange", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "517", 
+    "confirmed": "525", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "119", 
-    "active": "394", 
-    "new_confirmed": "0", 
+    "active": "402", 
+    "new_confirmed": "8", 
     "deceased": "4", 
     "block": "Total"
 }

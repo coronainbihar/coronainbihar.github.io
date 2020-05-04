@@ -87,12 +87,12 @@
     "block": "JAINAGAR"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "11", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "6", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JHANJHARPUR"
@@ -230,12 +230,12 @@
     "block": "RAJNAGAR"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "23", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "18", 
+    "active": "23", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

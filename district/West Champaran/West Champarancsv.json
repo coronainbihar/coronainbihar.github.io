@@ -76,12 +76,12 @@
     "block": "GAUNAHA"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "West Champaran", 
     "color": "", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JOGAPATTI"
@@ -197,12 +197,12 @@
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "West Champaran", 
     "color": "orange", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -214,7 +214,7 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -1,10 +1,10 @@
 [{
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "1", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bachwara"
@@ -54,12 +54,12 @@
     "block": "Begusarai"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bhagawanpur"
@@ -197,12 +197,12 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "13", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "5", 
-    "active": "6", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

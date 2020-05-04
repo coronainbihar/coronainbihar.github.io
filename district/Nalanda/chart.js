@@ -72,8 +72,13 @@
 			data: deceased
 		  }]
 		});
+		}
 		
 	};
 	xmlhttp.open("GET", "https://api.covid19india.org/districts_daily.json", true);
-	xmlhttp.send();
-	
+xmlhttp.send();
+
+Highcharts.theme = {
+  colors: ['rgba(0, 0, 255, 0.2)', 'rgba(0, 128, 0, 0.2)','rgba(255, 0, 0, 0.2)'],
+};
+Highcharts.setOptions( Highcharts.theme);

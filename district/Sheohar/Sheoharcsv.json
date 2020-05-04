@@ -56,7 +56,7 @@
 {
     "confirmed": "1", 
     "district": "Sheohar", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Sheohar/index.html", 
     "recovered": "0", 
     "active": "1", 

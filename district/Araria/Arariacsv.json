@@ -100,7 +100,7 @@
 {
     "confirmed": "2", 
     "district": "Araria", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
     "active": "2", 

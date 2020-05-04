@@ -177,7 +177,7 @@
 {
     "confirmed": "0", 
     "district": "Muzaffarpur", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
     "active": "0", 

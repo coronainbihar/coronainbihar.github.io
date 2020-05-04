@@ -78,7 +78,7 @@
 {
     "confirmed": "0", 
     "district": "Khagaria", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "0", 

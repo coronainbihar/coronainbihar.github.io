@@ -111,7 +111,7 @@
 {
     "confirmed": "0", 
     "district": "Jamui", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
     "active": "0", 

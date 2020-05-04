@@ -197,12 +197,12 @@
     "block": "RIVILGANJ"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Saran", 
     "color": "", 
     "link": "district/Saran/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SONEPUR"
@@ -219,12 +219,12 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Saran", 
     "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

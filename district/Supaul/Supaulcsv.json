@@ -122,7 +122,7 @@
 {
     "confirmed": "0", 
     "district": "Supaul", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "0", 

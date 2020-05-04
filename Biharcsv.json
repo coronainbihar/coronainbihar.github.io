@@ -1,7 +1,7 @@
 [{
     "confirmed": "2", 
     "district": "Araria", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
     "active": "2", 
@@ -133,7 +133,7 @@
 {
     "confirmed": "0", 
     "district": "Jamui", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -166,7 +166,7 @@
 {
     "confirmed": "5", 
     "district": "Katihar", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "5", 
@@ -177,7 +177,7 @@
 {
     "confirmed": "0", 
     "district": "Khagaria", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -188,7 +188,7 @@
 {
     "confirmed": "0", 
     "district": "Kishanganj", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -243,7 +243,7 @@
 {
     "confirmed": "0", 
     "district": "Muzaffarpur", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -309,7 +309,7 @@
 {
     "confirmed": "0", 
     "district": "Saharsa", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -320,7 +320,7 @@
 {
     "confirmed": "0", 
     "district": "Samastipur", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -329,12 +329,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Saran", 
     "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -342,7 +342,7 @@
 {
     "confirmed": "1", 
     "district": "Sheikhpura", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -353,7 +353,7 @@
 {
     "confirmed": "1", 
     "district": "Sheohar", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Sheohar/index.html", 
     "recovered": "0", 
     "active": "1", 
@@ -364,7 +364,7 @@
 {
     "confirmed": "6", 
     "district": "Sitamarhi", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
     "active": "5", 
@@ -386,7 +386,7 @@
 {
     "confirmed": "0", 
     "district": "Supaul", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "0", 
@@ -408,7 +408,7 @@
 {
     "confirmed": "10", 
     "district": "West Champaran", 
-    "color": "green", 
+    "color": "orange", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
     "active": "10", 
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "35", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "516", 
+    "confirmed": "517", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "119", 
-    "active": "393", 
-    "new_confirmed": "35", 
+    "active": "394", 
+    "new_confirmed": "0", 
     "deceased": "4", 
     "block": "Total"
 }

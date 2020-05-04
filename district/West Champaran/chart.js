@@ -80,5 +80,3 @@
 	  colors: ['blue', 'green', 'red'],
 	};
 	Highcharts.setOptions( Highcharts.theme);
-
-	

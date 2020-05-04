@@ -279,9 +279,7 @@ function openWin() {
 	Highcharts.theme = {
 	  colors: ['blue', 'green', 'red'],
 	};
-	Highcharts.setOptions( Highcharts.theme);
-
-	'''
+	Highcharts.setOptions( Highcharts.theme);'''
 
 	htmlfile.write(htmltxt)
 	jsfile.write(jstxt)

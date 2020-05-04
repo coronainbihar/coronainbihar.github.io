@@ -79,6 +79,6 @@
 xmlhttp.send();
 
 Highcharts.theme = {
-  colors: ['rgba(0, 0, 255, 0.2)', 'rgba(0, 128, 0, 0.2)','rgba(255, 0, 0, 0.2)'],
+  colors: ['rgba(0, 0, 255, 0.4)', 'rgba(0, 128, 0, 0.4)','rgba(255, 0, 0, 0.4)'],
 };
 Highcharts.setOptions( Highcharts.theme);

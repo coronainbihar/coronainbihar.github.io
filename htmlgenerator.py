@@ -7,6 +7,7 @@ for row in reader:
 	district = row[0]
 	htmlurl = row[1]
 	jsurl = row[2]
+	charturl = row[3]
 	
 	if not os.path.exists(os.path.dirname(htmlurl)):
 		try:
@@ -18,6 +19,8 @@ for row in reader:
 	htmlfile = open(htmlurl, 'w')
 
 	jsfile = open(jsurl, 'w')
+	
+	chartfile = open(charturl, 'w')
 
 
 	htmltxt = '''<!DOCTYPE html>
@@ -43,12 +46,22 @@ for row in reader:
 	<meta name="author" content="Anand Kumar Verma">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="../../index.css">
+	<link href="../../chart.css" rel="stylesheet" type="text/css" />
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
 	</head>
 	<body>
 
 	<div class="header">
 	  <h1>Covid-19 Dashboard for '''+district+'''</h1>
 	  <p id="hdemo"></p>
+	  <figure class="highcharts-figure">
+		<div id="container"></div>
+      
+	  </figure>
+	  <script src="chart.js"></script>
 	  
 	</div>
 
@@ -182,6 +195,93 @@ for row in reader:
 function openWin() {
   window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
 }
+
+	'''
+	
+	charttxt = '''
+	var xmlhttp = new XMLHttpRequest();
+	xmlhttp.onreadystatechange = function() {
+	  if (this.readyState == 4 && this.status == 200) {
+		var myObj = JSON.parse(this.responseText);
+		
+		var myDis = myObj.districtsDaily.Bihar.'''+district+''';
+		var len = myDis.length;
+		var x ;
+		var date = [] ;
+		var active = [] ;
+		var confirmed = [];
+		var deceased = [];
+		var recovered = [];
+		for (x = 0 ; x<len ;x++){
+		  active[x] = myDis[x].active ;
+		  confirmed[x] = myDis[x].confirmed ;
+		  deceased[x] = myDis[x].deceased ;
+		  recovered[x] = myDis[x].recovered ;
+		  date[x] = myDis[x].date;
+		}
+		Highcharts.chart('container', {
+		  chart: {
+			type: 'area'
+		  },
+		  title: {
+			text: 'Total cases in '''+district+''' '
+		  },
+		  subtitle: {
+			text: 'Source: covid19india.org'
+		  },
+		  xAxis: {
+			categories: date,
+			tickmarkPlacement: 'on',
+			title: {
+			  enabled: false
+			}
+		  },
+		  yAxis: {
+			title: {
+			  text: ''
+			},
+			labels: {
+			  formatter: function () {
+				return this.value ;
+			  }
+			}
+		  },
+		  tooltip: {
+			split: true,
+			valueSuffix: ' '
+		  },
+		  plotOptions: {
+			area: {
+			  stacking: 'normal',
+			  lineColor: '#666666',
+			  lineWidth: 1,
+			  marker: {
+				lineWidth: 1,
+				lineColor: '#666666'
+			  }
+			}
+		  },
+		  series: [{
+			name: 'Active',
+			data: active
+		  }, {
+			name: 'Recovered',
+			data: recovered
+		  }, {
+			name: 'Deceased',
+			data: deceased
+		  }]
+		});
+		Highcharts.theme = {
+		colors: ['blue', 'green', 'red'],
+		}
+		Highcharts.setOptions(Highcharts.theme);
+	  }
+	  
+	};
+	xmlhttp.open("GET", "https://api.covid19india.org/districts_daily.json", true);
+	xmlhttp.send();
+
 
 	'''
 

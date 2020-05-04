@@ -318,12 +318,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Samastipur", 
     "color": "orange", 
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "8", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "525", 
+    "confirmed": "526", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "119", 
-    "active": "402", 
-    "new_confirmed": "8", 
+    "active": "403", 
+    "new_confirmed": "9", 
     "deceased": "4", 
     "block": "Total"
 }

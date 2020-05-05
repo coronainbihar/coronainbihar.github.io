@@ -58,7 +58,7 @@ xmlhttp.onreadystatechange = function() {
     }
   },
   series: [{
-        name: 'Active',
+        name: 'Confirmed',
         data: confirmed
       }, {
         name: 'Recovered',

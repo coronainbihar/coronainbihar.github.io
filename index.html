@@ -2,25 +2,30 @@
 <html lang="en">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164997550-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164997550-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
 
-  gtag('config', 'UA-164997550-2');
-</script>
+	  gtag('config', 'UA-164997550-2');
+	</script>
 
 
-<title>Coronavirus in Bihar | coronainbihar.github.io</title>
-<meta name="title" content="Coronavirus Outbreak in Bihar: Blockwise Dashboard"/>
-<link rel="icon" type="image/png"  href="/icon.png"/>
-<meta charset="utf-8">
-<meta name="description" content="An effort to track coronavirus outbreak in Bihar with tables of the number of cases by district and block.">
-<meta name="keywords" content="Corona, Bihar, Covid-19, Blockwise, Block, Coronavirus">
-<meta name="author" content="Anand Kumar Verma">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="index.css">
+	<title>Coronavirus in Bihar | coronainbihar.github.io</title>
+	<meta name="title" content="Coronavirus Outbreak in Bihar: Blockwise Dashboard"/>
+	<link rel="icon" type="image/png"  href="/icon.png"/>
+	<meta charset="utf-8">
+	<meta name="description" content="An effort to track coronavirus outbreak in Bihar with tables of the number of cases by district and block.">
+	<meta name="keywords" content="Corona, Bihar, Covid-19, Blockwise, Block, Coronavirus">
+	<meta name="author" content="Anand Kumar Verma">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link href="chart.css" rel="stylesheet" type="text/css" />
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
 </head>
 <body>
 
@@ -34,6 +39,11 @@
   <div class = "cards">
     <p id="hdemo"></p>
   </div>
+  <figure class="highcharts-figure">
+	<div id="container"></div>
+
+  </figure>
+  <script src="chart.js"></script>
 </div>
 
 <div class="row">

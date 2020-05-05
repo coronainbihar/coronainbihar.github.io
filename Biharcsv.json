@@ -373,12 +373,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "31", 
+    "confirmed": "32", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "25", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "5", 
     "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "528", 
+    "confirmed": "529", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "129", 
-    "active": "395", 
-    "new_confirmed": "0", 
+    "active": "396", 
+    "new_confirmed": "1", 
     "deceased": "4", 
     "block": "Total"
 }

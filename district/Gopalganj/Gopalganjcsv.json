@@ -153,6 +153,17 @@
     "block": "Vijaipur"
 },
 {
+    "confirmed": "0", 
+    "district": "Gopalganj", 
+    "color": "", 
+    "link": "district/Gopalganj/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "18", 
     "district": "Gopalganj", 
     "color": "orange", 

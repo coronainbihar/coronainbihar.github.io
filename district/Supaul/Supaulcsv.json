@@ -122,6 +122,17 @@
 {
     "confirmed": "0", 
     "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "0", 
+    "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 

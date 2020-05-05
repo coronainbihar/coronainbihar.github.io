@@ -175,6 +175,17 @@
     "block": "VAISHALI"
 },
 {
+    "confirmed": "0", 
+    "district": "Vaishali", 
+    "color": "", 
+    "link": "district/Vaishali/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "3", 
     "district": "Vaishali", 
     "color": "orange", 

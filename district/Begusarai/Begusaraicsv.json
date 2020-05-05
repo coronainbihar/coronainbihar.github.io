@@ -197,6 +197,17 @@
     "block": "Teghra"
 },
 {
+    "confirmed": "0", 
+    "district": "Begusarai", 
+    "color": "", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "13", 
     "district": "Begusarai", 
     "color": "orange", 

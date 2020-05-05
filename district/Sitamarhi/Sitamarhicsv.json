@@ -186,6 +186,17 @@
     "block": "SURSAND"
 },
 {
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "6", 
     "district": "Sitamarhi", 
     "color": "orange", 

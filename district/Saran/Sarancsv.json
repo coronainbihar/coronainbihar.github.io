@@ -219,6 +219,17 @@
     "block": "TARAIYAN"
 },
 {
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "8", 
     "district": "Saran", 
     "color": "orange", 

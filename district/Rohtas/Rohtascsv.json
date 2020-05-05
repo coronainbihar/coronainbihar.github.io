@@ -208,6 +208,17 @@
     "block": "TILOUTHU"
 },
 {
+    "confirmed": "0", 
+    "district": "Rohtas", 
+    "color": "", 
+    "link": "district/Rohtas/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "52", 
     "district": "Rohtas", 
     "color": "red", 

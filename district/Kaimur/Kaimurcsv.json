@@ -32,12 +32,12 @@
     "block": "Bhagwanpur"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "17", 
     "district": "Kaimur", 
     "color": "", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "15", 
+    "active": "17", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chainpur"
@@ -120,12 +120,23 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "28", 
+    "confirmed": "0", 
+    "district": "Kaimur", 
+    "color": "", 
+    "link": "district/Kaimur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "30", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "28", 
+    "active": "30", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

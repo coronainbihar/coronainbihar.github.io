@@ -208,6 +208,17 @@
     "block": "SIWAN"
 },
 {
+    "confirmed": "0", 
+    "district": "Siwan", 
+    "color": "", 
+    "link": "district/Siwan/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "31", 
     "district": "Siwan", 
     "color": "orange", 

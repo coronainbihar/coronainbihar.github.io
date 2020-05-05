@@ -219,6 +219,17 @@
     "block": "BITHAN"
 },
 {
+    "confirmed": "0", 
+    "district": "Samastipur", 
+    "color": "", 
+    "link": "district/Samastipur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "1", 
     "district": "Samastipur", 
     "color": "orange", 

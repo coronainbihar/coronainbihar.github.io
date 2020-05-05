@@ -120,6 +120,17 @@
     "block": "Shambhuganj"
 },
 {
+    "confirmed": "0", 
+    "district": "Banka", 
+    "color": "", 
+    "link": "district/Banka/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "3", 
     "district": "Banka", 
     "color": "orange", 

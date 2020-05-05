@@ -153,12 +153,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "28", 
+    "confirmed": "30", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
-    "active": "28", 
+    "active": "30", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -423,18 +423,18 @@
     "link": "index.html", 
     "recovered": "21", 
     "active": "0", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "526", 
+    "confirmed": "528", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "119", 
-    "active": "403", 
-    "new_confirmed": "9", 
+    "active": "405", 
+    "new_confirmed": "0", 
     "deceased": "4", 
     "block": "Total"
 }

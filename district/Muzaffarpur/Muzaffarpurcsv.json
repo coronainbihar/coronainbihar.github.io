@@ -177,6 +177,17 @@
 {
     "confirmed": "0", 
     "district": "Muzaffarpur", 
+    "color": "", 
+    "link": "district/Muzaffarpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "0", 
+    "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 

@@ -252,6 +252,17 @@
     "block": "SAMPATCHAK"
 },
 {
+    "confirmed": "0", 
+    "district": "Patna", 
+    "color": "", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "44", 
     "district": "Patna", 
     "color": "red", 

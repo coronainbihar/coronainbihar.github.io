@@ -175,6 +175,17 @@
     "block": "Sultanganj Purushottam"
 },
 {
+    "confirmed": "0", 
+    "district": "Bhagalpur", 
+    "color": "", 
+    "link": "district/Bhagalpur/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "11", 
     "district": "Bhagalpur", 
     "color": "orange", 

@@ -65,6 +65,17 @@
     "block": "SHEKHOPUR SARAI"
 },
 {
+    "confirmed": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "1", 
     "district": "Sheikhpura", 
     "color": "orange", 

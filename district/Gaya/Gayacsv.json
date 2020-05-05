@@ -263,6 +263,17 @@
     "block": "Wazirganj"
 },
 {
+    "confirmed": "0", 
+    "district": "Gaya", 
+    "color": "", 
+    "link": "district/Gaya/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "6", 
     "district": "Gaya", 
     "color": "red", 

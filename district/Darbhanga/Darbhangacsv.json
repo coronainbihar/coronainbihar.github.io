@@ -197,6 +197,17 @@
     "block": "Tardih"
 },
 {
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "5", 
     "district": "Darbhanga", 
     "color": "orange", 

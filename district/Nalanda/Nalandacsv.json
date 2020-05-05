@@ -219,6 +219,17 @@
     "block": "THARTHARI"
 },
 {
+    "confirmed": "0", 
+    "district": "Nalanda", 
+    "color": "", 
+    "link": "district/Nalanda/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
     "confirmed": "36", 
     "district": "Nalanda", 
     "color": "orange", 

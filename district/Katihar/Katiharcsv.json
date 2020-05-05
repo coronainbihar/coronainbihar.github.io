@@ -98,13 +98,13 @@
     "block": "Kadwa"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Katihar"
 },
@@ -176,7 +176,7 @@
 },
 {
     "confirmed": "0", 
-    "district": "Unknown", 
+    "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "Katihar", 
     "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "9", 
-    "new_confirmed": "4", 
+    "active": "10", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 }

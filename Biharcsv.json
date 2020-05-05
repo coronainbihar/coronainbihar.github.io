@@ -164,13 +164,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "Katihar", 
     "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "9", 
-    "new_confirmed": "4", 
+    "active": "10", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "534", 
+    "confirmed": "535", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "134", 
-    "active": "396", 
-    "new_confirmed": "6", 
+    "active": "397", 
+    "new_confirmed": "7", 
     "deceased": "4", 
     "block": "Total"
 }

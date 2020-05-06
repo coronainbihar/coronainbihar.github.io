@@ -108,8 +108,8 @@ Buxar,Kesath,district/Buxar/index.html,0,0,0,0,0,
 Buxar,Nawanagar,district/Buxar/index.html,0,0,0,0,0,
 Buxar,Rajpur,district/Buxar/index.html,0,0,0,0,0,
 Buxar,Simari,district/Buxar/index.html,0,0,0,0,0,
-Buxar,Unknown,district/Buxar/index.html,0,0,0,6,0,
-Buxar,Total,district/Buxar/index.html,0,56,45,11,0,red
+Buxar,Unknown,district/Buxar/index.html,0,0,0,13,0,
+Buxar,Total,district/Buxar/index.html,0,56,38,18,0,red
 Darbhanga,Alinagar,district/Darbhanga/index.html,0,0,0,0,0,
 Darbhanga,Bahadurpur,district/Darbhanga/index.html,0,0,0,0,0,
 Darbhanga,Baheri,district/Darbhanga/index.html,0,0,0,0,0,
@@ -327,8 +327,8 @@ Munger,MUNGER SADAR,district/Munger/index.html,0,10,3,6,1,
 Munger,SANGARAMPUR,district/Munger/index.html,0,0,0,0,0,
 Munger,TARAPURA,district/Munger/index.html,0,0,0,0,0,
 Munger,TETIYA BAMBER,district/Munger/index.html,0,4,4,0,0,
-Munger,Unknown,district/Munger/index.html,0,0,0,5,0,
-Munger,Total,district/Munger/index.html,0,102,77,24,1,red
+Munger,Unknown,district/Munger/index.html,0,0,0,11,0,
+Munger,Total,district/Munger/index.html,0,102,71,30,1,red
 Muzaffarpur,SAHEBGANJ,district/Muzaffarpur/index.html,0,0,0,0,0,
 Muzaffarpur,MOTIPUR,district/Muzaffarpur/index.html,0,0,0,0,0,
 Muzaffarpur,PAROO,district/Muzaffarpur/index.html,0,0,0,0,0,
@@ -384,7 +384,7 @@ Nawada,ROH,district/Nawada/index.html,0,0,0,0,0,
 Nawada,SIRDALA,district/Nawada/index.html,0,0,0,0,0,
 Nawada,WARSALIGANJ,district/Nawada/index.html,0,0,0,0,0,
 Nawada,Unknown,district/Nawada/index.html,0,0,0,0,0,
-Nawada,Total,district/Nawada/index.html,0,4,2,2,0,orange
+Nawada,Total,district/Nawada/index.html,0,4,1,3,0,orange
 Patna,ATHMALGOLA,district/Patna/index.html,0,0,0,0,0,
 Patna,BAKHTIARPUR,district/Patna/index.html,0,1,1,0,0,
 Patna,BARH,district/Patna/index.html,0,0,0,0,0,
@@ -445,8 +445,8 @@ Rohtas,SASARAM,district/Rohtas/index.html,0,33,33,0,0,
 Rohtas,SHEOSAGAR,district/Rohtas/index.html,0,0,0,0,0,
 Rohtas,SURAJPURA,district/Rohtas/index.html,0,0,0,0,0,
 Rohtas,TILOUTHU,district/Rohtas/index.html,0,0,0,0,0,
-Rohtas,Unknown,district/Rohtas/index.html,0,0,0,7,0,
-Rohtas,Total,district/Rohtas/index.html,0,52,45,7,0,red
+Rohtas,Unknown,district/Rohtas/index.html,0,0,0,17,0,
+Rohtas,Total,district/Rohtas/index.html,0,52,35,17,0,red
 Saharsa,KAHRA,district/Saharsa/index.html,0,0,0,0,0,
 Saharsa,SATTAR KATIYA,district/Saharsa/index.html,0,0,0,0,0,
 Saharsa,SAUR BAZAR,district/Saharsa/index.html,0,0,0,0,0,
@@ -609,5 +609,5 @@ West Champaran,SIKTA,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Unknown,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Total,district/West Champaran/index.html,0,11,11,0,0,orange
-Unknown,Total,index.html,0,0,0,26,0,
+Unknown,Total,index.html,0,0,0,2,0,
 Bihar,Total,index.html,1,536,372,160,4,

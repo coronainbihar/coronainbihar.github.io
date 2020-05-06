@@ -168,8 +168,8 @@
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
-    "recovered": "2", 
-    "active": "2", 
+    "recovered": "3", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

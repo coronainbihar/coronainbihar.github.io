@@ -38,7 +38,7 @@ for row in reader:
 
 
 	<title>Coronavirus in '''+district+''' | coronainbihar.github.io</title>
-	<meta name="title" content="Coronavirus Outbreak in'''+district+''': Blockwise Dashboard"/>
+	<meta name="title" content="Coronavirus Outbreak in '''+district+''': Blockwise Dashboard"/>
 	<link rel="icon" type="image/png"  href="../../icon.png"/>
 	<meta charset="utf-8">
 	<meta name="description" content="An effort to track coronavirus outbreak in Bihar with tables of the number of cases by district and block.">

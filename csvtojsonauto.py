@@ -21,7 +21,7 @@ for row in reader:
 			json.dump(row, jsonfile, indent=4, sort_keys=False)
 			jsonfile.write('\n')
 			jsonfile.write(']')
-		elif (row['district']=='Not Confirmed') :
+		elif (row['district']=='Unknown') :
 			json.dump(row, jsonfile, indent=4, sort_keys=False)
 			jsonfile.write(',')
 			jsonfile.write('\n')

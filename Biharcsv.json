@@ -60,7 +60,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "2", 
     "active": "10", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -434,7 +434,7 @@
     "link": "index.html", 
     "recovered": "188", 
     "active": "350", 
-    "new_confirmed": "6", 
+    "new_confirmed": "7", 
     "deceased": "4", 
     "block": "Total"
 }

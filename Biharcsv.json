@@ -54,12 +54,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "2", 
-    "active": "9", 
+    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -428,12 +428,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "541", 
+    "confirmed": "542", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "188", 
-    "active": "349", 
+    "active": "350", 
     "new_confirmed": "6", 
     "deceased": "4", 
     "block": "Total"

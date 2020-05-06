@@ -159,7 +159,7 @@
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
     "active": "31", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -170,7 +170,7 @@
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -379,7 +379,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "25", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -421,7 +421,7 @@
     "district": "Unknown", 
     "color": "", 
     "link": "index.html", 
-    "recovered": "0", 
+    "recovered": "26", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -432,9 +432,9 @@
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
-    "recovered": "134", 
-    "active": "397", 
-    "new_confirmed": "7", 
+    "recovered": "160", 
+    "active": "371", 
+    "new_confirmed": "0", 
     "deceased": "4", 
     "block": "Total"
 }

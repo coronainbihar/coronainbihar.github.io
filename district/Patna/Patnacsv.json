@@ -241,13 +241,13 @@
     "block": "PUNPUN"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "2", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "SAMPATCHAK"
 },
@@ -263,13 +263,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "44", 
+    "confirmed": "45", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "31", 
-    "new_confirmed": "0", 
+    "active": "32", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

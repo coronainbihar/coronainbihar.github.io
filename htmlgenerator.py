@@ -204,7 +204,7 @@ function openWin() {
 	  if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 		
-		var myDis = myObj.districtsDaily.Bihar.'''+district+''';
+		var myDis = myObj.districtsDaily.Bihar["'''+district+'''"];
 		var len = myDis.length;
 		var x ;
 		var date = [] ;

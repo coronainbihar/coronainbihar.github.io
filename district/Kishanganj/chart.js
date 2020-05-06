@@ -4,7 +4,7 @@
 	  if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 		
-		var myDis = myObj.districtsDaily.Bihar.Kishanganj;
+		var myDis = myObj.districtsDaily.Bihar["Kishanganj"];
 		var len = myDis.length;
 		var x ;
 		var date = [] ;

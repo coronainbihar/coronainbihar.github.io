@@ -4,7 +4,7 @@
 	  if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 		
-		var myDis = myObj.districtsDaily.Bihar.West Champaran;
+		var myDis = myObj.districtsDaily.Bihar["West Champaran"];
 		var len = myDis.length;
 		var x ;
 		var date = [] ;

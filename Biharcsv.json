@@ -274,13 +274,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "46", 
+    "confirmed": "47", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "33", 
-    "new_confirmed": "0", 
+    "active": "34", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "549", 
+    "confirmed": "550", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "212", 
-    "active": "332", 
-    "new_confirmed": "7", 
+    "active": "333", 
+    "new_confirmed": "8", 
     "deceased": "5", 
     "block": "Total"
 }

@@ -54,13 +54,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "2", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -186,13 +186,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Kishanganj", 
     "color": "orange", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -424,18 +424,18 @@
     "recovered": "27", 
     "active": "0", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 },
 {
-    "confirmed": "547", 
+    "confirmed": "549", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "212", 
-    "active": "331", 
-    "new_confirmed": "5", 
-    "deceased": "4", 
+    "active": "332", 
+    "new_confirmed": "7", 
+    "deceased": "5", 
     "block": "Total"
 }
 ]

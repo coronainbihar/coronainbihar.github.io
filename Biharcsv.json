@@ -21,13 +21,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "14", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -142,13 +142,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Jehanabad", 
     "color": "orange", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -296,13 +296,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "52", 
+    "confirmed": "54", 
     "district": "Rohtas", 
     "color": "red", 
     "link": "district/Rohtas/index.html", 
     "recovered": "17", 
-    "active": "35", 
-    "new_confirmed": "0", 
+    "active": "37", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "542", 
+    "confirmed": "546", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "212", 
-    "active": "326", 
-    "new_confirmed": "0", 
+    "active": "330", 
+    "new_confirmed": "4", 
     "deceased": "4", 
     "block": "Total"
 }

@@ -16,7 +16,7 @@
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
     "active": "13", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bhabhua"
 },
@@ -137,7 +137,7 @@
     "link": "district/Kaimur/index.html", 
     "recovered": "0", 
     "active": "32", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

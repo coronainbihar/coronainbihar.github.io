@@ -214,7 +214,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "3", 
     "active": "33", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PATNA SADAR"
 },
@@ -247,7 +247,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "2", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SAMPATCHAK"
 },
@@ -269,7 +269,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "13", 
     "active": "33", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

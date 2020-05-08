@@ -21,12 +21,12 @@
     "block": "BEN"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "32", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "28", 
-    "active": "6", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIHARSARIF"
@@ -131,11 +131,11 @@
     "block": "KATRISARAI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "0", 
+    "recovered": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -197,11 +197,11 @@
     "block": "SARMERA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "0", 
+    "recovered": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
@@ -223,7 +223,7 @@
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
-    "recovered": "7", 
+    "recovered": "5", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 

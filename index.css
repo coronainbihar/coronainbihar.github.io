@@ -90,7 +90,7 @@ div {
 }
 
 .column.middle tr:nth-child(even) {
-  background-color: #ffeedb
+  background-color: #eee
 }
 
 .column.middle tr:hover {

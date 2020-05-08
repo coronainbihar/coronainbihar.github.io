@@ -170,7 +170,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
     "active": "35", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SASARAM"
 },
@@ -225,7 +225,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "17", 
     "active": "37", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

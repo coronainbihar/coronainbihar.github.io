@@ -82,7 +82,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Madanpur"
 },
@@ -137,7 +137,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "1", 
     "active": "13", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

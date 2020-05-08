@@ -212,10 +212,10 @@
     "district": "Rohtas", 
     "color": "", 
     "link": "district/Rohtas/index.html", 
-    "recovered": "17", 
+    "recovered": "22", 
     "active": "0", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Unknown"
 },
 {
@@ -223,10 +223,10 @@
     "district": "Rohtas", 
     "color": "red", 
     "link": "district/Rohtas/index.html", 
-    "recovered": "17", 
-    "active": "37", 
+    "recovered": "22", 
+    "active": "31", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

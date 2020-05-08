@@ -32,12 +32,12 @@
     "block": "Halsi"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "1", 
     "district": "Lakhisarai", 
     "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Lakhisarai"
@@ -54,12 +54,12 @@
     "block": "Piparia"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Lakhisarai", 
     "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ramgarh Chowk"

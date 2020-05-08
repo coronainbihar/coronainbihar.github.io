@@ -43,13 +43,13 @@
     "block": "Benipur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Darbhanga", 
     "color": "", 
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Biraul"
 },
@@ -208,13 +208,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "8", 
     "district": "Darbhanga", 
     "color": "orange", 
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

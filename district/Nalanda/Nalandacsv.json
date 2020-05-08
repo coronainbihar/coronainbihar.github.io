@@ -1,11 +1,11 @@
 [{
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "ASTHAWAN"
 },
@@ -230,13 +230,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "36", 
+    "confirmed": "37", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

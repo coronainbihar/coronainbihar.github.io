@@ -54,13 +54,13 @@
     "block": "Chhauradano"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Chiraiya"
 },
@@ -307,13 +307,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "Total"
 }

@@ -10,13 +10,13 @@
     "block": "Alinagar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Bahadurpur"
 },
@@ -208,13 +208,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "district": "Darbhanga", 
     "color": "orange", 
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
-    "active": "8", 
-    "new_confirmed": "3", 
+    "active": "9", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 }

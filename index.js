@@ -36,7 +36,7 @@ xmlhttp.onreadystatechange = function() {
 	  else {
 		  zcolor = " " ;
 	  }
-	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td style=\"color:red;\">"+myObj[x].new_confirmed+"</td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td style=\"color:green;\">"+myObj[x].recovered+"</td><td style=\"color:red;\">"+myObj[x].deceased+"</td></tr>" ;
+	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td style=\"color:red;\">"+myObj[x].new_confirmed+"</td><td>"+nc+myObj[x].confirmed+"</td><td style=\"color:blue;\">"+myObj[x].active+"</td><td style=\"color:green;\">"+myObj[x].recovered+"</td><td style=\"color:red;\">"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</tbody></table>"    
     document.getElementById("myTable").innerHTML = txt;

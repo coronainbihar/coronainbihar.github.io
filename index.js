@@ -31,12 +31,12 @@ xmlhttp.onreadystatechange = function() {
 		  zcolor = " rgba(255, 165, 0, 0.2)" ;
 	  }
 	  else if (myObj[x].color == "green") {
-		  zcolor = " rgba(0, 128, 0, 0.4)"
+		  zcolor = " rgba(0, 128, 0, 0.2)"
 	  }
 	  else {
 		  zcolor = " " ;
 	  }
-	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td><font color = \"red\">"+myObj[x].new_confirmed+"</font></td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td><font color = \"green\">"+myObj[x].recovered+"</font></td><td><font color = \"red\">"+myObj[x].deceased+"</font></td></tr>" ;
+	  txt += "<tr style=\"background-color:"+zcolor+";\" onclick=\"window.location=\'"+myObj[x].link+"\';\"><td>"+myObj[x].district+"</td><td><font color = \"red\">"+myObj[x].new_confirmed+"</font></td><td>"+nc+myObj[x].confirmed+"</td><td>"+myObj[x].active+"</td><td>"+myObj[x].recovered+"</td><td>"+myObj[x].deceased+"</td></tr>" ;
     }
     txt += "</tbody></table>"    
     document.getElementById("myTable").innerHTML = txt;

@@ -340,13 +340,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "579", 
+    "confirmed": "580", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "267", 
-    "active": "307", 
-    "new_confirmed": "0", 
+    "active": "308", 
+    "new_confirmed": "1", 
     "deceased": "5", 
     "block": "Total"
 }

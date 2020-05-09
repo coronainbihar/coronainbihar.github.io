@@ -508,9 +508,9 @@ Sheikhpura,BARBIGHA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,CHEWARA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,GHAT KUSUMBA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,SHEIKHPURA,district/Sheikhpura/index.html,0,1,1,0,0,
-Sheikhpura,SHEKHOPUR SARAI,district/Sheikhpura/index.html,0,0,0,0,0,
+Sheikhpura,SHEKHOPUR SARAI,district/Sheikhpura/index.html,1,1,1,0,0,
 Sheikhpura,Unknown,district/Sheikhpura/index.html,0,0,0,0,0,
-Sheikhpura,Total,district/Sheikhpura/index.html,0,1,1,0,0,orange
+Sheikhpura,Total,district/Sheikhpura/index.html,1,2,2,0,0,orange
 Sheohar,DUMARI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PIPRAHI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PURNAHIYA,district/Sheohar/index.html,0,0,0,0,0,
@@ -610,4 +610,4 @@ West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Unknown,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Total,district/West Champaran/index.html,0,11,11,0,0,orange
 Unknown,Total,index.html,0,0,0,21,0,
-Bihar,Total,index.html,0,579,307,267,5,
+Bihar,Total,index.html,1,580,308,267,5,

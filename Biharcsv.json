@@ -10,13 +10,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "1", 
-    "active": "6", 
-    "new_confirmed": "2", 
+    "active": "7", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -252,13 +252,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "37", 
+    "confirmed": "39", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -373,13 +373,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "32", 
+    "confirmed": "33", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "26", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "585", 
+    "confirmed": "589", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "300", 
-    "active": "280", 
-    "new_confirmed": "6", 
+    "active": "284", 
+    "new_confirmed": "10", 
     "deceased": "5", 
     "block": "Total"
 }

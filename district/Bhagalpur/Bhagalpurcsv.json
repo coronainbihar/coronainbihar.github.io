@@ -93,7 +93,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nathnagar"
 },
@@ -192,7 +192,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
     "active": "11", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

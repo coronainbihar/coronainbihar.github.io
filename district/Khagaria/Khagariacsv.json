@@ -27,7 +27,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chautham"
 },
@@ -49,7 +49,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Khagaria"
 },
@@ -93,7 +93,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

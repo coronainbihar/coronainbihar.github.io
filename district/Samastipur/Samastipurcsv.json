@@ -170,7 +170,7 @@
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ROSERA"
 },
@@ -203,7 +203,7 @@
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HASANPUR"
 },
@@ -236,7 +236,7 @@
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "7", 
-    "new_confirmed": "6", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -87,13 +87,13 @@
     "block": "MINAPUR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Muzaffarpur", 
     "color": "", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "MUSHAHARI"
 },
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -241,13 +241,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "582", 
+    "confirmed": "585", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "300", 
-    "active": "277", 
-    "new_confirmed": "3", 
+    "active": "280", 
+    "new_confirmed": "6", 
     "deceased": "5", 
     "block": "Total"
 }

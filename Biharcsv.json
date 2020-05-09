@@ -65,13 +65,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "19", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "10", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -395,13 +395,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Vaishali", 
     "color": "orange", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "589", 
+    "confirmed": "591", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "300", 
-    "active": "284", 
-    "new_confirmed": "10", 
+    "active": "286", 
+    "new_confirmed": "12", 
     "deceased": "5", 
     "block": "Total"
 }

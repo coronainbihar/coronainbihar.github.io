@@ -93,7 +93,7 @@
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MUSHAHARI"
 },
@@ -192,7 +192,7 @@
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

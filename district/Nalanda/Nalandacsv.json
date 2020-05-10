@@ -60,7 +60,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "EKANGARSARAI"
 },
@@ -82,7 +82,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HARNAUT"
 },
@@ -236,7 +236,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

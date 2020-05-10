@@ -16,7 +16,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "2", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARHARIA"
 },
@@ -225,7 +225,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "26", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

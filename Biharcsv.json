@@ -98,13 +98,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "14", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "4", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -241,13 +241,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -279,9 +279,9 @@
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "21", 
-    "active": "34", 
+    "active": "33", 
     "new_confirmed": "3", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 },
 {
@@ -428,14 +428,14 @@
     "block": "Total"
 },
 {
-    "confirmed": "646", 
+    "confirmed": "653", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "322", 
-    "active": "319", 
-    "new_confirmed": "35", 
-    "deceased": "5", 
+    "active": "325", 
+    "new_confirmed": "42", 
+    "deceased": "6", 
     "block": "Total"
 }
 ]

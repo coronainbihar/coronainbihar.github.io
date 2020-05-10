@@ -37,9 +37,9 @@
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "0", 
     "new_confirmed": "1", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "BELCHHI"
 },
 {
@@ -268,9 +268,9 @@
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "21", 
-    "active": "34", 
+    "active": "33", 
     "new_confirmed": "3", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

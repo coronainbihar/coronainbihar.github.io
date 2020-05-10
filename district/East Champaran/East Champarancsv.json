@@ -65,24 +65,24 @@
     "block": "Chiraiya"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Dhaka"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Ghorasahan"
 },
@@ -307,13 +307,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "14", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "4", 
     "deceased": "1", 
     "block": "Total"
 }

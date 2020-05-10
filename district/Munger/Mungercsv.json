@@ -43,24 +43,24 @@
     "block": "HAVELI KHARAGPUR"
 },
 {
-    "confirmed": "87", 
+    "confirmed": "88", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "30", 
-    "active": "57", 
-    "new_confirmed": "0", 
+    "active": "58", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "JAMALPUR"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "20", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "8", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "10", 
     "deceased": "1", 
     "block": "MUNGER SADAR"
 },
@@ -109,13 +109,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "104", 
+    "confirmed": "115", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "43", 
-    "active": "60", 
-    "new_confirmed": "0", 
+    "active": "71", 
+    "new_confirmed": "11", 
     "deceased": "1", 
     "block": "Total"
 }

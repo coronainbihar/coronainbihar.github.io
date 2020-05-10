@@ -10,13 +10,13 @@
     "block": "Bihpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Gauradih"
 },
@@ -43,13 +43,13 @@
     "block": "Ishmailpur"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "2", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Jagdishpur"
 },
@@ -131,13 +131,13 @@
     "block": "Rangra Chowk"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "6", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Sabour"
 },
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "23", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "20", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 }

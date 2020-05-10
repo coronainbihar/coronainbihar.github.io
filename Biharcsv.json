@@ -54,13 +54,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "23", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "20", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -175,13 +175,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -230,13 +230,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "104", 
+    "confirmed": "115", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "43", 
-    "active": "60", 
-    "new_confirmed": "0", 
+    "active": "71", 
+    "new_confirmed": "11", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -252,13 +252,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "39", 
+    "confirmed": "50", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "11", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -318,13 +318,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Samastipur", 
     "color": "orange", 
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "663", 
+    "confirmed": "696", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "322", 
-    "active": "335", 
-    "new_confirmed": "52", 
+    "active": "368", 
+    "new_confirmed": "85", 
     "deceased": "6", 
     "block": "Total"
 }

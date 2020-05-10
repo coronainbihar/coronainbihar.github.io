@@ -1,11 +1,11 @@
 [{
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Araria", 
     "color": "", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Araria"
 },
@@ -109,13 +109,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Araria", 
     "color": "orange", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "1", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

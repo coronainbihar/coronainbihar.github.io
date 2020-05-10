@@ -1,11 +1,11 @@
 [{
-    "confirmed": "4", 
+    "confirmed": "7", 
     "district": "Arwal", 
     "color": "", 
     "link": "district/Arwal/index.html", 
     "recovered": "1", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Arwal"
 },
@@ -65,13 +65,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "11", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "2", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

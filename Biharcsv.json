@@ -1,22 +1,22 @@
 [{
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Araria", 
     "color": "orange", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "1", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "11", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "2", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -109,13 +109,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "8", 
     "district": "Gaya", 
     "color": "red", 
     "link": "district/Gaya/index.html", 
     "recovered": "6", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -186,13 +186,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "9", 
     "district": "Kishanganj", 
     "color": "orange", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -274,13 +274,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "52", 
+    "confirmed": "55", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "21", 
-    "active": "31", 
-    "new_confirmed": "0", 
+    "active": "34", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "629", 
+    "confirmed": "646", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "322", 
-    "active": "302", 
-    "new_confirmed": "18", 
+    "active": "319", 
+    "new_confirmed": "35", 
     "deceased": "5", 
     "block": "Total"
 }

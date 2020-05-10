@@ -1,11 +1,11 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "5", 
     "district": "Saharsa", 
     "color": "", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "KAHRA"
 },
@@ -98,35 +98,35 @@
     "block": "BANMA ITAHRI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Saharsa", 
     "color": "", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "SIMRI BAKHTIYARPUR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Saharsa", 
     "color": "", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "9", 
     "district": "Saharsa", 
     "color": "orange", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Total"
 }

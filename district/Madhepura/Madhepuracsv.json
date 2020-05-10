@@ -32,13 +32,13 @@
     "block": "CHAUSA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "1", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "GHAILADH"
 },
@@ -98,13 +98,13 @@
     "block": "MURLIGANJ"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "6", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "PURAINI"
 },
@@ -153,13 +153,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "9", 
     "district": "Madhepura", 
     "color": "orange", 
     "link": "district/Madhepura/index.html", 
     "recovered": "2", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -76,13 +76,13 @@
     "block": "Palasi"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Araria", 
     "color": "", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Raniganj"
 },
@@ -109,13 +109,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Araria", 
     "color": "orange", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

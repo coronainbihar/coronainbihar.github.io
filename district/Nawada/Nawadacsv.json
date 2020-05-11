@@ -54,13 +54,13 @@
     "block": "KOWAKOLE"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "MESKAUR"
 },
@@ -131,13 +131,13 @@
     "block": "ROH"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "1", 
+    "active": "6", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "SIRDALA"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "13", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
-    "active": "6", 
-    "new_confirmed": "2", 
+    "active": "10", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 }

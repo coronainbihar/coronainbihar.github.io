@@ -241,13 +241,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "9", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -263,13 +263,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "13", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
-    "active": "6", 
-    "new_confirmed": "2", 
+    "active": "10", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -340,13 +340,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "7", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -362,13 +362,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "1", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "733", 
+    "confirmed": "746", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "367", 
-    "active": "360", 
-    "new_confirmed": "37", 
+    "active": "373", 
+    "new_confirmed": "50", 
     "deceased": "6", 
     "block": "Total"
 }

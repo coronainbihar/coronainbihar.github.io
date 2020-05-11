@@ -43,24 +43,24 @@
     "block": "GHAT KUSUMBA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "district": "Sheikhpura", 
     "color": "", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "SHEIKHPURA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Sheikhpura", 
     "color": "", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "SHEKHOPUR SARAI"
 },
@@ -76,13 +76,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "7", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 }

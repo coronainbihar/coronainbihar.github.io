@@ -1,6 +1,9 @@
 #container {
   height: 400px; 
 }
+#container1 {
+  height: 400px; 
+}
 
 .highcharts-figure, .highcharts-data-table table {
   min-width: 310px; 

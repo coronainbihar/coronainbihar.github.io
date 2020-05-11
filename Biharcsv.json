@@ -417,24 +417,24 @@
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "district": "Unknown", 
     "color": "", 
     "link": "index.html", 
     "recovered": "47", 
     "active": "0", 
-    "new_confirmed": "9", 
+    "new_confirmed": "11", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "705", 
+    "confirmed": "707", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "365", 
-    "active": "334", 
-    "new_confirmed": "9", 
+    "active": "336", 
+    "new_confirmed": "11", 
     "deceased": "6", 
     "block": "Total"
 }

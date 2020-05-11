@@ -27,7 +27,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "0", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARH"
 },
@@ -38,7 +38,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "0", 
     "active": "0", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "BELCHHI"
 },
@@ -203,7 +203,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PANDARAK"
 },
@@ -214,7 +214,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "13", 
     "active": "30", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PATNA SADAR"
 },
@@ -269,7 +269,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "21", 
     "active": "39", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

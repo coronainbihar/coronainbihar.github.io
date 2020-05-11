@@ -49,7 +49,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "CHANDI"
 },
@@ -104,7 +104,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ISLAMPUR"
 },
@@ -115,7 +115,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KARAI PARSURAI"
 },
@@ -137,7 +137,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "1", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAGARNAUSA"
 },
@@ -236,7 +236,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
     "active": "15", 
-    "new_confirmed": "11", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

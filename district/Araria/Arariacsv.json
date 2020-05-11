@@ -5,7 +5,7 @@
     "link": "district/Araria/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Araria"
 },
@@ -82,7 +82,7 @@
     "link": "district/Araria/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Raniganj"
 },
@@ -115,7 +115,7 @@
     "link": "district/Araria/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

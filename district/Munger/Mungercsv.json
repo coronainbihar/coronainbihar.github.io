@@ -49,7 +49,7 @@
     "link": "district/Munger/index.html", 
     "recovered": "30", 
     "active": "58", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "JAMALPUR"
 },
@@ -60,7 +60,7 @@
     "link": "district/Munger/index.html", 
     "recovered": "8", 
     "active": "11", 
-    "new_confirmed": "10", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "MUNGER SADAR"
 },
@@ -115,7 +115,7 @@
     "link": "district/Munger/index.html", 
     "recovered": "43", 
     "active": "71", 
-    "new_confirmed": "11", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

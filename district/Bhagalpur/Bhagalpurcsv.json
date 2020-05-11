@@ -16,7 +16,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gauradih"
 },
@@ -49,7 +49,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "2", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jagdishpur"
 },
@@ -137,7 +137,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
     "active": "6", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sabour"
 },
@@ -192,7 +192,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
     "active": "20", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

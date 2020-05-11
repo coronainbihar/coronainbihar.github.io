@@ -5,7 +5,7 @@
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Alinagar"
 },
@@ -71,7 +71,7 @@
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gaura Bauram"
 },
@@ -214,7 +214,7 @@
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
     "active": "11", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -5,7 +5,7 @@
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KAHRA"
 },
@@ -104,7 +104,7 @@
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIMRI BAKHTIYARPUR"
 },
@@ -115,7 +115,7 @@
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
@@ -126,7 +126,7 @@
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
     "active": "9", 
-    "new_confirmed": "7", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

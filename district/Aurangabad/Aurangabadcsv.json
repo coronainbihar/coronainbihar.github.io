@@ -76,23 +76,23 @@
     "block": "Kutumba"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "1", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "1", 
+    "active": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Madanpur"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nabinagar"
@@ -137,7 +137,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "8", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

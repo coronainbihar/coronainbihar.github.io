@@ -76,13 +76,13 @@
     "block": "PRATAPGANJ"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Supaul", 
     "color": "", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "RAGHOPUR"
 },
@@ -109,13 +109,13 @@
     "block": "SUPAUL"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Supaul", 
     "color": "", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "TRIVENGANJ"
 },
@@ -131,13 +131,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

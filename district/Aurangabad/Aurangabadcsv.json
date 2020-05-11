@@ -76,23 +76,23 @@
     "block": "Kutumba"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Madanpur"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nabinagar"

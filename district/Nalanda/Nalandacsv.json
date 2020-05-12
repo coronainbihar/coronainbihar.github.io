@@ -65,17 +65,6 @@
     "block": "EKANGARSARAI"
 },
 {
-    "confirmed": null, 
-    "district": "<<<<<<< HEAD", 
-    "color": null, 
-    "link": null, 
-    "recovered": null, 
-    "active": null, 
-    "new_confirmed": null, 
-    "deceased": null, 
-    "block": null
-},
-{
     "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
@@ -85,39 +74,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GIRIYAK"
-},
-{
-    "confirmed": null, 
-    "district": "=======", 
-    "color": null, 
-    "link": null, 
-    "recovered": null, 
-    "active": null, 
-    "new_confirmed": null, 
-    "deceased": null, 
-    "block": null
-},
-{
-    "confirmed": "1", 
-    "district": "Nalanda", 
-    "color": "", 
-    "link": "district/Nalanda/index.html", 
-    "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "1", 
-    "deceased": "0", 
-    "block": "GIRIYAK"
-},
-{
-    "confirmed": null, 
-    "district": ">>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7", 
-    "color": null, 
-    "link": null, 
-    "recovered": null, 
-    "active": null, 
-    "new_confirmed": null, 
-    "deceased": null, 
-    "block": null
 },
 {
     "confirmed": "1", 
@@ -272,17 +228,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
-},
-{
-    "confirmed": null, 
-    "district": "<<<<<<< HEAD", 
-    "color": null, 
-    "link": null, 
-    "recovered": null, 
-    "active": null, 
-    "new_confirmed": null, 
-    "deceased": null, 
-    "block": null
 },
 {
     "confirmed": "51", 

@@ -1,82 +1,81 @@
 [{
-    "district": "Supaul",
-    "block": "BASANTPUR",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BASANTPUR"
 },
 {
-    "district": "Supaul",
-    "block": "CHHATAPUR",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHHATAPUR"
 },
 {
-    "district": "Supaul",
-    "block": "KISHANPUR",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KISHANPUR"
 },
 {
-    "district": "Supaul",
-    "block": "MARAUNA",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MARAUNA"
 },
 {
-    "district": "Supaul",
-    "block": "NIRMALI",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NIRMALI"
 },
 {
-    "district": "Supaul",
-    "block": "PIPRA",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PIPRA"
 },
 {
-    "district": "Supaul",
-    "block": "PRATAPGANJ",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PRATAPGANJ"
 },
 {
-<<<<<<< HEAD
     "confirmed": "1", 
     "district": "Supaul", 
     "color": "", 
@@ -86,42 +85,30 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAGHOPUR"
-=======
-    "district": "Supaul",
-    "block": "RAGHOPUR",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "1",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 },
 {
-    "district": "Supaul",
-    "block": "SARAIGARH",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SARAIGARH"
 },
 {
-    "district": "Supaul",
-    "block": "SUPAUL",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SUPAUL"
 },
 {
-<<<<<<< HEAD
     "confirmed": "1", 
     "district": "Supaul", 
     "color": "", 
@@ -131,31 +118,19 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TRIVENGANJ"
-=======
-    "district": "Supaul",
-    "block": "TRIVENGANJ",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "1",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 },
 {
-    "district": "Supaul",
-    "block": "Unknown",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
 },
 {
-<<<<<<< HEAD
     "confirmed": "3", 
     "district": "Supaul", 
     "color": "orange", 
@@ -165,16 +140,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
-=======
-    "district": "Supaul",
-    "block": "Total",
-    "link": "district/Supaul/index.html",
-    "new_confirmed": "2",
-    "confirmed": "3",
-    "active": "3",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 }
 ]

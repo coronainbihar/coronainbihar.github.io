@@ -131,17 +131,6 @@
     "block": "PURNIA"
 },
 {
-<<<<<<< HEAD
-    "district": "Purnea",
-    "block": "RUPOULI",
-    "link": "district/Purnea/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "1", 
     "district": "Purnea", 
     "color": "", 
@@ -151,7 +140,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RUPOULI"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 },
 {
     "confirmed": "0", 
@@ -176,17 +164,6 @@
     "block": "Unknown"
 },
 {
-<<<<<<< HEAD
-    "district": "Purnea",
-    "block": "Total",
-    "link": "district/Purnea/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "3",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "3", 
     "district": "Purnea", 
     "color": "orange", 
@@ -196,6 +173,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

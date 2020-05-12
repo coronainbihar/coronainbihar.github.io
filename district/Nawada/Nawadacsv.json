@@ -21,17 +21,6 @@
     "block": "GOVINDPUR"
 },
 {
-<<<<<<< HEAD
-    "district": "Nawada",
-    "block": "HISUA",
-    "link": "district/Nawada/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "2", 
     "district": "Nawada", 
     "color": "", 
@@ -41,7 +30,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HISUA"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 },
 {
     "confirmed": "0", 
@@ -66,17 +54,6 @@
     "block": "KOWAKOLE"
 },
 {
-<<<<<<< HEAD
-    "district": "Nawada",
-    "block": "MESKAUR",
-    "link": "district/Nawada/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "2",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "3", 
     "district": "Nawada", 
     "color": "", 
@@ -86,7 +63,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MESKAUR"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 },
 {
     "confirmed": "0", 
@@ -155,17 +131,6 @@
     "block": "ROH"
 },
 {
-<<<<<<< HEAD
-    "district": "Nawada",
-    "block": "SIRDALA",
-    "link": "district/Nawada/index.html",
-    "new_confirmed": "0",
-    "confirmed": "6",
-    "active": "6",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "6", 
     "district": "Nawada", 
     "color": "", 
@@ -175,7 +140,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIRDALA"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 },
 {
     "confirmed": "0", 
@@ -200,17 +164,6 @@
     "block": "Unknown"
 },
 {
-<<<<<<< HEAD
-    "district": "Nawada",
-    "block": "Total",
-    "link": "district/Nawada/index.html",
-    "new_confirmed": "0",
-    "confirmed": "13",
-    "active": "10",
-    "recovered": "3",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "13", 
     "district": "Nawada", 
     "color": "orange", 
@@ -220,6 +173,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

@@ -1,224 +1,4 @@
 [{
-<<<<<<< HEAD
-    "district": "Begusarai",
-    "block": "Bachwara",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "1",
-    "recovered": "2",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Bakhri",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "2",
-    "confirmed": "6",
-    "active": "6",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Balia",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "1",
-    "confirmed": "3",
-    "active": "2",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Barauni",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "1",
-    "confirmed": "7",
-    "active": "4",
-    "recovered": "3",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Begusarai",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "1",
-    "confirmed": "4",
-    "active": "4",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Bhagawanpur",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Birpur",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Cheria Bariyarpur",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Chhourahi",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "1",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Dandari",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Garhpura",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "1",
-    "confirmed": "5",
-    "active": "5",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Khodabandpur",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Mansurchak",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Matihani",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Navkothi",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "2",
-    "confirmed": "3",
-    "active": "3",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Sahebpur Kamal",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Samho-Akaha-Kurha",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Teghra",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "1",
-    "recovered": "2",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Unknown",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Begusarai",
-    "block": "Total",
-    "link": "district/Begusarai/index.html",
-    "new_confirmed": "9",
-    "confirmed": "40",
-    "active": "32",
-    "recovered": "8",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
@@ -230,46 +10,46 @@
     "block": "Bachwara"
 },
 {
-    "confirmed": "4", 
-    "district": "Begusarai", 
-    "color": "", 
-    "link": "district/Begusarai/index.html", 
-    "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Bakhri"
-},
-{
-    "confirmed": "2", 
-    "district": "Begusarai", 
-    "color": "", 
-    "link": "district/Begusarai/index.html", 
-    "recovered": "1", 
-    "active": "1", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Balia"
-},
-{
     "confirmed": "6", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
-    "recovered": "3", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "recovered": "0", 
+    "active": "6", 
+    "new_confirmed": "2", 
     "deceased": "0", 
-    "block": "Barauni"
+    "block": "Bakhri"
 },
 {
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
+    "recovered": "1", 
+    "active": "2", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Balia"
+},
+{
+    "confirmed": "7", 
+    "district": "Begusarai", 
+    "color": "", 
+    "link": "district/Begusarai/index.html", 
+    "recovered": "3", 
+    "active": "4", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Barauni"
+},
+{
+    "confirmed": "4", 
+    "district": "Begusarai", 
+    "color": "", 
+    "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Begusarai"
 },
@@ -307,13 +87,13 @@
     "block": "Cheria Bariyarpur"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Chhourahi"
 },
@@ -329,13 +109,13 @@
     "block": "Dandari"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Garhpura"
 },
@@ -373,13 +153,13 @@
     "block": "Matihani"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Navkothi"
 },
@@ -428,15 +208,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "31", 
+    "confirmed": "40", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
-    "active": "23", 
-    "new_confirmed": "0", 
+    "active": "32", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

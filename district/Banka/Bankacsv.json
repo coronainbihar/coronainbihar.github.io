@@ -109,39 +109,6 @@
     "block": "Rajoun"
 },
 {
-<<<<<<< HEAD
-    "district": "Banka",
-    "block": "Shambhuganj",
-    "link": "district/Banka/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Banka",
-    "block": "Unknown",
-    "link": "district/Banka/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Banka",
-    "block": "Total",
-    "link": "district/Banka/index.html",
-    "new_confirmed": "0",
-    "confirmed": "6",
-    "active": "6",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "1", 
     "district": "Banka", 
     "color": "", 
@@ -173,6 +140,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

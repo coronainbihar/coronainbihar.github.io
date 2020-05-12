@@ -21,17 +21,6 @@
     "block": "SATTAR KATIYA"
 },
 {
-<<<<<<< HEAD
-    "district": "Saharsa",
-    "block": "SAUR BAZAR",
-    "link": "district/Saharsa/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "3",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "3", 
     "district": "Saharsa", 
     "color": "", 
@@ -41,7 +30,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SAUR BAZAR"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 },
 {
     "confirmed": "0", 
@@ -132,17 +120,6 @@
     "block": "Unknown"
 },
 {
-<<<<<<< HEAD
-    "district": "Saharsa",
-    "block": "Total",
-    "link": "district/Saharsa/index.html",
-    "new_confirmed": "0",
-    "confirmed": "10",
-    "active": "10",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "10", 
     "district": "Saharsa", 
     "color": "orange", 
@@ -152,6 +129,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

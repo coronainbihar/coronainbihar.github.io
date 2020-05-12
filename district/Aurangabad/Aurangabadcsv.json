@@ -87,13 +87,13 @@
     "block": "Madanpur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "7", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Nabinagar"
 },
@@ -131,13 +131,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "17", 
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "8", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -60,7 +60,7 @@
     "link": "district/Arwal/index.html", 
     "recovered": "1", 
     "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Unknown"
 },
@@ -71,7 +71,7 @@
     "link": "district/Arwal/index.html", 
     "recovered": "2", 
     "active": "9", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

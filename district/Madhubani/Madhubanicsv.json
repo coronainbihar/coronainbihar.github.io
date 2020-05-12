@@ -120,13 +120,13 @@
     "block": "KHAJAULI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "2", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "KHUTAUNA"
 },
@@ -241,13 +241,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "29", 
+    "confirmed": "30", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "29", 
-    "new_confirmed": "3", 
+    "active": "30", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 }

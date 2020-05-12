@@ -32,13 +32,13 @@
     "block": "BARH"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "BELCHHI"
 },
@@ -263,13 +263,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "72", 
+    "confirmed": "73", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "21", 
-    "active": "50", 
-    "new_confirmed": "0", 
+    "active": "51", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "Total"
 }

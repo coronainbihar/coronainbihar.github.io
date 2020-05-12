@@ -120,13 +120,13 @@
     "block": "Pirpainty"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Rangra Chowk"
 },
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "25", 
+    "confirmed": "26", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "23", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

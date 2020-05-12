@@ -1,11 +1,11 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Siwan", 
     "color": "", 
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "ANDAR"
 },
@@ -219,13 +219,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "33", 
+    "confirmed": "34", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "26", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

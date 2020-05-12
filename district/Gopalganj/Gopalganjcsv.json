@@ -43,13 +43,13 @@
     "block": "Gopalganj"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Hathua"
 },
@@ -87,13 +87,13 @@
     "block": "Manjha"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Panchdevari"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "22", 
     "district": "Gopalganj", 
     "color": "orange", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "17", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

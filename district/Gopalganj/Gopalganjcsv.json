@@ -148,7 +148,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Vijaipur"
 },
@@ -170,7 +170,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "17", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

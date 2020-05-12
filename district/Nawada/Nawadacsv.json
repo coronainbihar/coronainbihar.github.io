@@ -27,7 +27,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HISUA"
 },
@@ -60,7 +60,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MESKAUR"
 },
@@ -137,7 +137,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
     "active": "6", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIRDALA"
 },
@@ -170,7 +170,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
     "active": "10", 
-    "new_confirmed": "6", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

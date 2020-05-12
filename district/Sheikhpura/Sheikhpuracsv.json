@@ -10,12 +10,12 @@
     "block": "ARIARI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Sheikhpura", 
     "color": "", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARBIGHA"
@@ -49,7 +49,7 @@
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEIKHPURA"
 },
@@ -60,7 +60,7 @@
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEKHOPUR SARAI"
 },
@@ -76,13 +76,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "7", 
-    "new_confirmed": "5", 
+    "active": "8", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

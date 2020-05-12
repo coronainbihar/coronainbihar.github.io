@@ -115,7 +115,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Shambhuganj"
 },
@@ -126,7 +126,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "0", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
@@ -137,7 +137,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "6", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

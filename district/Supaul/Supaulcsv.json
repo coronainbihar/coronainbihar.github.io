@@ -82,7 +82,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAGHOPUR"
 },
@@ -115,7 +115,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TRIVENGANJ"
 },
@@ -137,7 +137,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

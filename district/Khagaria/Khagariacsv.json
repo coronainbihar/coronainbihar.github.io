@@ -21,13 +21,13 @@
     "block": "Beldaur"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "district": "Khagaria", 
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Chautham"
 },
@@ -87,13 +87,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "12", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -10,6 +10,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Bhojpur",
     "block": "Ara Sadar",
     "link": "district/Bhojpur/index.html",
@@ -19,6 +20,17 @@
     "recovered": "8",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "14", 
+    "district": "Bhojpur", 
+    "color": "", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "8", 
+    "active": "6", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Ara Sadar"
+>>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 },
 {
     "district": "Bhojpur",
@@ -164,6 +176,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Bhojpur",
     "block": "Total",
     "link": "district/Bhojpur/index.html",
@@ -173,5 +186,16 @@
     "recovered": "10",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "21", 
+    "district": "Bhojpur", 
+    "color": "orange", 
+    "link": "district/Bhojpur/index.html", 
+    "recovered": "10", 
+    "active": "11", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 }
 ]

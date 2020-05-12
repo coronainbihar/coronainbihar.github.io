@@ -76,6 +76,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Supaul",
     "block": "RAGHOPUR",
     "link": "district/Supaul/index.html",
@@ -85,6 +86,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "1", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAGHOPUR"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Supaul",
@@ -109,6 +121,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Supaul",
     "block": "TRIVENGANJ",
     "link": "district/Supaul/index.html",
@@ -118,6 +131,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Supaul", 
+    "color": "", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "TRIVENGANJ"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Supaul",
@@ -131,6 +155,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Supaul",
     "block": "Total",
     "link": "district/Supaul/index.html",
@@ -140,5 +165,16 @@
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "4", 
+    "district": "Supaul", 
+    "color": "orange", 
+    "link": "district/Supaul/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 }
 ]

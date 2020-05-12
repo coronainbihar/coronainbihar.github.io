@@ -21,6 +21,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Khagaria",
     "block": "Chautham",
     "link": "district/Khagaria/index.html",
@@ -30,6 +31,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "8", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "8", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Chautham"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Khagaria",
@@ -87,6 +99,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Khagaria",
     "block": "Total",
     "link": "district/Khagaria/index.html",
@@ -96,5 +109,16 @@
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "11", 
+    "district": "Khagaria", 
+    "color": "orange", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "11", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 }
 ]

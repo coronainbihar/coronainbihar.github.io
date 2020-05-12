@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Patna",
     "block": "ATHMALGOLA",
     "link": "district/Patna/index.html",
@@ -8,6 +9,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Patna", 
+    "color": "", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ATHMALGOLA"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Patna",
@@ -32,6 +44,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Patna",
     "block": "BELCHHI",
     "link": "district/Patna/index.html",
@@ -41,6 +54,17 @@
     "recovered": "0",
     "deceased": "1",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Patna", 
+    "color": "", 
+    "link": "district/Patna/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "BELCHHI"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Patna",
@@ -208,6 +232,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Patna",
     "block": "PATNA SADAR",
     "link": "district/Patna/index.html",
@@ -217,6 +242,17 @@
     "recovered": "13",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "51", 
+    "district": "Patna", 
+    "color": "", 
+    "link": "district/Patna/index.html", 
+    "recovered": "13", 
+    "active": "38", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PATNA SADAR"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Patna",
@@ -263,6 +299,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Patna",
     "block": "Total",
     "link": "district/Patna/index.html",
@@ -272,5 +309,16 @@
     "recovered": "21",
     "deceased": "1",
     "color": "red"
+=======
+    "confirmed": "72", 
+    "district": "Patna", 
+    "color": "red", 
+    "link": "district/Patna/index.html", 
+    "recovered": "21", 
+    "active": "50", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "Total"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 }
 ]

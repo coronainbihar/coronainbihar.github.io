@@ -21,6 +21,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Nawada",
     "block": "HISUA",
     "link": "district/Nawada/index.html",
@@ -30,6 +31,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Nawada", 
+    "color": "", 
+    "link": "district/Nawada/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "HISUA"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Nawada",
@@ -54,6 +66,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Nawada",
     "block": "MESKAUR",
     "link": "district/Nawada/index.html",
@@ -63,6 +76,17 @@
     "recovered": "1",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "3", 
+    "district": "Nawada", 
+    "color": "", 
+    "link": "district/Nawada/index.html", 
+    "recovered": "1", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MESKAUR"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Nawada",
@@ -131,6 +155,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Nawada",
     "block": "SIRDALA",
     "link": "district/Nawada/index.html",
@@ -140,6 +165,17 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "6", 
+    "district": "Nawada", 
+    "color": "", 
+    "link": "district/Nawada/index.html", 
+    "recovered": "0", 
+    "active": "6", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SIRDALA"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 },
 {
     "district": "Nawada",
@@ -164,6 +200,7 @@
     "color": ""
 },
 {
+<<<<<<< HEAD
     "district": "Nawada",
     "block": "Total",
     "link": "district/Nawada/index.html",
@@ -173,5 +210,16 @@
     "recovered": "3",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "13", 
+    "district": "Nawada", 
+    "color": "orange", 
+    "link": "district/Nawada/index.html", 
+    "recovered": "3", 
+    "active": "10", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 }
 ]

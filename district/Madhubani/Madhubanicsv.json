@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Madhubani",
     "block": "ANDHARATHARI",
     "link": "district/Madhubani/index.html",
@@ -250,5 +251,258 @@
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ANDHARATHARI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BABUBARHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BASOPATTI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BENIPATTI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BISFI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GHOGHARDIHA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "HARLAKHI"
+},
+{
+    "confirmed": "3", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JAINAGAR"
+},
+{
+    "confirmed": "11", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "11", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JHANJHARPUR"
+},
+{
+    "confirmed": "1", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KALUAHI"
+},
+{
+    "confirmed": "1", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KHAJAULI"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KHUTAUNA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LADANIA"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LAKHANAUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LAUKAHI"
+},
+{
+    "confirmed": "2", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MADHEPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MADHWAPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PANDAUL"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PHULPARAS"
+},
+{
+    "confirmed": "1", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAHIKA"
+},
+{
+    "confirmed": "7", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "7", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAJNAGAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Madhubani", 
+    "color": "", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "26", 
+    "district": "Madhubani", 
+    "color": "orange", 
+    "link": "district/Madhubani/index.html", 
+    "recovered": "0", 
+    "active": "26", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 3ab802ad3207ab942124b8c683474b0cb0367dc7
 }
 ]

@@ -1,27 +1,26 @@
 [{
-    "district": "Khagaria",
-    "block": "Allouli Beldaur",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Allouli Beldaur"
 },
 {
-    "district": "Khagaria",
-    "block": "Beldaur",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Beldaur"
 },
 {
-<<<<<<< HEAD
     "confirmed": "8", 
     "district": "Khagaria", 
     "color": "", 
@@ -31,75 +30,63 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chautham"
-=======
-    "district": "Khagaria",
-    "block": "Chautham",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "5",
-    "confirmed": "8",
-    "active": "8",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 },
 {
-    "district": "Khagaria",
-    "block": "Gogari",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Gogari"
 },
 {
-    "district": "Khagaria",
-    "block": "Khagaria",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "2", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Khagaria"
 },
 {
-    "district": "Khagaria",
-    "block": "Mansi",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Mansi"
 },
 {
-    "district": "Khagaria",
-    "block": "Parbatta",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Parbatta"
 },
 {
-    "district": "Khagaria",
-    "block": "Unknown",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Khagaria", 
+    "color": "", 
+    "link": "district/Khagaria/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
 },
 {
-<<<<<<< HEAD
     "confirmed": "11", 
     "district": "Khagaria", 
     "color": "orange", 
@@ -109,16 +96,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
-=======
-    "district": "Khagaria",
-    "block": "Total",
-    "link": "district/Khagaria/index.html",
-    "new_confirmed": "5",
-    "confirmed": "11",
-    "active": "11",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 }
 ]

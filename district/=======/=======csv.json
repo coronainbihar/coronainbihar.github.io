@@ -1,0 +1,23 @@
+[{
+    "confirmed": null, 
+    "district": "=======", 
+    "color": null, 
+    "link": null, 
+    "recovered": null, 
+    "active": null, 
+    "new_confirmed": null, 
+    "deceased": null, 
+    "block": null
+},
+{
+    "confirmed": "51", 
+    "district": "Nalanda", 
+    "color": "orange", 
+    "link": "district/Nalanda/index.html", 
+    "recovered": "35", 
+    "active": "16", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

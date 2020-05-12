@@ -1,5 +1,4 @@
 [{
-<<<<<<< HEAD
     "confirmed": "2", 
     "district": "Nalanda", 
     "color": "", 
@@ -66,6 +65,17 @@
     "block": "EKANGARSARAI"
 },
 {
+    "confirmed": null, 
+    "district": "<<<<<<< HEAD", 
+    "color": null, 
+    "link": null, 
+    "recovered": null, 
+    "active": null, 
+    "new_confirmed": null, 
+    "deceased": null, 
+    "block": null
+},
+{
     "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
@@ -75,6 +85,39 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GIRIYAK"
+},
+{
+    "confirmed": null, 
+    "district": "=======", 
+    "color": null, 
+    "link": null, 
+    "recovered": null, 
+    "active": null, 
+    "new_confirmed": null, 
+    "deceased": null, 
+    "block": null
+},
+{
+    "confirmed": "1", 
+    "district": "Nalanda", 
+    "color": "", 
+    "link": "district/Nalanda/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "GIRIYAK"
+},
+{
+    "confirmed": null, 
+    "district": ">>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7", 
+    "color": null, 
+    "link": null, 
+    "recovered": null, 
+    "active": null, 
+    "new_confirmed": null, 
+    "deceased": null, 
+    "block": null
 },
 {
     "confirmed": "1", 
@@ -231,6 +274,17 @@
     "block": "Unknown"
 },
 {
+    "confirmed": null, 
+    "district": "<<<<<<< HEAD", 
+    "color": null, 
+    "link": null, 
+    "recovered": null, 
+    "active": null, 
+    "new_confirmed": null, 
+    "deceased": null, 
+    "block": null
+},
+{
     "confirmed": "51", 
     "district": "Nalanda", 
     "color": "orange", 
@@ -240,247 +294,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
-=======
-    "district": "Nalanda",
-    "block": "ASTHAWAN",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "BEN",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "BIHARSARIF",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "32",
-    "active": "4",
-    "recovered": "28",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "BIND",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "CHANDI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "4",
-    "active": "4",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "EKANGARSARAI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "GIRIYAK",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "1",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "HARNAUT",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "HILSA",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "ISLAMPUR",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "5",
-    "active": "5",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "KARAI PARSURAI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "KATRISARAI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "NAGARNAUSA",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "1",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "NOORSARAI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "PARWALPUR",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "RAHUI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "RAJGIR",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "SARMERA",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "SILAO",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "0",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "THARTHARI",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "Unknown",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "5",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Nalanda",
-    "block": "Total",
-    "link": "district/Nalanda/index.html",
-    "new_confirmed": "1",
-    "confirmed": "51",
-    "active": "16",
-    "recovered": "35",
-    "deceased": "0",
-    "color": "orange"
->>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 }
 ]

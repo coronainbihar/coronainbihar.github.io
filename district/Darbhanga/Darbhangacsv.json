@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Darbhanga",
     "block": "Alinagar",
     "link": "district/Darbhanga/index.html",
@@ -217,5 +218,225 @@
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "1", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Alinagar"
+},
+{
+    "confirmed": "1", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Bahadurpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Baheri"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Benipur"
+},
+{
+    "confirmed": "3", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Biraul"
+},
+{
+    "confirmed": "5", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "5", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Darbhanga"
+},
+{
+    "confirmed": "1", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Gaura Bauram"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ghanshyampur"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Hanuman Nagar"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Hayaghat"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Jale"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Keoti"
+},
+{
+    "confirmed": "3", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kiratpur"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kusheswar Asthan"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kusheswar Asthan East"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Manigachhi"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Singhwara"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Tardih"
+},
+{
+    "confirmed": "0", 
+    "district": "Darbhanga", 
+    "color": "", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "14", 
+    "district": "Darbhanga", 
+    "color": "orange", 
+    "link": "district/Darbhanga/index.html", 
+    "recovered": "0", 
+    "active": "14", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

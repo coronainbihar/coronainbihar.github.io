@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Sitamarhi",
     "block": "BAIRGANIA",
     "link": "district/Sitamarhi/index.html",
@@ -206,5 +207,214 @@
     "recovered": "1",
     "deceased": "1",
     "color": "orange"
+=======
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAIRGANIA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAJPATTI"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BATHNAHA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BELSAND"
+},
+{
+    "confirmed": "5", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "BOKHRA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHORAUT"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DUMRA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAJORGANJ"
+},
+{
+    "confirmed": "1", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NANPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PARIHAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PARSAUNI"
+},
+{
+    "confirmed": "1", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PUPRI"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RIGA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RUNNISAIDPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SONBARSA"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SUPPI"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SURSAND"
+},
+{
+    "confirmed": "0", 
+    "district": "Sitamarhi", 
+    "color": "", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "7", 
+    "district": "Sitamarhi", 
+    "color": "orange", 
+    "link": "district/Sitamarhi/index.html", 
+    "recovered": "1", 
+    "active": "5", 
+    "new_confirmed": "0", 
+    "deceased": "1", 
+    "block": "Total"
+>>>>>>> 14bc6a216221cafe011aa662e0cc215aa2392161
 }
 ]

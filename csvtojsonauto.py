@@ -7,7 +7,7 @@ jsonfile = open('Biharcsv.json', 'w')
 
 reader1 = csv.reader(csvfile)
 header = tuple(next(reader1))  # gets the first line
-print header
+print (header)
 fieldnames = header
 reader = csv.DictReader( csvfile, fieldnames)
 

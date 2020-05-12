@@ -353,7 +353,11 @@ Nalanda,BIHARSARIF,district/Nalanda/index.html,0,32,4,28,0,
 Nalanda,BIND,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,CHANDI,district/Nalanda/index.html,0,4,4,0,0,
 Nalanda,EKANGARSARAI,district/Nalanda/index.html,0,1,1,0,0,
+<<<<<<< HEAD
 Nalanda,GIRIYAK,district/Nalanda/index.html,0,1,1,0,0,
+=======
+Nalanda,GIRIYAK,district/Nalanda/index.html,1,1,1,0,0,
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Nalanda,HARNAUT,district/Nalanda/index.html,0,1,1,0,0,
 Nalanda,HILSA,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,ISLAMPUR,district/Nalanda/index.html,0,5,5,0,0,
@@ -368,7 +372,11 @@ Nalanda,SARMERA,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,SILAO,district/Nalanda/index.html,0,1,0,1,0,
 Nalanda,THARTHARI,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,Unknown,district/Nalanda/index.html,0,0,0,5,0,
+<<<<<<< HEAD
 Nalanda,Total,district/Nalanda/index.html,0,51,16,35,0,orange
+=======
+Nalanda,Total,district/Nalanda/index.html,1,51,16,35,0,orange
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Nawada,AKBARPUR,district/Nawada/index.html,0,0,0,0,0,
 Nawada,GOVINDPUR,district/Nawada/index.html,0,0,0,0,0,
 Nawada,HISUA,district/Nawada/index.html,0,2,2,0,0,
@@ -463,7 +471,11 @@ Samastipur,KALYANPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,WARISNAGAR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,KHANPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,SAMASTIPUR,district/Samastipur/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Samastipur,PUSA,district/Samastipur/index.html,0,1,1,0,0,
+=======
+Samastipur,PUSA,district/Samastipur/index.html,1,1,1,0,0,
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Samastipur,TAJPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,MORWA,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,SARAIRANJAN,district/Samastipur/index.html,0,0,0,0,0,
@@ -480,7 +492,11 @@ Samastipur,SINGHIA,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,HASANPUR,district/Samastipur/index.html,0,2,2,0,0,
 Samastipur,BITHAN,district/Samastipur/index.html,0,1,1,0,0,
 Samastipur,Unknown,district/Samastipur/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Samastipur,Total,district/Samastipur/index.html,0,9,9,0,0,orange
+=======
+Samastipur,Total,district/Samastipur/index.html,1,9,9,0,0,orange
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Saran,AMNOUR,district/Saran/index.html,0,1,0,1,0,
 Saran,BANIYAPUR,district/Saran/index.html,0,2,2,0,0,
 Saran,CHAPRA,district/Saran/index.html,0,1,1,0,0,
@@ -504,13 +520,21 @@ Saran,TARAIYAN,district/Saran/index.html,0,0,0,0,0,
 Saran,Unknown,district/Saran/index.html,0,0,0,4,0,
 Saran,Total,district/Saran/index.html,0,8,2,6,0,orange
 Sheikhpura,ARIARI,district/Sheikhpura/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Sheikhpura,BARBIGHA,district/Sheikhpura/index.html,0,1,1,0,0,
+=======
+Sheikhpura,BARBIGHA,district/Sheikhpura/index.html,1,1,1,0,0,
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Sheikhpura,CHEWARA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,GHAT KUSUMBA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,SHEIKHPURA,district/Sheikhpura/index.html,0,4,4,0,0,
 Sheikhpura,SHEKHOPUR SARAI,district/Sheikhpura/index.html,0,3,3,0,0,
 Sheikhpura,Unknown,district/Sheikhpura/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Sheikhpura,Total,district/Sheikhpura/index.html,0,8,8,0,0,orange
+=======
+Sheikhpura,Total,district/Sheikhpura/index.html,6,8,8,0,0,orange
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7
 Sheohar,DUMARI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PIPRAHI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PURNAHIYA,district/Sheohar/index.html,0,0,0,0,0,
@@ -610,4 +634,8 @@ West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Unknown,district/West Champaran/index.html,0,0,0,3,0,
 West Champaran,Total,district/West Champaran/index.html,0,11,8,3,0,orange
 Unknown,Total,index.html,0,0,0,58,0,
+<<<<<<< HEAD
 Bihar,Total,index.html,0,749,367,376,6,
+=======
+Bihar,Total,index.html,53,749,367,376,6,
+>>>>>>> 66c101d740feff8df3759afc0633fbb6385813d7

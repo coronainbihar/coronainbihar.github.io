@@ -1,8 +1,0 @@
-- name: Git Auto Commit
-  uses: stefanzweifel/git-auto-commit-action@v4.1.6
-  
-  with:
-    commit_message: Apply automatic changes
-    commit_user_name: My GitHub Actions Bot
-    commit_user_email: my-github-actions-bot@example.org
-    commit_author: Author <actions@github.com>

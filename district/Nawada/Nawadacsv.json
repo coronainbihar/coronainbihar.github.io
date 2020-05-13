@@ -87,13 +87,13 @@
     "block": "NARHAT"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "NAWADA"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "15", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "12", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

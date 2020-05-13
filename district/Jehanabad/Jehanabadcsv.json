@@ -21,35 +21,35 @@
     "block": "Hulasgunj"
 },
 {
+    "confirmed": "3", 
+    "district": "Jehanabad", 
+    "color": "", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
+    "deceased": "0", 
+    "block": "Jehanabad"
+},
+{
+    "confirmed": "10", 
+    "district": "Jehanabad", 
+    "color": "", 
+    "link": "district/Jehanabad/index.html", 
+    "recovered": "0", 
+    "active": "10", 
+    "new_confirmed": "8", 
+    "deceased": "0", 
+    "block": "Kako"
+},
+{
     "confirmed": "1", 
     "district": "Jehanabad", 
     "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Jehanabad"
-},
-{
-    "confirmed": "2", 
-    "district": "Jehanabad", 
-    "color": "", 
-    "link": "district/Jehanabad/index.html", 
-    "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Kako"
-},
-{
-    "confirmed": "0", 
-    "district": "Jehanabad", 
-    "color": "", 
-    "link": "district/Jehanabad/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Makhdumpur"
 },
@@ -65,13 +65,13 @@
     "block": "Modanganj"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "5", 
     "district": "Jehanabad", 
     "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Ratni Faridpur"
 },
@@ -87,13 +87,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "21", 
     "district": "Jehanabad", 
     "color": "orange", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "1", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "20", 
+    "new_confirmed": "16", 
     "deceased": "0", 
     "block": "Total"
 }

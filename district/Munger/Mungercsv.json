@@ -25,8 +25,8 @@
     "block": "DHARAHARA",
     "link": "district/Munger/index.html",
     "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
+    "confirmed": "1",
+    "active": "1",
     "recovered": "0",
     "deceased": "0",
     "color": ""
@@ -113,8 +113,8 @@
     "block": "Total",
     "link": "district/Munger/index.html",
     "new_confirmed": "0",
-    "confirmed": "115",
-    "active": "71",
+    "confirmed": "116",
+    "active": "72",
     "recovered": "43",
     "deceased": "1",
     "color": "red"

@@ -25,8 +25,8 @@
     "block": "BARH",
     "link": "district/Patna/index.html",
     "new_confirmed": "0",
-    "confirmed": "5",
-    "active": "5",
+    "confirmed": "7",
+    "active": "7",
     "recovered": "0",
     "deceased": "0",
     "color": ""
@@ -35,7 +35,7 @@
     "district": "Patna",
     "block": "BELCHHI",
     "link": "district/Patna/index.html",
-    "new_confirmed": "1",
+    "new_confirmed": "0",
     "confirmed": "3",
     "active": "2",
     "recovered": "0",
@@ -190,8 +190,8 @@
     "block": "PALIGANJ",
     "link": "district/Patna/index.html",
     "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
+    "confirmed": "7",
+    "active": "7",
     "recovered": "0",
     "deceased": "0",
     "color": ""
@@ -201,34 +201,22 @@
     "block": "PANDARAK",
     "link": "district/Patna/index.html",
     "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
+    "confirmed": "5",
+    "active": "5",
     "recovered": "0",
     "deceased": "0",
     "color": ""
 },
 {
-<<<<<<< HEAD
     "district": "Patna",
     "block": "PATNA SADAR",
     "link": "district/Patna/index.html",
-    "new_confirmed": "6",
+    "new_confirmed": "0",
     "confirmed": "57",
     "active": "44",
     "recovered": "13",
     "deceased": "0",
     "color": ""
-=======
-    "confirmed": "57", 
-    "district": "Patna", 
-    "color": "", 
-    "link": "district/Patna/index.html", 
-    "recovered": "13", 
-    "active": "44", 
-    "new_confirmed": "6", 
-    "deceased": "0", 
-    "block": "PATNA SADAR"
->>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 },
 {
     "district": "Patna",
@@ -275,26 +263,14 @@
     "color": ""
 },
 {
-<<<<<<< HEAD
     "district": "Patna",
     "block": "Total",
     "link": "district/Patna/index.html",
-    "new_confirmed": "7",
-    "confirmed": "79",
-    "active": "57",
+    "new_confirmed": "0",
+    "confirmed": "90",
+    "active": "68",
     "recovered": "21",
     "deceased": "1",
     "color": "red"
-=======
-    "confirmed": "79", 
-    "district": "Patna", 
-    "color": "red", 
-    "link": "district/Patna/index.html", 
-    "recovered": "21", 
-    "active": "57", 
-    "new_confirmed": "7", 
-    "deceased": "1", 
-    "block": "Total"
->>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 }
 ]

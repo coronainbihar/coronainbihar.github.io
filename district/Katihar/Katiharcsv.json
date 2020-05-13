@@ -1,5 +1,4 @@
 [{
-<<<<<<< HEAD
     "district": "Katihar",
     "block": "Amdabad",
     "link": "district/Katihar/index.html",
@@ -135,7 +134,7 @@
     "district": "Katihar",
     "block": "Manihari",
     "link": "district/Katihar/index.html",
-    "new_confirmed": "1",
+    "new_confirmed": "0",
     "confirmed": "1",
     "active": "1",
     "recovered": "0",
@@ -190,209 +189,11 @@
     "district": "Katihar",
     "block": "Total",
     "link": "district/Katihar/index.html",
-    "new_confirmed": "1",
+    "new_confirmed": "0",
     "confirmed": "12",
     "active": "12",
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
-=======
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Amdabad"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Azamnagar"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Balrampur"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Barari"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Barsoi"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Dandkhora"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Falka"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Hasanganj"
-},
-{
-    "confirmed": "2", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Kadwa"
-},
-{
-    "confirmed": "3", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Katihar"
-},
-{
-    "confirmed": "5", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Korha"
-},
-{
-    "confirmed": "1", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Kursela"
-},
-{
-    "confirmed": "1", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "1", 
-    "deceased": "0", 
-    "block": "Manihari"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Mansahi"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Pranpur"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Sameli"
-},
-{
-    "confirmed": "0", 
-    "district": "Katihar", 
-    "color": "", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Unknown"
-},
-{
-    "confirmed": "12", 
-    "district": "Katihar", 
-    "color": "orange", 
-    "link": "district/Katihar/index.html", 
-    "recovered": "0", 
-    "active": "12", 
-    "new_confirmed": "1", 
-    "deceased": "0", 
-    "block": "Total"
->>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 }
 ]

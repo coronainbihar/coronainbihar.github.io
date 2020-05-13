@@ -87,27 +87,15 @@
     "color": ""
 },
 {
-<<<<<<< HEAD
     "district": "Aurangabad",
     "block": "Nabinagar",
     "link": "district/Aurangabad/index.html",
-    "new_confirmed": "2",
+    "new_confirmed": "0",
     "confirmed": "7",
     "active": "7",
     "recovered": "0",
     "deceased": "0",
     "color": ""
-=======
-    "confirmed": "7", 
-    "district": "Aurangabad", 
-    "color": "", 
-    "link": "district/Aurangabad/index.html", 
-    "recovered": "0", 
-    "active": "7", 
-    "new_confirmed": "2", 
-    "deceased": "0", 
-    "block": "Nabinagar"
->>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 },
 {
     "district": "Aurangabad",
@@ -143,26 +131,14 @@
     "color": ""
 },
 {
-<<<<<<< HEAD
     "district": "Aurangabad",
     "block": "Total",
     "link": "district/Aurangabad/index.html",
-    "new_confirmed": "2",
+    "new_confirmed": "0",
     "confirmed": "17",
     "active": "9",
     "recovered": "8",
     "deceased": "0",
     "color": "orange"
-=======
-    "confirmed": "17", 
-    "district": "Aurangabad", 
-    "color": "orange", 
-    "link": "district/Aurangabad/index.html", 
-    "recovered": "8", 
-    "active": "9", 
-    "new_confirmed": "2", 
-    "deceased": "0", 
-    "block": "Total"
->>>>>>> 4a4089b062c14cbda0371ddf3a590d6dd17a411c
 }
 ]

@@ -36,8 +36,8 @@
     "block": "Lakhisarai",
     "link": "district/Lakhisarai/index.html",
     "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
+    "confirmed": "2",
+    "active": "2",
     "recovered": "0",
     "deceased": "0",
     "color": ""
@@ -91,8 +91,8 @@
     "block": "Total",
     "link": "district/Lakhisarai/index.html",
     "new_confirmed": "0",
-    "confirmed": "4",
-    "active": "2",
+    "confirmed": "5",
+    "active": "3",
     "recovered": "2",
     "deceased": "0",
     "color": "orange"

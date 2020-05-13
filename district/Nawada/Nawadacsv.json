@@ -91,8 +91,8 @@
     "block": "NAWADA",
     "link": "district/Nawada/index.html",
     "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "0",
+    "confirmed": "3",
+    "active": "2",
     "recovered": "1",
     "deceased": "0",
     "color": ""
@@ -168,8 +168,8 @@
     "block": "Total",
     "link": "district/Nawada/index.html",
     "new_confirmed": "0",
-    "confirmed": "13",
-    "active": "10",
+    "confirmed": "15",
+    "active": "12",
     "recovered": "3",
     "deceased": "0",
     "color": "orange"

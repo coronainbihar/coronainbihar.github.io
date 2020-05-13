@@ -19,6 +19,10 @@
 		  recovered[x] = myDis[x].recovered ;
 		  date[x] = myDis[x].date;
 		}
+		var htxt = "" ;
+		htxt += "<ccard>Confirmed<br>"+confirmed[len-1]+"</ccard><acard >Active<br>"+active[len-1]+"</acard><rcard>Recovered<br>"+recovered[len-1]+"</rcard><dcard>Deceased<br>"+deceased[len-1]+"</dcard>" ;
+		document.getElementById("hdemo").innerHTML = htxt;
+		
 		Highcharts.chart('container', {
 		  chart: {
 			type: 'area'

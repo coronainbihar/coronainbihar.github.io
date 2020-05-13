@@ -5,9 +5,7 @@ var xmlhttp = new XMLHttpRequest();
 		var myObj = JSON.parse(this.responseText);
 		var len = myObj.length ;
 
-		var htxt = "" ;
-		htxt += "<ccard>Confirmed<br>"+"<font color = \"red\">[+"+myObj[len-1].new_confirmed+"]  </font>"+myObj[len-1].confirmed+"</ccard><acard >Active<br>"+myObj[len-1].active+"</acard><rcard>Recovered<br>"+myObj[len-1].recovered+"</rcard><dcard>Deceased<br>"+myObj[len-1].deceased+"</dcard>" ;
-		document.getElementById("hdemo").innerHTML = htxt;
+		
 		
 		var txt = "" ;
 		txt += "<table>" ;

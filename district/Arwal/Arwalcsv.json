@@ -43,28 +43,6 @@
     "block": "Karpi"
 },
 {
-<<<<<<< HEAD
-    "district": "Arwal",
-    "block": "Unknown",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
-},
-{
-    "district": "Arwal",
-    "block": "Total",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "11",
-    "active": "9",
-    "recovered": "2",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "2", 
     "district": "Arwal", 
     "color": "", 
@@ -96,6 +74,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

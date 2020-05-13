@@ -65,17 +65,6 @@
     "block": "Jhajha"
 },
 {
-<<<<<<< HEAD
-    "district": "Jamui",
-    "block": "Khaira",
-    "link": "district/Jamui/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-=======
     "confirmed": "1", 
     "district": "Jamui", 
     "color": "", 
@@ -85,7 +74,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Khaira"
->>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "0", 
@@ -132,17 +120,6 @@
     "block": "Unknown"
 },
 {
-<<<<<<< HEAD
-    "district": "Jamui",
-    "block": "Total",
-    "link": "district/Jamui/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": "orange"
-=======
     "confirmed": "1", 
     "district": "Jamui", 
     "color": "orange", 
@@ -152,6 +129,5 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
->>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

@@ -60,7 +60,7 @@
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GHOGHARDIHA"
 },
@@ -126,7 +126,7 @@
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KHUTAUNA"
 },
@@ -247,7 +247,7 @@
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "30", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

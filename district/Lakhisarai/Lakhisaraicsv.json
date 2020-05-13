@@ -38,7 +38,7 @@
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Lakhisarai"
 },
@@ -93,7 +93,7 @@
     "link": "district/Lakhisarai/index.html", 
     "recovered": "2", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

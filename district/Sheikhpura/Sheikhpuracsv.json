@@ -5,7 +5,7 @@
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ARIARI"
 },
@@ -82,7 +82,7 @@
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

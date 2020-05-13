@@ -16,7 +16,7 @@
     "link": "district/Arwal/index.html", 
     "recovered": "2", 
     "active": "9", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -27,7 +27,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "8", 
     "active": "9", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -38,7 +38,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -49,7 +49,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
     "active": "32", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -60,7 +60,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "3", 
     "active": "23", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -71,7 +71,7 @@
     "link": "district/Bhojpur/index.html", 
     "recovered": "10", 
     "active": "11", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -93,7 +93,7 @@
     "link": "district/Darbhanga/index.html", 
     "recovered": "0", 
     "active": "16", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -126,7 +126,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "17", 
     "active": "5", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -137,7 +137,7 @@
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -148,7 +148,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "1", 
     "active": "20", 
-    "new_confirmed": "16", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -170,7 +170,7 @@
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "12", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -181,7 +181,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "28", 
-    "new_confirmed": "16", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -203,7 +203,7 @@
     "link": "district/Lakhisarai/index.html", 
     "recovered": "2", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -225,7 +225,7 @@
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
     "active": "30", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -236,7 +236,7 @@
     "link": "district/Munger/index.html", 
     "recovered": "43", 
     "active": "72", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -247,7 +247,7 @@
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
     "active": "12", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -258,7 +258,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
     "active": "28", 
-    "new_confirmed": "12", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -269,7 +269,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
     "active": "12", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -280,18 +280,18 @@
     "link": "district/Patna/index.html", 
     "recovered": "21", 
     "active": "68", 
-    "new_confirmed": "18", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 },
 {
     "confirmed": "4", 
-    "district": "Purnea", 
+    "district": "Purnia", 
     "color": "orange", 
-    "link": "district/Purnea/index.html", 
+    "link": "district/Purnia/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -302,7 +302,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "40", 
     "active": "31", 
-    "new_confirmed": "13", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -324,7 +324,7 @@
     "link": "district/Samastipur/index.html", 
     "recovered": "0", 
     "active": "11", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -335,7 +335,7 @@
     "link": "district/Saran/index.html", 
     "recovered": "6", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -346,7 +346,7 @@
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -379,7 +379,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "26", 
     "active": "8", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -390,7 +390,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -412,7 +412,7 @@
     "link": "district/West Champaran/index.html", 
     "recovered": "3", 
     "active": "22", 
-    "new_confirmed": "14", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -434,7 +434,7 @@
     "link": "index.html", 
     "recovered": "383", 
     "active": "490", 
-    "new_confirmed": "130", 
+    "new_confirmed": "0", 
     "deceased": "6", 
     "block": "Total"
 }

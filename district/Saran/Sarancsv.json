@@ -16,7 +16,7 @@
     "link": "district/Saran/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BANIYAPUR"
 },
@@ -27,7 +27,7 @@
     "link": "district/Saran/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "CHAPRA"
 },
@@ -236,7 +236,7 @@
     "link": "district/Saran/index.html", 
     "recovered": "6", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

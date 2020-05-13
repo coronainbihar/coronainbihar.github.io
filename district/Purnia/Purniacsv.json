@@ -1,0 +1,177 @@
+[{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "AMOUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAISA"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAISI"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BANMANKHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BARHARA KOTHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BHAWANIPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DAGARUA"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DHAMDAHA"
+},
+{
+    "confirmed": "1", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JALALGARH"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KRITYANANDNAGAR"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "KASBA"
+},
+{
+    "confirmed": "1", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PURNIA"
+},
+{
+    "confirmed": "1", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RUPOULI"
+},
+{
+    "confirmed": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SRINAGAR"
+},
+{
+    "confirmed": "1", 
+    "district": "Purnia", 
+    "color": "", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "4", 
+    "district": "Purnia", 
+    "color": "orange", 
+    "link": "district/Purnia/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+}
+]

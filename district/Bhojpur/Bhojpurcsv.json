@@ -16,7 +16,7 @@
     "link": "district/Bhojpur/index.html", 
     "recovered": "8", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ara Sadar"
 },
@@ -170,7 +170,7 @@
     "link": "district/Bhojpur/index.html", 
     "recovered": "10", 
     "active": "11", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

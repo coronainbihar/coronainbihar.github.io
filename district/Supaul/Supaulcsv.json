@@ -115,7 +115,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TRIVENGANJ"
 },
@@ -137,7 +137,7 @@
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

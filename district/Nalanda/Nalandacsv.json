@@ -93,7 +93,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HILSA"
 },
@@ -170,7 +170,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "8", 
-    "new_confirmed": "8", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAHUI"
 },
@@ -225,7 +225,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "5", 
     "active": "0", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
@@ -236,7 +236,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "35", 
     "active": "28", 
-    "new_confirmed": "12", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

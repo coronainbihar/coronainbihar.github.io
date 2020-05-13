@@ -93,7 +93,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "0", 
     "active": "7", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nabinagar"
 },
@@ -137,7 +137,7 @@
     "link": "district/Aurangabad/index.html", 
     "recovered": "8", 
     "active": "9", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -16,7 +16,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "6", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bakhri"
 },
@@ -27,7 +27,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "1", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Balia"
 },
@@ -38,7 +38,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "3", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Barauni"
 },
@@ -49,7 +49,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Begusarai"
 },
@@ -93,7 +93,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chhourahi"
 },
@@ -115,7 +115,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "5", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Garhpura"
 },
@@ -159,7 +159,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Navkothi"
 },
@@ -214,7 +214,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
     "active": "32", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

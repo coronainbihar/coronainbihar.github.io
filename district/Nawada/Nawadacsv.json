@@ -93,7 +93,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAWADA"
 },
@@ -170,7 +170,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
     "active": "12", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

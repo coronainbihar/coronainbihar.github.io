@@ -27,7 +27,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jehanabad"
 },
@@ -38,7 +38,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "8", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kako"
 },
@@ -49,7 +49,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Makhdumpur"
 },
@@ -71,7 +71,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ratni Faridpur"
 },
@@ -93,7 +93,7 @@
     "link": "district/Jehanabad/index.html", 
     "recovered": "1", 
     "active": "20", 
-    "new_confirmed": "16", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

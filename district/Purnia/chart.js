@@ -4,7 +4,7 @@
 	  if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 		
-		var myDis = myObj.districtsDaily.Bihar["Purnea"];
+		var myDis = myObj.districtsDaily.Bihar["Purnia"];
 		var len = myDis.length;
 		var x ;
 		var date = [] ;
@@ -24,7 +24,7 @@
 			type: 'area'
 		  },
 		  title: {
-			text: 'Total cases in Purnea '
+			text: 'Total cases in Purnia '
 		  },
 		  subtitle: {
 			text: 'Source: covid19india.org'

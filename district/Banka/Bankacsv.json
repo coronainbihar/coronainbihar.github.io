@@ -5,7 +5,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Amarpur"
 },
@@ -137,7 +137,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

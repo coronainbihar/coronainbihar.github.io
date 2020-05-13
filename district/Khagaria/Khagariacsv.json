@@ -5,7 +5,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Allouli Beldaur"
 },
@@ -16,7 +16,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Beldaur"
 },
@@ -27,7 +27,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "11", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Chautham"
 },
@@ -38,7 +38,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gogari"
 },
@@ -93,7 +93,7 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "28", 
-    "new_confirmed": "16", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

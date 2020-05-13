@@ -71,8 +71,10 @@ for row in reader:
 	  </div>
 	  
 	  <div class="column middle">
-		<p><br></p>
-
+		
+		<div class="info">
+		  <p><strong>Info! </strong> Recovered data is subject to further verification.</p>
+		</div>
 		
 		<div style="overflow-x:auto;">
 			<table id="demo"></table>

@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Saran",
     "block": "AMNOUR",
     "link": "district/Saran/index.html",
@@ -239,5 +240,247 @@
     "recovered": "6",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "1", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "AMNOUR"
+},
+{
+    "confirmed": "3", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "BANIYAPUR"
+},
+{
+    "confirmed": "2", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "CHAPRA"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DARIYAPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "DIGHWARA"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "EKMA"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GARKHA"
+},
+{
+    "confirmed": "1", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "ISHUAPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JALALPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LAHLADPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAKER"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MANJHI"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MARHOURAH"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MASHRAKH"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "NAGRA"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PANAPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PARSA"
+},
+{
+    "confirmed": "1", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RIVILGANJ"
+},
+{
+    "confirmed": "2", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SONEPUR"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "TARAIYAN"
+},
+{
+    "confirmed": "0", 
+    "district": "Saran", 
+    "color": "", 
+    "link": "district/Saran/index.html", 
+    "recovered": "4", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "10", 
+    "district": "Saran", 
+    "color": "orange", 
+    "link": "district/Saran/index.html", 
+    "recovered": "6", 
+    "active": "4", 
+    "new_confirmed": "2", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

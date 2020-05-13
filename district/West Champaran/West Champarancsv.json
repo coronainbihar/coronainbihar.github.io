@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "West Champaran",
     "block": "BAGAHA 1",
     "link": "district/West Champaran/index.html",
@@ -217,5 +218,225 @@
     "recovered": "3",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAGAHA 1"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAGAHA 2"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BAIRIYA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BETTIAH"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BHITHA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHANPATIA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GAUNAHA"
+},
+{
+    "confirmed": "11", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "11", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "JOGAPATTI"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "LAURIYA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MADHUBAN"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAINATAND"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "MAJHAULIA"
+},
+{
+    "confirmed": "1", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "NARKATIAGANJ"
+},
+{
+    "confirmed": "13", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "13", 
+    "new_confirmed": "13", 
+    "deceased": "0", 
+    "block": "NAUTAN"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "PIPRASI"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "RAMNAGAR"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SIKTA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "THAKARAHA"
+},
+{
+    "confirmed": "0", 
+    "district": "West Champaran", 
+    "color": "", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "3", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "25", 
+    "district": "West Champaran", 
+    "color": "orange", 
+    "link": "district/West Champaran/index.html", 
+    "recovered": "3", 
+    "active": "22", 
+    "new_confirmed": "14", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

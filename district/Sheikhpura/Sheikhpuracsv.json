@@ -1,4 +1,5 @@
 [{
+<<<<<<< HEAD
     "district": "Sheikhpura",
     "block": "ARIARI",
     "link": "district/Sheikhpura/index.html",
@@ -8,74 +9,86 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "2", 
+    "deceased": "0", 
+    "block": "ARIARI"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
-    "district": "Sheikhpura",
-    "block": "BARBIGHA",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "BARBIGHA"
 },
 {
-    "district": "Sheikhpura",
-    "block": "CHEWARA",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "CHEWARA"
 },
 {
-    "district": "Sheikhpura",
-    "block": "GHAT KUSUMBA",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "GHAT KUSUMBA"
 },
 {
-    "district": "Sheikhpura",
-    "block": "SHEIKHPURA",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "4",
-    "active": "4",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "4", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "4", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SHEIKHPURA"
 },
 {
-    "district": "Sheikhpura",
-    "block": "SHEKHOPUR SARAI",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "3",
-    "active": "3",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "3", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "SHEKHOPUR SARAI"
 },
 {
-    "district": "Sheikhpura",
-    "block": "Unknown",
-    "link": "district/Sheikhpura/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Sheikhpura", 
+    "color": "", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
 },
 {
+<<<<<<< HEAD
     "district": "Sheikhpura",
     "block": "Total",
     "link": "district/Sheikhpura/index.html",
@@ -85,5 +98,16 @@
     "recovered": "0",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "10", 
+    "district": "Sheikhpura", 
+    "color": "orange", 
+    "link": "district/Sheikhpura/index.html", 
+    "recovered": "0", 
+    "active": "10", 
+    "new_confirmed": "2", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

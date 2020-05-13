@@ -1,37 +1,38 @@
 [{
-    "district": "Lakhisarai",
-    "block": "Barahia",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Barahia"
 },
 {
-    "district": "Lakhisarai",
-    "block": "Channan",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Channan"
 },
 {
-    "district": "Lakhisarai",
-    "block": "Halsi",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Halsi"
 },
 {
+<<<<<<< HEAD
     "district": "Lakhisarai",
     "block": "Lakhisarai",
     "link": "district/Lakhisarai/index.html",
@@ -41,52 +42,64 @@
     "recovered": "0",
     "deceased": "0",
     "color": ""
+=======
+    "confirmed": "2", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Lakhisarai"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
-    "district": "Lakhisarai",
-    "block": "Piparia",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Piparia"
 },
 {
-    "district": "Lakhisarai",
-    "block": "Ramgarh Chowk",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "1",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "1", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Ramgarh Chowk"
 },
 {
-    "district": "Lakhisarai",
-    "block": "Suryagarha",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "1",
-    "active": "0",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "1", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Suryagarha"
 },
 {
-    "district": "Lakhisarai",
-    "block": "Unknown",
-    "link": "district/Lakhisarai/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Unknown"
 },
 {
+<<<<<<< HEAD
     "district": "Lakhisarai",
     "block": "Total",
     "link": "district/Lakhisarai/index.html",
@@ -96,5 +109,16 @@
     "recovered": "2",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "5", 
+    "district": "Lakhisarai", 
+    "color": "orange", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "2", 
+    "active": "3", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

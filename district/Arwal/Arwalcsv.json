@@ -1,59 +1,49 @@
 [{
-    "district": "Arwal",
-    "block": "Arwal",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "7",
-    "active": "6",
-    "recovered": "1",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "7", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "1", 
+    "active": "6", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Arwal"
 },
 {
-    "district": "Arwal",
-    "block": "Sonbhadra Banshi Surypur",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "2", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Sonbhadra Banshi Surypur"
 },
 {
-    "district": "Arwal",
-    "block": "Kaler",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kaler"
 },
 {
-    "district": "Arwal",
-    "block": "Karpi",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "0",
-    "active": "0",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "0", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Karpi"
 },
 {
-    "district": "Arwal",
-    "block": "Kurtha",
-    "link": "district/Arwal/index.html",
-    "new_confirmed": "0",
-    "confirmed": "2",
-    "active": "2",
-    "recovered": "0",
-    "deceased": "0",
-    "color": ""
-},
-{
+<<<<<<< HEAD
     "district": "Arwal",
     "block": "Unknown",
     "link": "district/Arwal/index.html",
@@ -74,5 +64,38 @@
     "recovered": "2",
     "deceased": "0",
     "color": "orange"
+=======
+    "confirmed": "2", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "0", 
+    "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Kurtha"
+},
+{
+    "confirmed": "0", 
+    "district": "Arwal", 
+    "color": "", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "1", 
+    "active": "0", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Unknown"
+},
+{
+    "confirmed": "11", 
+    "district": "Arwal", 
+    "color": "orange", 
+    "link": "district/Arwal/index.html", 
+    "recovered": "2", 
+    "active": "9", 
+    "new_confirmed": "1", 
+    "deceased": "0", 
+    "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

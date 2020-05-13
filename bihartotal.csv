@@ -207,11 +207,16 @@ Jamui,Gidhaur,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Isalmanagar Aliganj,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Jamui,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Jhajha,district/Jamui/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Jamui,Khaira,district/Jamui/index.html,0,1,1,0,0,
+=======
+Jamui,Khaira,district/Jamui/index.html,1,1,1,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Jamui,Laxmipur,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Sikandra,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Sono,district/Jamui/index.html,0,0,0,0,0,
 Jamui,Unknown,district/Jamui/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Jamui,Total,district/Jamui/index.html,0,1,1,0,0,orange
 Jehanabad,Ghoshi,district/Jehanabad/index.html,0,1,0,1,0,
 Jehanabad,Hulasgunj,district/Jehanabad/index.html,0,1,1,0,0,
@@ -222,6 +227,18 @@ Jehanabad,Modanganj,district/Jehanabad/index.html,0,0,0,0,0,
 Jehanabad,Ratni Faridpur,district/Jehanabad/index.html,0,5,5,0,0,
 Jehanabad,Unknown,district/Jehanabad/index.html,0,0,0,0,0,
 Jehanabad,Total,district/Jehanabad/index.html,0,21,20,1,0,orange
+=======
+Jamui,Total,district/Jamui/index.html,1,1,1,0,0,orange
+Jehanabad,Ghoshi,district/Jehanabad/index.html,0,1,0,1,0,
+Jehanabad,Hulasgunj,district/Jehanabad/index.html,0,1,1,0,0,
+Jehanabad,Jehanabad,district/Jehanabad/index.html,2,3,3,0,0,
+Jehanabad,Kako,district/Jehanabad/index.html,8,10,10,0,0,
+Jehanabad,Makhdumpur,district/Jehanabad/index.html,1,1,1,0,0,
+Jehanabad,Modanganj,district/Jehanabad/index.html,0,0,0,0,0,
+Jehanabad,Ratni Faridpur,district/Jehanabad/index.html,5,5,5,0,0,
+Jehanabad,Unknown,district/Jehanabad/index.html,0,0,0,0,0,
+Jehanabad,Total,district/Jehanabad/index.html,16,21,20,1,0,orange
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Kaimur,Adhaura,district/Kaimur/index.html,0,0,0,0,0,
 Kaimur,Bhabhua,district/Kaimur/index.html,0,13,5,8,0,
 Kaimur,Bhagwanpur,district/Kaimur/index.html,0,0,0,0,0,
@@ -274,12 +291,20 @@ Kishanganj,Total,district/Kishanganj/index.html,0,9,9,0,0,orange
 Lakhisarai,Barahia,district/Lakhisarai/index.html,0,0,0,0,0,
 Lakhisarai,Channan,district/Lakhisarai/index.html,0,0,0,0,0,
 Lakhisarai,Halsi,district/Lakhisarai/index.html,0,1,1,0,0,
+<<<<<<< HEAD
 Lakhisarai,Lakhisarai,district/Lakhisarai/index.html,0,2,2,0,0,
+=======
+Lakhisarai,Lakhisarai,district/Lakhisarai/index.html,1,2,2,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Lakhisarai,Piparia,district/Lakhisarai/index.html,0,0,0,0,0,
 Lakhisarai,Ramgarh Chowk,district/Lakhisarai/index.html,0,1,1,0,0,
 Lakhisarai,Suryagarha,district/Lakhisarai/index.html,0,1,0,1,0,
 Lakhisarai,Unknown,district/Lakhisarai/index.html,0,0,0,1,0,
+<<<<<<< HEAD
 Lakhisarai,Total,district/Lakhisarai/index.html,0,5,3,2,0,orange
+=======
+Lakhisarai,Total,district/Lakhisarai/index.html,1,5,3,2,0,orange
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Madhepura,ALAMNAGAR,district/Madhepura/index.html,0,0,0,0,0,
 Madhepura,BIHARIGANJ,district/Madhepura/index.html,0,1,0,1,0,
 Madhepura,CHAUSA,district/Madhepura/index.html,0,0,0,0,0,
@@ -320,7 +345,11 @@ Madhubani,Unknown,district/Madhubani/index.html,0,0,0,0,0,
 Madhubani,Total,district/Madhubani/index.html,0,30,30,0,0,orange
 Munger,ASARGANJ,district/Munger/index.html,0,0,0,0,0,
 Munger,BARIYARPUR,district/Munger/index.html,0,1,1,0,0,
+<<<<<<< HEAD
 Munger,DHARAHARA,district/Munger/index.html,0,1,1,0,0,
+=======
+Munger,DHARAHARA,district/Munger/index.html,1,1,1,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Munger,HAVELI KHARAGPUR,district/Munger/index.html,0,2,2,0,0,
 Munger,JAMALPUR,district/Munger/index.html,0,88,58,30,0,
 Munger,MUNGER SADAR,district/Munger/index.html,0,20,11,8,1,
@@ -328,7 +357,11 @@ Munger,SANGARAMPUR,district/Munger/index.html,0,0,0,0,0,
 Munger,TARAPURA,district/Munger/index.html,0,0,0,0,0,
 Munger,TETIYA BAMBER,district/Munger/index.html,0,4,4,0,0,
 Munger,Unknown,district/Munger/index.html,0,0,0,5,0,
+<<<<<<< HEAD
 Munger,Total,district/Munger/index.html,0,116,72,43,1,red
+=======
+Munger,Total,district/Munger/index.html,1,116,72,43,1,red
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Muzaffarpur,SAHEBGANJ,district/Muzaffarpur/index.html,0,0,0,0,0,
 Muzaffarpur,MOTIPUR,district/Muzaffarpur/index.html,0,0,0,0,0,
 Muzaffarpur,PAROO,district/Muzaffarpur/index.html,0,1,1,0,0,
@@ -355,20 +388,33 @@ Nalanda,CHANDI,district/Nalanda/index.html,0,4,4,0,0,
 Nalanda,EKANGARSARAI,district/Nalanda/index.html,0,1,1,0,0,
 Nalanda,GIRIYAK,district/Nalanda/index.html,0,1,1,0,0,
 Nalanda,HARNAUT,district/Nalanda/index.html,0,1,1,0,0,
+<<<<<<< HEAD
 Nalanda,HILSA,district/Nalanda/index.html,0,3,3,0,0,
+=======
+Nalanda,HILSA,district/Nalanda/index.html,3,3,3,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Nalanda,ISLAMPUR,district/Nalanda/index.html,0,5,5,0,0,
 Nalanda,KARAI PARSURAI,district/Nalanda/index.html,0,1,1,0,0,
 Nalanda,KATRISARAI,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,NAGARNAUSA,district/Nalanda/index.html,0,2,1,1,0,
 Nalanda,NOORSARAI,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,PARWALPUR,district/Nalanda/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Nalanda,RAHUI,district/Nalanda/index.html,0,8,8,0,0,
+=======
+Nalanda,RAHUI,district/Nalanda/index.html,8,8,8,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Nalanda,RAJGIR,district/Nalanda/index.html,0,1,1,0,0,
 Nalanda,SARMERA,district/Nalanda/index.html,0,0,0,0,0,
 Nalanda,SILAO,district/Nalanda/index.html,0,1,0,1,0,
 Nalanda,THARTHARI,district/Nalanda/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Nalanda,Unknown,district/Nalanda/index.html,0,1,0,5,0,
 Nalanda,Total,district/Nalanda/index.html,0,63,28,35,0,orange
+=======
+Nalanda,Unknown,district/Nalanda/index.html,1,1,0,5,0,
+Nalanda,Total,district/Nalanda/index.html,12,63,28,35,0,orange
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Nawada,AKBARPUR,district/Nawada/index.html,0,0,0,0,0,
 Nawada,GOVINDPUR,district/Nawada/index.html,0,0,0,0,0,
 Nawada,HISUA,district/Nawada/index.html,0,2,2,0,0,
@@ -377,18 +423,30 @@ Nawada,KOWAKOLE,district/Nawada/index.html,0,0,0,0,0,
 Nawada,MESKAUR,district/Nawada/index.html,0,3,2,1,0,
 Nawada,NARDIGANJ,district/Nawada/index.html,0,0,0,0,0,
 Nawada,NARHAT,district/Nawada/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Nawada,NAWADA,district/Nawada/index.html,0,3,2,1,0,
+=======
+Nawada,NAWADA,district/Nawada/index.html,2,3,2,1,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Nawada,PAKARIBARAWAN,district/Nawada/index.html,0,0,0,0,0,
 Nawada,RAJAULI,district/Nawada/index.html,0,1,1,0,0,
 Nawada,ROH,district/Nawada/index.html,0,0,0,0,0,
 Nawada,SIRDALA,district/Nawada/index.html,0,6,6,0,0,
 Nawada,WARSALIGANJ,district/Nawada/index.html,0,0,0,0,0,
 Nawada,Unknown,district/Nawada/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Nawada,Total,district/Nawada/index.html,0,15,12,3,0,orange
 Patna,ATHMALGOLA,district/Patna/index.html,0,2,2,0,0,
 Patna,BAKHTIARPUR,district/Patna/index.html,0,1,0,1,0,
 Patna,BARH,district/Patna/index.html,0,7,7,0,0,
 Patna,BELCHHI,district/Patna/index.html,0,3,2,0,1,
+=======
+Nawada,Total,district/Nawada/index.html,2,15,12,3,0,orange
+Patna,ATHMALGOLA,district/Patna/index.html,0,2,2,0,0,
+Patna,BAKHTIARPUR,district/Patna/index.html,0,1,0,1,0,
+Patna,BARH,district/Patna/index.html,2,7,7,0,0,
+Patna,BELCHHI,district/Patna/index.html,1,3,2,0,1,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Patna,BIHTA,district/Patna/index.html,0,0,0,0,0,
 Patna,BIKRAM,district/Patna/index.html,0,0,0,0,0,
 Patna,DANAPUR,district/Patna/index.html,0,0,0,0,0,
@@ -402,14 +460,24 @@ Patna,MANER,district/Patna/index.html,0,0,0,0,0,
 Patna,MASAURHI,district/Patna/index.html,0,1,1,0,0,
 Patna,MOKAMA,district/Patna/index.html,0,0,0,0,0,
 Patna,NAUBATPUR,district/Patna/index.html,0,1,0,1,0,
+<<<<<<< HEAD
 Patna,PALIGANJ,district/Patna/index.html,0,7,7,0,0,
 Patna,PANDARAK,district/Patna/index.html,0,5,5,0,0,
 Patna,PATNA SADAR,district/Patna/index.html,0,57,44,13,0,
+=======
+Patna,PALIGANJ,district/Patna/index.html,6,7,7,0,0,
+Patna,PANDARAK,district/Patna/index.html,3,5,5,0,0,
+Patna,PATNA SADAR,district/Patna/index.html,6,57,44,13,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Patna,PHULWARI SHARIF,district/Patna/index.html,0,3,2,1,0,
 Patna,PUNPUN,district/Patna/index.html,0,0,0,0,0,
 Patna,SAMPATCHAK,district/Patna/index.html,0,3,1,2,0,
 Patna,Unknown,district/Patna/index.html,0,0,0,3,0,
+<<<<<<< HEAD
 Patna,Total,district/Patna/index.html,0,90,68,21,1,red
+=======
+Patna,Total,district/Patna/index.html,18,90,68,21,1,red
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Purnea,AMOUR,district/Purnea/index.html,0,0,0,0,0,
 Purnea,BAISA,district/Purnea/index.html,0,0,0,0,0,
 Purnea,BAISI,district/Purnea/index.html,0,0,0,0,0,
@@ -467,12 +535,20 @@ Samastipur,PUSA,district/Samastipur/index.html,0,1,1,0,0,
 Samastipur,TAJPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,MORWA,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,SARAIRANJAN,district/Samastipur/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Samastipur,PATORI,district/Samastipur/index.html,0,1,1,0,0,
+=======
+Samastipur,PATORI,district/Samastipur/index.html,1,1,1,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Samastipur,MOHANPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,MOHIUDDINNAGAR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,VIDYAPATINAGAR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,DALSINGSARAI,district/Samastipur/index.html,0,1,1,0,0,
+<<<<<<< HEAD
 Samastipur,UJIYARPUR,district/Samastipur/index.html,0,1,1,0,0,
+=======
+Samastipur,UJIYARPUR,district/Samastipur/index.html,1,1,1,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Samastipur,BIBHUTIPUR,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,ROSERA,district/Samastipur/index.html,0,4,4,0,0,
 Samastipur,SHIVAJEENAGAR,district/Samastipur/index.html,0,0,0,0,0,
@@ -480,10 +556,17 @@ Samastipur,SINGHIA,district/Samastipur/index.html,0,0,0,0,0,
 Samastipur,HASANPUR,district/Samastipur/index.html,0,2,2,0,0,
 Samastipur,BITHAN,district/Samastipur/index.html,0,1,1,0,0,
 Samastipur,Unknown,district/Samastipur/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Samastipur,Total,district/Samastipur/index.html,0,11,11,0,0,orange
 Saran,AMNOUR,district/Saran/index.html,0,1,0,1,0,
 Saran,BANIYAPUR,district/Saran/index.html,0,3,3,0,0,
 Saran,CHAPRA,district/Saran/index.html,0,2,2,0,0,
+=======
+Samastipur,Total,district/Samastipur/index.html,2,11,11,0,0,orange
+Saran,AMNOUR,district/Saran/index.html,0,1,0,1,0,
+Saran,BANIYAPUR,district/Saran/index.html,1,3,3,0,0,
+Saran,CHAPRA,district/Saran/index.html,1,2,2,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Saran,DARIYAPUR,district/Saran/index.html,0,0,0,0,0,
 Saran,DIGHWARA,district/Saran/index.html,0,0,0,0,0,
 Saran,EKMA,district/Saran/index.html,0,0,0,0,0,
@@ -502,15 +585,24 @@ Saran,RIVILGANJ,district/Saran/index.html,0,1,1,0,0,
 Saran,SONEPUR,district/Saran/index.html,0,2,2,0,0,
 Saran,TARAIYAN,district/Saran/index.html,0,0,0,0,0,
 Saran,Unknown,district/Saran/index.html,0,0,0,4,0,
+<<<<<<< HEAD
 Saran,Total,district/Saran/index.html,0,10,4,6,0,orange
 Sheikhpura,ARIARI,district/Sheikhpura/index.html,0,2,2,0,0,
+=======
+Saran,Total,district/Saran/index.html,2,10,4,6,0,orange
+Sheikhpura,ARIARI,district/Sheikhpura/index.html,2,2,2,0,0,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Sheikhpura,BARBIGHA,district/Sheikhpura/index.html,0,1,1,0,0,
 Sheikhpura,CHEWARA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,GHAT KUSUMBA,district/Sheikhpura/index.html,0,0,0,0,0,
 Sheikhpura,SHEIKHPURA,district/Sheikhpura/index.html,0,4,4,0,0,
 Sheikhpura,SHEKHOPUR SARAI,district/Sheikhpura/index.html,0,3,3,0,0,
 Sheikhpura,Unknown,district/Sheikhpura/index.html,0,0,0,0,0,
+<<<<<<< HEAD
 Sheikhpura,Total,district/Sheikhpura/index.html,0,10,10,0,0,orange
+=======
+Sheikhpura,Total,district/Sheikhpura/index.html,2,10,10,0,0,orange
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 Sheohar,DUMARI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PIPRAHI,district/Sheohar/index.html,0,0,0,0,0,
 Sheohar,PURNAHIYA,district/Sheohar/index.html,0,0,0,0,0,
@@ -610,4 +702,8 @@ West Champaran,THAKARAHA,district/West Champaran/index.html,0,0,0,0,0,
 West Champaran,Unknown,district/West Champaran/index.html,0,0,0,3,0,
 West Champaran,Total,district/West Champaran/index.html,0,25,22,3,0,orange
 Unknown,Total,index.html,0,0,0,65,0,
+<<<<<<< HEAD
 Bihar,Total,index.html,0,879,490,383,6,
+=======
+Bihar,Total,index.html,130,879,490,383,6,
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc

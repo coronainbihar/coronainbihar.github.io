@@ -21,6 +21,39 @@
     "block": "Hulasgunj"
 },
 {
+<<<<<<< HEAD
+    "district": "Jehanabad",
+    "block": "Jehanabad",
+    "link": "district/Jehanabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "3",
+    "active": "3",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Jehanabad",
+    "block": "Kako",
+    "link": "district/Jehanabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "10",
+    "active": "10",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Jehanabad",
+    "block": "Makhdumpur",
+    "link": "district/Jehanabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "1",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "3", 
     "district": "Jehanabad", 
     "color": "", 
@@ -52,6 +85,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Makhdumpur"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "0", 
@@ -65,6 +99,17 @@
     "block": "Modanganj"
 },
 {
+<<<<<<< HEAD
+    "district": "Jehanabad",
+    "block": "Ratni Faridpur",
+    "link": "district/Jehanabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "5",
+    "active": "5",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "5", 
     "district": "Jehanabad", 
     "color": "", 
@@ -74,6 +119,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ratni Faridpur"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "0", 
@@ -87,6 +133,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Jehanabad",
+    "block": "Total",
+    "link": "district/Jehanabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "21",
+    "active": "20",
+    "recovered": "1",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "21", 
     "district": "Jehanabad", 
     "color": "orange", 
@@ -96,5 +153,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

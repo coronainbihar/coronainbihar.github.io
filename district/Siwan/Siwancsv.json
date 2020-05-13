@@ -1,4 +1,235 @@
 [{
+<<<<<<< HEAD
+    "district": "Siwan",
+    "block": "ANDAR",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "1",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "BARHARIA",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "3",
+    "active": "1",
+    "recovered": "2",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "BASANTPUR",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "2",
+    "active": "2",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "BHAGWANPUR",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "DARAULI",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "0",
+    "recovered": "1",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "DURAUNDHA",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "GOREAKOTHI",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "GUTHANI",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "HASANPURA",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "0",
+    "recovered": "1",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "HUSSAINGANJ",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "JEERADEI",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "LAKRI NABIGANJ",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "MAHARAJGANJ",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "MAIRWA",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "NAUTAN",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "0",
+    "recovered": "1",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "PACHRUKHI",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "0",
+    "recovered": "1",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "RAGHUNATHPUR",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "23",
+    "active": "5",
+    "recovered": "18",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "SISWAN",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "SIWAN",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "1",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "Unknown",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "0",
+    "active": "0",
+    "recovered": "2",
+    "deceased": "0",
+    "color": ""
+},
+{
+    "district": "Siwan",
+    "block": "Total",
+    "link": "district/Siwan/index.html",
+    "new_confirmed": "0",
+    "confirmed": "34",
+    "active": "8",
+    "recovered": "26",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "1", 
     "district": "Siwan", 
     "color": "", 
@@ -228,5 +459,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

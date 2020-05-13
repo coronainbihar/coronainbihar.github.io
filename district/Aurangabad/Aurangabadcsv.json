@@ -87,6 +87,17 @@
     "block": "Madanpur"
 },
 {
+<<<<<<< HEAD
+    "district": "Aurangabad",
+    "block": "Nabinagar",
+    "link": "district/Aurangabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "7",
+    "active": "7",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "7", 
     "district": "Aurangabad", 
     "color": "", 
@@ -96,6 +107,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nabinagar"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "1", 
@@ -131,6 +143,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Aurangabad",
+    "block": "Total",
+    "link": "district/Aurangabad/index.html",
+    "new_confirmed": "0",
+    "confirmed": "17",
+    "active": "9",
+    "recovered": "8",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "17", 
     "district": "Aurangabad", 
     "color": "orange", 
@@ -140,5 +163,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

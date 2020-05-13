@@ -21,6 +21,17 @@
     "block": "BARIYARPUR"
 },
 {
+<<<<<<< HEAD
+    "district": "Munger",
+    "block": "DHARAHARA",
+    "link": "district/Munger/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "1",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "1", 
     "district": "Munger", 
     "color": "", 
@@ -30,6 +41,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DHARAHARA"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "2", 
@@ -109,6 +121,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Munger",
+    "block": "Total",
+    "link": "district/Munger/index.html",
+    "new_confirmed": "0",
+    "confirmed": "116",
+    "active": "72",
+    "recovered": "43",
+    "deceased": "1",
+    "color": "red"
+=======
     "confirmed": "116", 
     "district": "Munger", 
     "color": "red", 
@@ -118,5 +141,6 @@
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

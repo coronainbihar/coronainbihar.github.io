@@ -43,6 +43,17 @@
     "block": "Gopalganj"
 },
 {
+<<<<<<< HEAD
+    "district": "Gopalganj",
+    "block": "Hathua",
+    "link": "district/Gopalganj/index.html",
+    "new_confirmed": "0",
+    "confirmed": "1",
+    "active": "1",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "1", 
     "district": "Gopalganj", 
     "color": "", 
@@ -52,6 +63,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Hathua"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "1", 
@@ -87,6 +99,17 @@
     "block": "Manjha"
 },
 {
+<<<<<<< HEAD
+    "district": "Gopalganj",
+    "block": "Panchdevari",
+    "link": "district/Gopalganj/index.html",
+    "new_confirmed": "0",
+    "confirmed": "4",
+    "active": "4",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "4", 
     "district": "Gopalganj", 
     "color": "", 
@@ -96,6 +119,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Panchdevari"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "1", 
@@ -164,6 +188,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Gopalganj",
+    "block": "Total",
+    "link": "district/Gopalganj/index.html",
+    "new_confirmed": "0",
+    "confirmed": "22",
+    "active": "5",
+    "recovered": "17",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "22", 
     "district": "Gopalganj", 
     "color": "orange", 
@@ -173,5 +208,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

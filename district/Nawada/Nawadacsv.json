@@ -87,6 +87,17 @@
     "block": "NARHAT"
 },
 {
+<<<<<<< HEAD
+    "district": "Nawada",
+    "block": "NAWADA",
+    "link": "district/Nawada/index.html",
+    "new_confirmed": "0",
+    "confirmed": "3",
+    "active": "2",
+    "recovered": "1",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "3", 
     "district": "Nawada", 
     "color": "", 
@@ -96,6 +107,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAWADA"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "0", 
@@ -164,6 +176,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Nawada",
+    "block": "Total",
+    "link": "district/Nawada/index.html",
+    "new_confirmed": "0",
+    "confirmed": "15",
+    "active": "12",
+    "recovered": "3",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "15", 
     "district": "Nawada", 
     "color": "orange", 
@@ -173,5 +196,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

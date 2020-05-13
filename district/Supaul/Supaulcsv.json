@@ -109,6 +109,17 @@
     "block": "SUPAUL"
 },
 {
+<<<<<<< HEAD
+    "district": "Supaul",
+    "block": "TRIVENGANJ",
+    "link": "district/Supaul/index.html",
+    "new_confirmed": "0",
+    "confirmed": "2",
+    "active": "2",
+    "recovered": "0",
+    "deceased": "0",
+    "color": ""
+=======
     "confirmed": "2", 
     "district": "Supaul", 
     "color": "", 
@@ -118,6 +129,7 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TRIVENGANJ"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 },
 {
     "confirmed": "0", 
@@ -131,6 +143,17 @@
     "block": "Unknown"
 },
 {
+<<<<<<< HEAD
+    "district": "Supaul",
+    "block": "Total",
+    "link": "district/Supaul/index.html",
+    "new_confirmed": "0",
+    "confirmed": "4",
+    "active": "4",
+    "recovered": "0",
+    "deceased": "0",
+    "color": "orange"
+=======
     "confirmed": "4", 
     "district": "Supaul", 
     "color": "orange", 
@@ -140,5 +163,6 @@
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
+>>>>>>> 879f792d69ba8e9904a94a1f984fce935e66a6cc
 }
 ]

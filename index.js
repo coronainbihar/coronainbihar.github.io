@@ -68,3 +68,7 @@ function myFunction() {
 function openWin() {
   window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
 }
+function openWin1() {
+  window.open("https://github.com/coronainbihar/coronainbihar.github.io");
+}
+

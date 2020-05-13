@@ -159,7 +159,7 @@ div {
 }
 
 #error_button {
-  background-color : rgba(173, 24, 173, 0.8);
+  background-color : rgba(173, 24, 173, 1);
   border: none;
   color: white;
   padding: 10px 20px;
@@ -171,6 +171,16 @@ div {
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
-
-
-
+#contribution_button {
+  background-color : rgba(17, 85, 2, 1);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 1rem;
+  margin: 2px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}

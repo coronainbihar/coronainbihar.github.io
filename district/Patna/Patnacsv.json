@@ -32,13 +32,13 @@
     "block": "BARH"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "1", 
     "block": "BELCHHI"
 },
@@ -208,13 +208,13 @@
     "block": "PANDARAK"
 },
 {
-    "confirmed": "57", 
+    "confirmed": "59", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "44", 
-    "new_confirmed": "0", 
+    "active": "46", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "PATNA SADAR"
 },
@@ -263,13 +263,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "90", 
+    "confirmed": "94", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "35", 
-    "active": "54", 
-    "new_confirmed": "0", 
+    "active": "58", 
+    "new_confirmed": "4", 
     "deceased": "1", 
     "block": "Total"
 }

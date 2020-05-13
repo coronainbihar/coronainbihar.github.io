@@ -21,24 +21,24 @@
     "block": "Bakhri"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "1", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Balia"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "3", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Barauni"
 },
@@ -120,13 +120,13 @@
     "block": "Garhpura"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Khodabandpur"
 },
@@ -208,13 +208,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "40", 
+    "confirmed": "43", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
-    "active": "32", 
-    "new_confirmed": "0", 
+    "active": "35", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

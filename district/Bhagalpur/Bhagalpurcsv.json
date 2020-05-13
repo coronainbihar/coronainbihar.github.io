@@ -32,13 +32,13 @@
     "block": "Gopalpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Ishmailpur"
 },
@@ -76,35 +76,35 @@
     "block": "Kharik"
 },
 {
-    "confirmed": "0", 
-    "district": "Bhagalpur", 
-    "color": "", 
-    "link": "district/Bhagalpur/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Narayanpur"
-},
-{
     "confirmed": "2", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "0", 
+    "new_confirmed": "2", 
+    "deceased": "0", 
+    "block": "Narayanpur"
+},
+{
+    "confirmed": "3", 
+    "district": "Bhagalpur", 
+    "color": "", 
+    "link": "district/Bhagalpur/index.html", 
+    "recovered": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Nathnagar"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "1", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Navgachhia"
 },
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "32", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "4", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "28", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 }

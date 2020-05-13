@@ -175,13 +175,13 @@
     "block": "MADHEPUR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "MADHWAPUR"
 },
@@ -241,13 +241,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "30", 
+    "confirmed": "31", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "30", 
-    "new_confirmed": "0", 
+    "active": "31", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

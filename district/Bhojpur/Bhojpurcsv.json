@@ -65,13 +65,13 @@
     "block": "Garhani"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "8", 
     "district": "Bhojpur", 
     "color": "", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Jagdishpur"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "28", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "18", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Total"
 }

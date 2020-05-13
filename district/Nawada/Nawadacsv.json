@@ -109,13 +109,13 @@
     "block": "PAKARIBARAWAN"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "9", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "RAJAULI"
 },
@@ -142,13 +142,13 @@
     "block": "SIRDALA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "WARSALIGANJ"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "24", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "21", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 }

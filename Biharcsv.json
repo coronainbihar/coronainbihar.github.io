@@ -32,57 +32,57 @@
     "block": "Total"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "11", 
     "district": "Banka", 
     "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "40", 
+    "confirmed": "43", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
-    "active": "32", 
-    "new_confirmed": "0", 
+    "active": "35", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "32", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "4", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "28", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "28", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "18", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "7", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "56", 
+    "confirmed": "59", 
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -120,13 +120,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "22", 
+    "confirmed": "24", 
     "district": "Gopalganj", 
     "color": "orange", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "17", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -153,13 +153,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "32", 
+    "confirmed": "33", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "27", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -175,13 +175,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "27", 
+    "confirmed": "30", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "27", 
-    "new_confirmed": "0", 
+    "active": "30", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -219,13 +219,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "30", 
+    "confirmed": "31", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "30", 
-    "new_confirmed": "0", 
+    "active": "31", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -241,13 +241,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "15", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "link": "district/Muzaffarpur/index.html", 
     "recovered": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -263,24 +263,24 @@
     "block": "Total"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "24", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "21", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "90", 
+    "confirmed": "94", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "35", 
-    "active": "54", 
-    "new_confirmed": "0", 
+    "active": "58", 
+    "new_confirmed": "4", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -296,13 +296,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "72", 
+    "confirmed": "75", 
     "district": "Rohtas", 
     "color": "red", 
     "link": "district/Rohtas/index.html", 
     "recovered": "41", 
-    "active": "30", 
-    "new_confirmed": "0", 
+    "active": "33", 
+    "new_confirmed": "3", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -373,13 +373,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "38", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "879", 
+    "confirmed": "932", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "390", 
-    "active": "483", 
-    "new_confirmed": "0", 
+    "active": "536", 
+    "new_confirmed": "53", 
     "deceased": "6", 
     "block": "Total"
 }

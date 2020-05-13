@@ -10,13 +10,13 @@
     "block": "Adhaura"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "district": "Kaimur", 
     "color": "", 
     "link": "district/Kaimur/index.html", 
     "recovered": "8", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Bhabhua"
 },
@@ -131,13 +131,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "32", 
+    "confirmed": "33", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "27", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -267,8 +267,8 @@
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
-    "recovered": "21", 
-    "active": "68", 
+    "recovered": "35", 
+    "active": "54", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

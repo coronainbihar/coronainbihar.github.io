@@ -223,8 +223,8 @@
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
-    "recovered": "26", 
-    "active": "8", 
+    "recovered": "32", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

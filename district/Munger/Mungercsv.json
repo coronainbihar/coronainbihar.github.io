@@ -113,8 +113,8 @@
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
-    "recovered": "43", 
-    "active": "72", 
+    "recovered": "65", 
+    "active": "50", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

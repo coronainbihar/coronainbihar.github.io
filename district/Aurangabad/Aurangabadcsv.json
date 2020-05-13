@@ -135,8 +135,8 @@
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
-    "recovered": "8", 
-    "active": "9", 
+    "recovered": "11", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

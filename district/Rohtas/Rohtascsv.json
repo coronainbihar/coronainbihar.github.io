@@ -223,8 +223,8 @@
     "district": "Rohtas", 
     "color": "red", 
     "link": "district/Rohtas/index.html", 
-    "recovered": "40", 
-    "active": "31", 
+    "recovered": "41", 
+    "active": "30", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

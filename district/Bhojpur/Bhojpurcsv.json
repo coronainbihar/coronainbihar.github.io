@@ -168,8 +168,8 @@
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
-    "recovered": "10", 
-    "active": "11", 
+    "recovered": "18", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -311,8 +311,8 @@
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
-    "recovered": "0", 
-    "active": "13", 
+    "recovered": "1", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

@@ -135,8 +135,8 @@
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
-    "recovered": "54", 
-    "active": "2", 
+    "recovered": "56", 
+    "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

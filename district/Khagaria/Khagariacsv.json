@@ -87,12 +87,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "28", 
+    "confirmed": "27", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "28", 
+    "active": "27", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

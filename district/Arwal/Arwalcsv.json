@@ -65,12 +65,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
-    "recovered": "2", 
-    "active": "9", 
+    "recovered": "4", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

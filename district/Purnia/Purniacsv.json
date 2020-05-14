@@ -120,24 +120,24 @@
     "block": "KASBA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "PURNIA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "9", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "RUPOULI"
 },
@@ -164,13 +164,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "13", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "9", 
     "deceased": "0", 
     "block": "Total"
 }

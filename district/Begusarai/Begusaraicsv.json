@@ -27,7 +27,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "1", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Balia"
 },
@@ -38,7 +38,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "3", 
     "active": "5", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Barauni"
 },
@@ -126,7 +126,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Khodabandpur"
 },
@@ -214,7 +214,7 @@
     "link": "district/Begusarai/index.html", 
     "recovered": "8", 
     "active": "35", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -27,7 +27,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BASANTPUR"
 },
@@ -38,7 +38,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BHAGWANPUR"
 },
@@ -225,7 +225,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
     "active": "6", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

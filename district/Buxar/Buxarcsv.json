@@ -5,7 +5,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Brahmpur"
 },
@@ -93,7 +93,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nawanagar"
 },
@@ -137,7 +137,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

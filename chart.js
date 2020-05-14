@@ -125,6 +125,7 @@ xmlhttp.onreadystatechange = function() {
         
        }
     }
+	document.getElementById("testdata").innerHTML = testdata;
    
     Highcharts.chart('container1', {
       chart: {

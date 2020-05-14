@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-csvfile = open('bihartotal.csv', 'r')
+csvfile = open('../bihartotal.csv', 'r')
 jsonfile = open('Biharcsv.json', 'w')
 
 reader1 = csv.reader(csvfile)

@@ -3,8 +3,8 @@
     "district": "Araria", 
     "color": "orange", 
     "link": "district/Araria/index.html", 
-    "recovered": "0", 
-    "active": "4", 
+    "recovered": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -21,12 +21,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "17", 
+    "confirmed": "18", 
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "11", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -43,12 +43,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "43", 
+    "confirmed": "47", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
-    "recovered": "8", 
-    "active": "35", 
+    "recovered": "9", 
+    "active": "38", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -58,8 +58,8 @@
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
-    "recovered": "4", 
-    "active": "28", 
+    "recovered": "8", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -91,19 +91,19 @@
     "district": "Darbhanga", 
     "color": "orange", 
     "link": "district/Darbhanga/index.html", 
-    "recovered": "0", 
-    "active": "16", 
+    "recovered": "3", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "15", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "1", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -175,13 +175,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "30", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "34", 
-    "new_confirmed": "4", 
+    "active": "30", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -197,12 +197,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "5", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -230,12 +230,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "116", 
+    "confirmed": "122", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "65", 
-    "active": "50", 
+    "active": "56", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -274,24 +274,24 @@
     "block": "Total"
 },
 {
-    "confirmed": "94", 
+    "confirmed": "99", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "35", 
-    "active": "58", 
+    "active": "62", 
     "new_confirmed": "0", 
-    "deceased": "1", 
+    "deceased": "2", 
     "block": "Total"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "4", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "13", 
-    "new_confirmed": "9", 
+    "active": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -366,8 +366,8 @@
     "district": "Sitamarhi", 
     "color": "orange", 
     "link": "district/Sitamarhi/index.html", 
-    "recovered": "1", 
-    "active": "5", 
+    "recovered": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
@@ -384,12 +384,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "7", 
     "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -428,14 +428,14 @@
     "block": "Total"
 },
 {
-    "confirmed": "945", 
+    "confirmed": "953", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
-    "recovered": "390", 
-    "active": "549", 
-    "new_confirmed": "13", 
-    "deceased": "6", 
+    "recovered": "400", 
+    "active": "546", 
+    "new_confirmed": "0", 
+    "deceased": "7", 
     "block": "Total"
 }
 ]

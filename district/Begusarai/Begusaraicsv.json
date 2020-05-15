@@ -109,15 +109,15 @@
     "block": "Dandari"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
-    "block": "Garhpura"
+    "block": "Gadhpura"
 },
 {
     "confirmed": "2", 
@@ -164,12 +164,12 @@
     "block": "Navkothi"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sahebpur Kamal"
@@ -197,23 +197,23 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Begusarai", 
     "color": "", 
     "link": "district/Begusarai/index.html", 
-    "recovered": "0", 
+    "recovered": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "43", 
+    "confirmed": "47", 
     "district": "Begusarai", 
     "color": "orange", 
     "link": "district/Begusarai/index.html", 
-    "recovered": "8", 
-    "active": "35", 
+    "recovered": "9", 
+    "active": "38", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

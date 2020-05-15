@@ -1,22 +1,22 @@
 [{
-    "confirmed": "11", 
+    "confirmed": "9", 
     "district": "Khagaria", 
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "11", 
-    "new_confirmed": "2", 
+    "active": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Allouli Beldaur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "4", 
     "district": "Khagaria", 
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "1", 
+    "active": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Beldaur"
 },
@@ -43,13 +43,13 @@
     "block": "Gogari"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "5", 
     "district": "Khagaria", 
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "6", 
-    "new_confirmed": "1", 
+    "active": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Khagaria"
 },
@@ -87,13 +87,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "30", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "34", 
-    "new_confirmed": "4", 
+    "active": "30", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

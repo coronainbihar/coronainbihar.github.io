@@ -54,12 +54,12 @@
     "block": "JAMALPUR"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "21", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "8", 
-    "active": "11", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "MUNGER SADAR"
@@ -98,7 +98,7 @@
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 

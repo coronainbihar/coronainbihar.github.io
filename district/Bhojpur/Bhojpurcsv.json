@@ -109,12 +109,12 @@
     "block": "Sahar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sandesh"
@@ -164,12 +164,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "28", 
+    "confirmed": "29", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "18", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

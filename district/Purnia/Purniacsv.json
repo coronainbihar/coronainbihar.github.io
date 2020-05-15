@@ -120,23 +120,23 @@
     "block": "KASBA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PURNIA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "9", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "9", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RUPOULI"
@@ -153,7 +153,7 @@
     "block": "SRINAGAR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
@@ -164,12 +164,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "13", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

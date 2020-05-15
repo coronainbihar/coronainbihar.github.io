@@ -65,12 +65,12 @@
     "block": "Terhagachh"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Kishanganj", 
     "color": "", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Thakurganj"
@@ -87,12 +87,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "Kishanganj", 
     "color": "orange", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "9", 
+    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

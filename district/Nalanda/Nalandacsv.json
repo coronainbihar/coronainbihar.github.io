@@ -65,12 +65,12 @@
     "block": "EKANGARSARAI"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GIRIYAK"
@@ -87,12 +87,12 @@
     "block": "HARNAUT"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HILSA"
@@ -230,12 +230,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "63", 
+    "confirmed": "66", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "36", 
-    "active": "27", 
+    "active": "30", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

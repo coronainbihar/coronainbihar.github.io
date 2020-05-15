@@ -10,17 +10,6 @@
     "block": "Barahia"
 },
 {
-    "confirmed": "0", 
-    "district": "Lakhisarai", 
-    "color": "", 
-    "link": "district/Lakhisarai/index.html", 
-    "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
-    "deceased": "0", 
-    "block": "Channan"
-},
-{
     "confirmed": "1", 
     "district": "Lakhisarai", 
     "color": "", 
@@ -29,7 +18,7 @@
     "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
-    "block": "Halsi"
+    "block": "Channan"
 },
 {
     "confirmed": "2", 
@@ -38,6 +27,17 @@
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
     "active": "2", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Halsi"
+},
+{
+    "confirmed": "7", 
+    "district": "Lakhisarai", 
+    "color": "", 
+    "link": "district/Lakhisarai/index.html", 
+    "recovered": "0", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Lakhisarai"
@@ -76,7 +76,7 @@
     "block": "Suryagarha"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "link": "district/Lakhisarai/index.html", 
@@ -87,12 +87,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "12", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "5", 
-    "active": "1", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

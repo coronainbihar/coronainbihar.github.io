@@ -21,12 +21,12 @@
     "block": "Hulasgunj"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Jehanabad", 
     "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jehanabad"
@@ -65,12 +65,12 @@
     "block": "Modanganj"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "9", 
     "district": "Jehanabad", 
     "color": "", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "9", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ratni Faridpur"
@@ -87,12 +87,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "26", 
     "district": "Jehanabad", 
     "color": "orange", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "5", 
-    "active": "16", 
+    "active": "21", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

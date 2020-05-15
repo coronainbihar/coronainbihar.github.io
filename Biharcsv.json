@@ -175,13 +175,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "36", 
+    "confirmed": "41", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "36", 
-    "new_confirmed": "0", 
+    "active": "41", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -373,13 +373,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "42", 
+    "confirmed": "43", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
-    "active": "10", 
-    "new_confirmed": "4", 
+    "active": "11", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 },
@@ -421,20 +421,20 @@
     "district": "Unknown", 
     "color": "", 
     "link": "index.html", 
-    "recovered": "0", 
+    "recovered": "12", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "1006", 
+    "confirmed": "1012", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
-    "recovered": "400", 
-    "active": "599", 
-    "new_confirmed": "7", 
+    "recovered": "412", 
+    "active": "593", 
+    "new_confirmed": "13", 
     "deceased": "7", 
     "block": "Total"
 }

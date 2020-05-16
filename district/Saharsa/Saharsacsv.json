@@ -1,10 +1,10 @@
 [{
-    "confirmed": "5", 
+    "confirmed": "8", 
     "district": "Saharsa", 
     "color": "", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KAHRA"
@@ -120,12 +120,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "13", 
     "district": "Saharsa", 
     "color": "orange", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

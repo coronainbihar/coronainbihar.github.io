@@ -54,12 +54,12 @@
     "block": "Jamui"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Jamui", 
     "color": "", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jhajha"
@@ -98,12 +98,12 @@
     "block": "Sikandra"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Jamui", 
     "color": "", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sono"
@@ -120,12 +120,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Jamui", 
     "color": "orange", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

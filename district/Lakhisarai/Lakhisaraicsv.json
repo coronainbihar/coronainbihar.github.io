@@ -21,12 +21,12 @@
     "block": "Channan"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Lakhisarai", 
     "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Halsi"
@@ -87,12 +87,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "5", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

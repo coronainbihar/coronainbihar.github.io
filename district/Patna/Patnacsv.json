@@ -208,12 +208,12 @@
     "block": "PANDARAK"
 },
 {
-    "confirmed": "61", 
+    "confirmed": "62", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "47", 
+    "active": "48", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "PATNA SADAR"
@@ -263,12 +263,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "99", 
+    "confirmed": "100", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "35", 
-    "active": "62", 
+    "active": "63", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

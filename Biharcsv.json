@@ -65,12 +65,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "29", 
+    "confirmed": "30", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "18", 
-    "active": "11", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -131,12 +131,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Jamui", 
     "color": "orange", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -181,50 +181,50 @@
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
     "active": "41", 
-    "new_confirmed": "5", 
-    "deceased": "0", 
-    "block": "Total"
-},
-{
-    "confirmed": "10", 
-    "district": "Kishanganj", 
-    "color": "orange", 
-    "link": "district/Kishanganj/index.html", 
-    "recovered": "0", 
-    "active": "10", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
     "confirmed": "12", 
+    "district": "Kishanganj", 
+    "color": "orange", 
+    "link": "district/Kishanganj/index.html", 
+    "recovered": "0", 
+    "active": "12", 
+    "new_confirmed": "0", 
+    "deceased": "0", 
+    "block": "Total"
+},
+{
+    "confirmed": "13", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "5", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "16", 
     "district": "Madhepura", 
     "color": "orange", 
     "link": "district/Madhepura/index.html", 
     "recovered": "2", 
-    "active": "7", 
+    "active": "14", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "31", 
+    "confirmed": "33", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "31", 
+    "active": "33", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -269,17 +269,17 @@
     "link": "district/Nawada/index.html", 
     "recovered": "3", 
     "active": "23", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "99", 
+    "confirmed": "100", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "35", 
-    "active": "62", 
+    "active": "63", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"
@@ -307,12 +307,12 @@
     "block": "Total"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "13", 
     "district": "Saharsa", 
     "color": "orange", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -379,17 +379,17 @@
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
     "active": "11", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "9", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
@@ -401,7 +401,7 @@
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
     "active": "5", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 },
@@ -428,13 +428,13 @@
     "block": "Total"
 },
 {
-    "confirmed": "1012", 
+    "confirmed": "1033", 
     "district": "Bihar", 
     "color": "", 
     "link": "index.html", 
     "recovered": "412", 
-    "active": "593", 
-    "new_confirmed": "13", 
+    "active": "614", 
+    "new_confirmed": "0", 
     "deceased": "7", 
     "block": "Total"
 }

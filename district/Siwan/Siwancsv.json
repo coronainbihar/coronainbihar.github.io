@@ -5,7 +5,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ANDAR"
 },
@@ -16,7 +16,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "2", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARHARIA"
 },
@@ -49,7 +49,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "1", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DARAULI"
 },
@@ -181,7 +181,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "18", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAGHUNATHPUR"
 },
@@ -225,7 +225,7 @@
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
     "active": "11", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

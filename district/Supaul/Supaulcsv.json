@@ -1,10 +1,10 @@
 [{
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Supaul", 
     "color": "", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BASANTPUR"
@@ -65,12 +65,12 @@
     "block": "PIPRA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Supaul", 
     "color": "", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PRATAPGANJ"
@@ -131,12 +131,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "9", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "8", 
     "district": "Saharsa", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "KAHRA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "SATTAR KATIYA"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Saharsa", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "SAUR BAZAR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "PATARGHAT"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "MAHISHI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "SONBARSA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "NAUHATTA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "SALKHUA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saharsa", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "BANMA ITAHRI"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Saharsa", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "SIMRI BAKHTIYARPUR"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Saharsa", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "13", 
     "district": "Saharsa", 
     "color": "orange", 

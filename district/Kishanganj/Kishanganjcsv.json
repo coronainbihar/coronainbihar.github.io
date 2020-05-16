@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Kishanganj", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "Bahadurganj"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Kishanganj", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "Dighalbank"
 },
 {
+    "": "", 
     "confirmed": "5", 
     "district": "Kishanganj", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "Kishanganj"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Kishanganj", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "Kochadhaman"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Kishanganj", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "Pothia"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Kishanganj", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "Terhagachh"
 },
 {
+    "": "", 
     "confirmed": "4", 
     "district": "Kishanganj", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "Thakurganj"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Kishanganj", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "12", 
     "district": "Kishanganj", 
     "color": "orange", 

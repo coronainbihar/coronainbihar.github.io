@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "AKORHIGOLA"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Rohtas", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "BIKRAMGANJ"
 },
 {
+    "": "", 
     "confirmed": "5", 
     "district": "Rohtas", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "CHENARI"
 },
 {
+    "": "", 
     "confirmed": "6", 
     "district": "Rohtas", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "DAWATH"
 },
 {
+    "": "", 
     "confirmed": "5", 
     "district": "Rohtas", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "DEHRI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "DINARA"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "KARAKAT"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "KARGAHAR"
 },
 {
+    "": "", 
     "confirmed": "8", 
     "district": "Rohtas", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "KOCHAS"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "NASRIGANJ"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "NAUHATTA"
 },
 {
+    "": "", 
     "confirmed": "4", 
     "district": "Rohtas", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "NOKHA"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Rohtas", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "RAJPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "ROHTAS"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Rohtas", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "SANJHAULI"
 },
 {
+    "": "", 
     "confirmed": "37", 
     "district": "Rohtas", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "SASARAM"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
@@ -186,6 +203,7 @@
     "block": "SHEOSAGAR"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
@@ -197,6 +215,7 @@
     "block": "SURAJPURA"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Rohtas", 
     "color": "", 
@@ -208,6 +227,7 @@
     "block": "TILOUTHU"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Rohtas", 
     "color": "", 
@@ -219,6 +239,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "77", 
     "district": "Rohtas", 
     "color": "red", 

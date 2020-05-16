@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "Alinagar"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "Bahadurpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "Baheri"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "Benipur"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Darbhanga", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "Biraul"
 },
 {
+    "": "", 
     "confirmed": "5", 
     "district": "Darbhanga", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "Darbhanga"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "Gaura Bauram"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "Ghanshyampur"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Darbhanga", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "Hanuman Nagar"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "Hayaghat"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "Jale"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "Keoti"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Darbhanga", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "Kiratpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "Kusheswar Asthan"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "Kusheswar Asthan East"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "Manigachhi"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -186,6 +203,7 @@
     "block": "Singhwara"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -197,6 +215,7 @@
     "block": "Tardih"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Darbhanga", 
     "color": "", 
@@ -208,6 +227,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "16", 
     "district": "Darbhanga", 
     "color": "orange", 

@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "Bachwara"
 },
 {
+    "": "", 
     "confirmed": "6", 
     "district": "Begusarai", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "Bakhri"
 },
 {
+    "": "", 
     "confirmed": "4", 
     "district": "Begusarai", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "Balia"
 },
 {
+    "": "", 
     "confirmed": "8", 
     "district": "Begusarai", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "Barauni"
 },
 {
+    "": "", 
     "confirmed": "4", 
     "district": "Begusarai", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "Begusarai"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Begusarai", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "Bhagawanpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Begusarai", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "Birpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Begusarai", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "Cheria Bariyarpur"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Begusarai", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "Chhourahi"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Begusarai", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "Dandari"
 },
 {
+    "": "", 
     "confirmed": "6", 
     "district": "Begusarai", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "Gadhpura"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Begusarai", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "Khodabandpur"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Begusarai", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "Mansurchak"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Begusarai", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "Matihani"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "Navkothi"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "Sahebpur Kamal"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Begusarai", 
     "color": "", 
@@ -186,6 +203,7 @@
     "block": "Samho-Akaha-Kurha"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Begusarai", 
     "color": "", 
@@ -197,6 +215,7 @@
     "block": "Teghra"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Begusarai", 
     "color": "", 
@@ -208,6 +227,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "47", 
     "district": "Begusarai", 
     "color": "orange", 

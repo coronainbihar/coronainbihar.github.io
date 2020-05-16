@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
@@ -10,17 +11,19 @@
     "block": "BHAGWANPUR"
 },
 {
-    "confirmed": "1", 
+    "": "", 
+    "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "1", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "BIDUPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "CHEHRAKALA"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "DESRI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "GARAUL"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "HAJIPUR"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "JANDAHA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "LALGANJ"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -98,17 +107,19 @@
     "block": "MAHNAR"
 },
 {
-    "confirmed": "1", 
+    "": "", 
+    "confirmed": "3", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "MAHUA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "PATEDHI BELSAR"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "PATEPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "RAGHOPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "RAJAPAKAR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "SAHDEI"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "VAISHALI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Vaishali", 
     "color": "", 
@@ -186,13 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "8", 
+    "": "", 
+    "confirmed": "11", 
     "district": "Vaishali", 
     "color": "orange", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "3", 
     "deceased": "1", 
     "block": "Total"
 }

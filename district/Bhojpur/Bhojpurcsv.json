@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "Agiaon"
 },
 {
+    "": "", 
     "confirmed": "15", 
     "district": "Bhojpur", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "Ara Sadar"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "Barhara"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Bhojpur", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "Bihiya"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "Charpokhri"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "Garhani"
 },
 {
+    "": "", 
     "confirmed": "8", 
     "district": "Bhojpur", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "Jagdishpur"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "Koilwar"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "Piro"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "Sahar"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Bhojpur", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "Sandesh"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "Shahpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "Tarari"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "Udwantnagar"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Bhojpur", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "30", 
     "district": "Bhojpur", 
     "color": "orange", 

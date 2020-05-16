@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Buxar", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "Brahmpur"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Buxar", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "Buxar"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "Chakki"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "Chausha"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "Chaugain"
 },
 {
+    "": "", 
     "confirmed": "54", 
     "district": "Buxar", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "Dumraon"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "Itarhi"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "Kesath"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Buxar", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "Nawanagar"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "Rajpur"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "Simari"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Buxar", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "59", 
     "district": "Buxar", 
     "color": "red", 

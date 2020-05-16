@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "1", 
     "district": "Saran", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "AMNOUR"
 },
 {
+    "": "", 
     "confirmed": "3", 
     "district": "Saran", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "BANIYAPUR"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Saran", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "CHAPRA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "DARIYAPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "DIGHWARA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "EKMA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "GARKHA"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Saran", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "ISHUAPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "JALALPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "LAHLADPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "MAKER"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "MANJHI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "MARHOURAH"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "MASHRAKH"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "NAGRA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "PANAPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -186,6 +203,7 @@
     "block": "PARSA"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Saran", 
     "color": "", 
@@ -197,6 +215,7 @@
     "block": "RIVILGANJ"
 },
 {
+    "": "", 
     "confirmed": "2", 
     "district": "Saran", 
     "color": "", 
@@ -208,6 +227,7 @@
     "block": "SONEPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -219,6 +239,7 @@
     "block": "TARAIYAN"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Saran", 
     "color": "", 
@@ -230,6 +251,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "10", 
     "district": "Saran", 
     "color": "orange", 

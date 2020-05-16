@@ -1,4 +1,5 @@
 [{
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -10,6 +11,7 @@
     "block": "BAIRGANIA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -21,6 +23,7 @@
     "block": "BAJPATTI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -32,6 +35,7 @@
     "block": "BATHNAHA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -43,6 +47,7 @@
     "block": "BELSAND"
 },
 {
+    "": "", 
     "confirmed": "5", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -54,6 +59,7 @@
     "block": "BOKHRA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -65,6 +71,7 @@
     "block": "CHORAUT"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -76,6 +83,7 @@
     "block": "DUMRA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -87,6 +95,7 @@
     "block": "MAJORGANJ"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -98,6 +107,7 @@
     "block": "NANPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -109,6 +119,7 @@
     "block": "PARIHAR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -120,6 +131,7 @@
     "block": "PARSAUNI"
 },
 {
+    "": "", 
     "confirmed": "1", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -131,6 +143,7 @@
     "block": "PUPRI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -142,6 +155,7 @@
     "block": "RIGA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -153,6 +167,7 @@
     "block": "RUNNISAIDPUR"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -164,6 +179,7 @@
     "block": "SONBARSA"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -175,6 +191,7 @@
     "block": "SUPPI"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -186,6 +203,7 @@
     "block": "SURSAND"
 },
 {
+    "": "", 
     "confirmed": "0", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -197,6 +215,7 @@
     "block": "Unknown"
 },
 {
+    "": "", 
     "confirmed": "7", 
     "district": "Sitamarhi", 
     "color": "orange", 

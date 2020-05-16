@@ -10,13 +10,13 @@
     "block": "ATHMALGOLA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "1", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "BAKHTIARPUR"
 },
@@ -208,13 +208,13 @@
     "block": "PANDARAK"
 },
 {
-    "confirmed": "62", 
+    "confirmed": "66", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "48", 
-    "new_confirmed": "0", 
+    "active": "52", 
+    "new_confirmed": "4", 
     "deceased": "1", 
     "block": "PATNA SADAR"
 },
@@ -256,20 +256,20 @@
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
-    "recovered": "3", 
+    "recovered": "24", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "100", 
+    "confirmed": "105", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
-    "recovered": "35", 
-    "active": "63", 
-    "new_confirmed": "0", 
+    "recovered": "42", 
+    "active": "61", 
+    "new_confirmed": "5", 
     "deceased": "2", 
     "block": "Total"
 }

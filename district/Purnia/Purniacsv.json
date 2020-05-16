@@ -120,12 +120,12 @@
     "block": "KASBA"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "2", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PURNIA"
@@ -164,12 +164,12 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "12", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "13", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

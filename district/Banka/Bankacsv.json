@@ -32,13 +32,13 @@
     "block": "Barahat"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Belhar"
 },
@@ -65,13 +65,13 @@
     "block": "Chandan"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "11", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "Dhoraiya"
 },
@@ -87,24 +87,24 @@
     "block": "Fullidumar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Katoriya"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "7", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Rajoun"
 },
@@ -131,13 +131,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "32", 
     "district": "Banka", 
     "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "14", 
-    "new_confirmed": "0", 
+    "active": "32", 
+    "new_confirmed": "18", 
     "deceased": "0", 
     "block": "Total"
 }

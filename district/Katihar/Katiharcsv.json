@@ -32,13 +32,13 @@
     "block": "Balrampur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Barari"
 },
@@ -98,13 +98,13 @@
     "block": "Kadwa"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Katihar"
 },
@@ -131,13 +131,13 @@
     "block": "Kursela"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Manihari"
 },
@@ -186,13 +186,13 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "15", 
     "district": "Katihar", 
     "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

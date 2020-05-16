@@ -1,11 +1,11 @@
 [{
-    "confirmed": "5", 
+    "confirmed": "7", 
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
     "recovered": "1", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Aurangabad"
 },
@@ -124,20 +124,20 @@
     "district": "Aurangabad", 
     "color": "", 
     "link": "district/Aurangabad/index.html", 
-    "recovered": "4", 
+    "recovered": "8", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "20", 
     "district": "Aurangabad", 
     "color": "orange", 
     "link": "district/Aurangabad/index.html", 
-    "recovered": "11", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "recovered": "12", 
+    "active": "8", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

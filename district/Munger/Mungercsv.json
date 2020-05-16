@@ -21,13 +21,13 @@
     "block": "BARIYARPUR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "DHARAHARA"
 },
@@ -102,20 +102,20 @@
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
-    "recovered": "5", 
+    "recovered": "30", 
     "active": "0", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "122", 
+    "confirmed": "123", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
-    "recovered": "65", 
-    "active": "56", 
-    "new_confirmed": "0", 
+    "recovered": "68", 
+    "active": "54", 
+    "new_confirmed": "1", 
     "deceased": "1", 
     "block": "Total"
 }

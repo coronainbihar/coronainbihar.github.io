@@ -168,13 +168,13 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Motihari"
 },
@@ -300,13 +300,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "East Champaran", 
     "color": "", 
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Turkauliya"
 },
@@ -336,13 +336,13 @@
 },
 {
     "": "", 
-    "confirmed": "16", 
+    "confirmed": "19", 
     "district": "East Champaran", 
     "color": "orange", 
     "link": "district/East Champaran/index.html", 
     "recovered": "9", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "deceased": "1", 
     "block": "Total"
 }

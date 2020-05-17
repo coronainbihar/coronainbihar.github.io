@@ -1,12 +1,12 @@
 [{
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "4", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Brahmpur"
 },
@@ -144,13 +144,13 @@
 },
 {
     "": "", 
-    "confirmed": "59", 
+    "confirmed": "62", 
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

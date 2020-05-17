@@ -168,7 +168,7 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
@@ -180,12 +180,12 @@
 },
 {
     "": "", 
-    "confirmed": "34", 
+    "confirmed": "35", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "4", 
-    "active": "30", 
+    "active": "31", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -96,12 +96,12 @@
 },
 {
     "": "", 
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HILSA"
@@ -252,12 +252,12 @@
 },
 {
     "": "", 
-    "confirmed": "66", 
+    "confirmed": "67", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "37", 
-    "active": "29", 
+    "active": "30", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

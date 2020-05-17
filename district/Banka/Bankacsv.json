@@ -42,7 +42,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Belhar"
 },
@@ -78,7 +78,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "11", 
-    "new_confirmed": "8", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Dhoraiya"
 },
@@ -102,7 +102,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Katoriya"
 },
@@ -114,7 +114,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "7", 
-    "new_confirmed": "6", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Rajoun"
 },
@@ -150,7 +150,7 @@
     "link": "district/Banka/index.html", 
     "recovered": "0", 
     "active": "32", 
-    "new_confirmed": "18", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

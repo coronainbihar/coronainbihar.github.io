@@ -48,12 +48,12 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Siwan", 
     "color": "", 
     "link": "district/Siwan/index.html", 
     "recovered": "1", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DARAULI"
@@ -216,12 +216,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Siwan", 
     "color": "", 
     "link": "district/Siwan/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIWAN"
@@ -240,12 +240,12 @@
 },
 {
     "": "", 
-    "confirmed": "43", 
+    "confirmed": "45", 
     "district": "Siwan", 
     "color": "orange", 
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
-    "active": "11", 
+    "active": "13", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

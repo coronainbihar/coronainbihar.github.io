@@ -60,12 +60,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kahalgaon"
@@ -168,24 +168,24 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sanhoula"
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sultanganj Purushottam"
@@ -204,12 +204,12 @@
 },
 {
     "": "", 
-    "confirmed": "33", 
+    "confirmed": "37", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "8", 
-    "active": "25", 
+    "active": "29", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

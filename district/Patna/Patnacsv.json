@@ -18,7 +18,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "1", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BAKHTIARPUR"
 },
@@ -192,12 +192,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "1", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAUBATPUR"
@@ -234,7 +234,7 @@
     "link": "district/Patna/index.html", 
     "recovered": "13", 
     "active": "53", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "PATNA SADAR"
 },
@@ -288,13 +288,13 @@
 },
 {
     "": "", 
-    "confirmed": "106", 
+    "confirmed": "107", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "42", 
-    "active": "62", 
-    "new_confirmed": "6", 
+    "active": "63", 
+    "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"
 }

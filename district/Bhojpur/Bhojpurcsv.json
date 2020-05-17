@@ -72,12 +72,12 @@
 },
 {
     "": "", 
-    "confirmed": "8", 
+    "confirmed": "12", 
     "district": "Bhojpur", 
     "color": "", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
-    "active": "8", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Jagdishpur"
@@ -120,12 +120,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Bhojpur", 
     "color": "", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sandesh"
@@ -180,12 +180,12 @@
 },
 {
     "": "", 
-    "confirmed": "30", 
+    "confirmed": "36", 
     "district": "Bhojpur", 
     "color": "orange", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "18", 
-    "active": "12", 
+    "active": "18", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

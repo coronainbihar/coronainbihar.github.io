@@ -12,12 +12,12 @@
 },
 {
     "": "", 
-    "confirmed": "14", 
+    "confirmed": "15", 
     "district": "Kaimur", 
     "color": "", 
     "link": "district/Kaimur/index.html", 
     "recovered": "8", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Bhabhua"
@@ -144,12 +144,12 @@
 },
 {
     "": "", 
-    "confirmed": "33", 
+    "confirmed": "34", 
     "district": "Kaimur", 
     "color": "orange", 
     "link": "district/Kaimur/index.html", 
     "recovered": "32", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

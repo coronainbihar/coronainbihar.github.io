@@ -30,7 +30,7 @@
     "link": "district/Munger/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DHARAHARA"
 },
@@ -84,12 +84,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Munger", 
     "color": "", 
     "link": "district/Munger/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "TARAPURA"
@@ -120,13 +120,13 @@
 },
 {
     "": "", 
-    "confirmed": "123", 
+    "confirmed": "125", 
     "district": "Munger", 
     "color": "red", 
     "link": "district/Munger/index.html", 
     "recovered": "68", 
-    "active": "54", 
-    "new_confirmed": "1", 
+    "active": "56", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

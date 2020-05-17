@@ -6,7 +6,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "AKBARPUR"
 },
@@ -102,7 +102,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
     "active": "9", 
-    "new_confirmed": "7", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAWADA"
 },
@@ -186,7 +186,7 @@
     "link": "district/Nawada/index.html", 
     "recovered": "4", 
     "active": "31", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

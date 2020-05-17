@@ -174,7 +174,7 @@
     "link": "district/East Champaran/index.html", 
     "recovered": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Motihari"
 },
@@ -342,7 +342,7 @@
     "link": "district/East Champaran/index.html", 
     "recovered": "9", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

@@ -42,18 +42,18 @@
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BANMANKHI"
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BARHARA KOTHI"
@@ -66,7 +66,7 @@
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BHAWANIPUR"
 },
@@ -150,7 +150,7 @@
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
     "active": "22", 
-    "new_confirmed": "13", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RUPOULI"
 },
@@ -180,13 +180,13 @@
 },
 {
     "": "", 
-    "confirmed": "27", 
+    "confirmed": "29", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "27", 
-    "new_confirmed": "15", 
+    "active": "29", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

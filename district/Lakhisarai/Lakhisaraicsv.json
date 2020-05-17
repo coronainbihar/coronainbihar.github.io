@@ -60,12 +60,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Lakhisarai", 
     "color": "", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ramgarh Chowk"
@@ -96,12 +96,12 @@
 },
 {
     "": "", 
-    "confirmed": "13", 
+    "confirmed": "14", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "5", 
-    "active": "8", 
+    "active": "9", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

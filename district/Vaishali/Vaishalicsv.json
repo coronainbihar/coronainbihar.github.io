@@ -18,7 +18,7 @@
     "link": "district/Vaishali/index.html", 
     "recovered": "1", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIDUPUR"
 },
@@ -114,7 +114,7 @@
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MAHUA"
 },
@@ -210,7 +210,7 @@
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
     "active": "8", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

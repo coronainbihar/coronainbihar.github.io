@@ -36,12 +36,12 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Khagaria", 
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gogari"
@@ -96,12 +96,12 @@
 },
 {
     "": "", 
-    "confirmed": "41", 
+    "confirmed": "43", 
     "district": "Khagaria", 
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "41", 
+    "active": "43", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

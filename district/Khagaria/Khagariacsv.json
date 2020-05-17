@@ -41,9 +41,9 @@
     "color": "", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "3", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Gogari"
 },
 {
@@ -101,9 +101,9 @@
     "color": "orange", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "43", 
+    "active": "42", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

@@ -156,13 +156,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "NOORSARAI"
 },
@@ -252,13 +252,13 @@
 },
 {
     "": "", 
-    "confirmed": "67", 
+    "confirmed": "68", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "37", 
-    "active": "30", 
-    "new_confirmed": "0", 
+    "active": "31", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -1,23 +1,23 @@
 [{
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Amarpur"
 },
 {
     "": "", 
-    "confirmed": "6", 
+    "confirmed": "9", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "6", 
+    "active": "9", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Banka"
@@ -36,12 +36,12 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Belhar"
@@ -84,12 +84,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Fullidumar"
@@ -108,12 +108,12 @@
 },
 {
     "": "", 
-    "confirmed": "7", 
+    "confirmed": "9", 
     "district": "Banka", 
     "color": "", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "7", 
+    "active": "9", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Rajoun"
@@ -144,12 +144,12 @@
 },
 {
     "": "", 
-    "confirmed": "32", 
+    "confirmed": "40", 
     "district": "Banka", 
     "color": "orange", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "32", 
+    "active": "40", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

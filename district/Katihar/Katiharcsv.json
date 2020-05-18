@@ -12,13 +12,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Azamnagar"
 },
@@ -108,12 +108,12 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Katihar"
@@ -204,13 +204,13 @@
 },
 {
     "": "", 
-    "confirmed": "17", 
+    "confirmed": "19", 
     "district": "Katihar", 
     "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "17", 
-    "new_confirmed": "0", 
+    "active": "19", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

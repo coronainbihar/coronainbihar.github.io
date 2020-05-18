@@ -30,7 +30,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
     "active": "8", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "CHENARI"
 },
@@ -90,7 +90,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "1", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KARGAHAR"
 },
@@ -114,7 +114,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NASRIGANJ"
 },
@@ -186,7 +186,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "14", 
     "active": "23", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "SASARAM"
 },
@@ -198,7 +198,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "1", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEOSAGAR"
 },
@@ -246,7 +246,7 @@
     "link": "district/Rohtas/index.html", 
     "recovered": "45", 
     "active": "45", 
-    "new_confirmed": "14", 
+    "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"
 }

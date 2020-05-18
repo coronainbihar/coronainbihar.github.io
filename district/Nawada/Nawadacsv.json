@@ -96,13 +96,13 @@
 },
 {
     "": "", 
-    "confirmed": "9", 
+    "confirmed": "10", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "NAWADA"
 },
@@ -180,13 +180,13 @@
 },
 {
     "": "", 
-    "confirmed": "35", 
+    "confirmed": "36", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "4", 
-    "active": "31", 
-    "new_confirmed": "0", 
+    "active": "32", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -36,13 +36,13 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "24", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "24", 
+    "new_confirmed": "21", 
     "deceased": "0", 
     "block": "Gopalganj"
 },
@@ -84,13 +84,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "10", 
     "district": "Gopalganj", 
     "color": "", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "10", 
     "deceased": "0", 
     "block": "Manjha"
 },
@@ -180,13 +180,13 @@
 },
 {
     "": "", 
-    "confirmed": "32", 
+    "confirmed": "63", 
     "district": "Gopalganj", 
     "color": "orange", 
     "link": "district/Gopalganj/index.html", 
     "recovered": "18", 
-    "active": "14", 
-    "new_confirmed": "0", 
+    "active": "45", 
+    "new_confirmed": "31", 
     "deceased": "0", 
     "block": "Total"
 }

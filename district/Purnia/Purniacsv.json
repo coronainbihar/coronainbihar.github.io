@@ -132,13 +132,13 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Purnia", 
     "color": "", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "PURNIA"
 },
@@ -180,13 +180,13 @@
 },
 {
     "": "", 
-    "confirmed": "29", 
+    "confirmed": "31", 
     "district": "Purnia", 
     "color": "orange", 
     "link": "district/Purnia/index.html", 
     "recovered": "0", 
-    "active": "29", 
-    "new_confirmed": "0", 
+    "active": "31", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

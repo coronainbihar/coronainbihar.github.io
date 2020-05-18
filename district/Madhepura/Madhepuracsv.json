@@ -48,12 +48,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GAMHARIA"
@@ -132,12 +132,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIGHESHWARSTHAN"
@@ -168,12 +168,12 @@
 },
 {
     "": "", 
-    "confirmed": "16", 
+    "confirmed": "18", 
     "district": "Madhepura", 
     "color": "orange", 
     "link": "district/Madhepura/index.html", 
     "recovered": "2", 
-    "active": "14", 
+    "active": "16", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

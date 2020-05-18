@@ -6,7 +6,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Brahmpur"
 },
@@ -150,7 +150,7 @@
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
     "active": "6", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

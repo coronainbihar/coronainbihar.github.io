@@ -36,12 +36,12 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Kishanganj", 
     "color": "", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kochadhaman"
@@ -72,12 +72,12 @@
 },
 {
     "": "", 
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Kishanganj", 
     "color": "", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Thakurganj"
@@ -96,12 +96,12 @@
 },
 {
     "": "", 
-    "confirmed": "12", 
+    "confirmed": "14", 
     "district": "Kishanganj", 
     "color": "orange", 
     "link": "district/Kishanganj/index.html", 
     "recovered": "0", 
-    "active": "12", 
+    "active": "14", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

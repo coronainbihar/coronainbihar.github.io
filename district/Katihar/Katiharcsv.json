@@ -18,7 +18,7 @@
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Azamnagar"
 },
@@ -120,24 +120,24 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html in", 
     "recovered": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Korha"
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Katihar", 
     "color": "", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Kursela"
@@ -204,13 +204,13 @@
 },
 {
     "": "", 
-    "confirmed": "19", 
+    "confirmed": "21", 
     "district": "Katihar", 
     "color": "orange", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "19", 
-    "new_confirmed": "1", 
+    "active": "21", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

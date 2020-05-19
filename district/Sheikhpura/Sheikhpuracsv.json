@@ -36,25 +36,25 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Sheikhpura", 
     "color": "", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "GHAT KUSUMBA"
 },
 {
     "": "", 
-    "confirmed": "4", 
+    "confirmed": "5", 
     "district": "Sheikhpura", 
     "color": "", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "SHEIKHPURA"
 },
@@ -84,13 +84,13 @@
 },
 {
     "": "", 
-    "confirmed": "21", 
+    "confirmed": "23", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "link": "district/Sheikhpura/index.html", 
     "recovered": "0", 
-    "active": "21", 
-    "new_confirmed": "0", 
+    "active": "23", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

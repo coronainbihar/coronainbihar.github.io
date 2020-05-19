@@ -84,12 +84,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Saran", 
     "color": "", 
     "link": "district/Saran/index.html", 
     "recovered": "1", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "ISHUAPUR"
@@ -216,12 +216,12 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Saran", 
     "color": "", 
     "link": "district/Saran/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SONEPUR"
@@ -252,12 +252,12 @@
 },
 {
     "": "", 
-    "confirmed": "11", 
+    "confirmed": "14", 
     "district": "Saran", 
     "color": "orange", 
     "link": "district/Saran/index.html", 
     "recovered": "8", 
-    "active": "3", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

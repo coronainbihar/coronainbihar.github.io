@@ -42,7 +42,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
     "active": "24", 
-    "new_confirmed": "21", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Gopalganj"
 },
@@ -90,7 +90,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "0", 
     "active": "10", 
-    "new_confirmed": "10", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Manjha"
 },
@@ -186,7 +186,7 @@
     "link": "district/Gopalganj/index.html", 
     "recovered": "18", 
     "active": "45", 
-    "new_confirmed": "31", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

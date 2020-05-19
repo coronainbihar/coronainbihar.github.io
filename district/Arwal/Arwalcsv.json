@@ -1,12 +1,12 @@
 [{
     "": "", 
-    "confirmed": "10", 
+    "confirmed": "13", 
     "district": "Arwal", 
     "color": "", 
     "link": "district/Arwal/index.html", 
     "recovered": "1", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "12", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Arwal"
 },
@@ -18,7 +18,7 @@
     "link": "district/Arwal/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Sonbhadra Banshi Surypur"
 },
@@ -72,13 +72,13 @@
 },
 {
     "": "", 
-    "confirmed": "16", 
+    "confirmed": "19", 
     "district": "Arwal", 
     "color": "orange", 
     "link": "district/Arwal/index.html", 
     "recovered": "4", 
-    "active": "12", 
-    "new_confirmed": "2", 
+    "active": "15", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

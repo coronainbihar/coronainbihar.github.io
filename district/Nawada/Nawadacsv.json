@@ -96,13 +96,13 @@
 },
 {
     "": "", 
-    "confirmed": "10", 
+    "confirmed": "13", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "1", 
-    "active": "9", 
-    "new_confirmed": "1", 
+    "active": "12", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "NAWADA"
 },
@@ -144,13 +144,13 @@
 },
 {
     "": "", 
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Nawada", 
     "color": "", 
     "link": "district/Nawada/index.html", 
     "recovered": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "SIRDALA"
 },
@@ -180,13 +180,13 @@
 },
 {
     "": "", 
-    "confirmed": "36", 
+    "confirmed": "40", 
     "district": "Nawada", 
     "color": "orange", 
     "link": "district/Nawada/index.html", 
     "recovered": "4", 
-    "active": "32", 
-    "new_confirmed": "1", 
+    "active": "36", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 }

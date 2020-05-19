@@ -84,13 +84,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "3", 
     "district": "Madhepura", 
     "color": "", 
     "link": "district/Madhepura/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "MADHEPURA"
 },
@@ -168,13 +168,13 @@
 },
 {
     "": "", 
-    "confirmed": "18", 
+    "confirmed": "20", 
     "district": "Madhepura", 
     "color": "orange", 
     "link": "district/Madhepura/index.html", 
     "recovered": "2", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -36,12 +36,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Sitamarhi", 
     "color": "", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BELSAND"
@@ -216,12 +216,12 @@
 },
 {
     "": "", 
-    "confirmed": "8", 
+    "confirmed": "9", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "3", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

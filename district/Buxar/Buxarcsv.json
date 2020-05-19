@@ -72,13 +72,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Itarhi"
 },
@@ -108,13 +108,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Buxar", 
     "color": "", 
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Rajpur"
 },
@@ -144,13 +144,13 @@
 },
 {
     "": "", 
-    "confirmed": "62", 
+    "confirmed": "64", 
     "district": "Buxar", 
     "color": "red", 
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

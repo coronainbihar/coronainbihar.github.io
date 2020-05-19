@@ -84,13 +84,13 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Bhagalpur", 
     "color": "", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Narayanpur"
 },
@@ -102,7 +102,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Nathnagar"
 },
@@ -114,7 +114,7 @@
     "link": "district/Bhagalpur/index.html", 
     "recovered": "1", 
     "active": "8", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Navgachhia"
 },
@@ -204,13 +204,13 @@
 },
 {
     "": "", 
-    "confirmed": "42", 
+    "confirmed": "44", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "8", 
-    "active": "34", 
-    "new_confirmed": "4", 
+    "active": "36", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

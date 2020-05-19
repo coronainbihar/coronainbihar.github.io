@@ -42,7 +42,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "4", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIND"
 },
@@ -186,7 +186,7 @@
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
     "active": "9", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAHUI"
 },
@@ -240,7 +240,7 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Nalanda", 
     "color": "", 
     "link": "district/Nalanda/index.html", 
@@ -252,13 +252,13 @@
 },
 {
     "": "", 
-    "confirmed": "73", 
+    "confirmed": "74", 
     "district": "Nalanda", 
     "color": "orange", 
     "link": "district/Nalanda/index.html", 
     "recovered": "37", 
-    "active": "36", 
-    "new_confirmed": "5", 
+    "active": "37", 
+    "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"
 }

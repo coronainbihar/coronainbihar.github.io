@@ -36,12 +36,12 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BENIPATTI"
@@ -60,12 +60,12 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GHOGHARDIHA"
@@ -132,12 +132,12 @@
 },
 {
     "": "", 
-    "confirmed": "14", 
+    "confirmed": "15", 
     "district": "Madhubani", 
     "color": "", 
     "link": "district/Madhubani/index.html", 
     "recovered": "0", 
-    "active": "14", 
+    "active": "15", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KHUTAUNA"
@@ -264,12 +264,12 @@
 },
 {
     "": "", 
-    "confirmed": "69", 
+    "confirmed": "73", 
     "district": "Madhubani", 
     "color": "orange", 
     "link": "district/Madhubani/index.html", 
     "recovered": "5", 
-    "active": "64", 
+    "active": "68", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

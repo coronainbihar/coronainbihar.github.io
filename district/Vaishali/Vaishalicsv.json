@@ -48,12 +48,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "GARAUL"
@@ -96,12 +96,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MAHNAR"
@@ -144,12 +144,12 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "RAGHOPUR"
@@ -204,12 +204,12 @@
 },
 {
     "": "", 
-    "confirmed": "11", 
+    "confirmed": "15", 
     "district": "Vaishali", 
     "color": "orange", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "8", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

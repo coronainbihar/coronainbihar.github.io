@@ -51,6 +51,7 @@ for row in reader:
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+	<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ebc1cf22ff69000125d2a9b&product=inline-share-buttons" async="async"></script>
 	</head>
 	<body>
 
@@ -91,6 +92,7 @@ for row in reader:
 	  <form>
 		<input type="button" id = "error_button" value="Report an Error / Feedback" onclick="openWin()">
 	  </form>
+	  <div class="sharethis-inline-share-buttons">Block wise Coronavirus dashboard for Bihar.</div>
 	  <p>Developed by <a target="_blank" href="https://www.linkedin.com/in/anand-kumar-verma/">Anand Kumar Verma.</a></p>  
 	</div>
 	</body>

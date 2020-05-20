@@ -60,13 +60,13 @@
 },
 {
     "": "", 
-    "confirmed": "8", 
+    "confirmed": "9", 
     "district": "Jamui", 
     "color": "", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Jhajha"
 },
@@ -132,13 +132,13 @@
 },
 {
     "": "", 
-    "confirmed": "14", 
+    "confirmed": "15", 
     "district": "Jamui", 
     "color": "orange", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "14", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

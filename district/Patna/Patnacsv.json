@@ -216,13 +216,13 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Patna", 
     "color": "", 
     "link": "district/Patna/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "PANDARAK"
 },
@@ -288,13 +288,13 @@
 },
 {
     "": "", 
-    "confirmed": "167", 
+    "confirmed": "168", 
     "district": "Patna", 
     "color": "red", 
     "link": "district/Patna/index.html", 
     "recovered": "42", 
-    "active": "123", 
-    "new_confirmed": "1", 
+    "active": "124", 
+    "new_confirmed": "2", 
     "deceased": "2", 
     "block": "Total"
 }

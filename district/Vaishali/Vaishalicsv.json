@@ -209,9 +209,9 @@
     "color": "orange", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "12", 
+    "active": "11", 
     "new_confirmed": "0", 
-    "deceased": "1", 
+    "deceased": "2", 
     "block": "Total"
 }
 ]

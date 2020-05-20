@@ -48,13 +48,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Supaul", 
     "color": "", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "NIRMALI"
 },
@@ -144,13 +144,13 @@
 },
 {
     "": "", 
-    "confirmed": "24", 
+    "confirmed": "25", 
     "district": "Supaul", 
     "color": "orange", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "24", 
-    "new_confirmed": "3", 
+    "active": "25", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Total"
 }

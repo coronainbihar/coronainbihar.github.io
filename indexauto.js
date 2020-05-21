@@ -30,12 +30,12 @@ xmlhttp.onreadystatechange = function() {
       tactive += active ;
       trecovered += recovered ;
       tdeceased += deceased ;
-	  var url = 'district/'+district+'/index.html' ;
+	  var url = "district/"+district+"/index.html" ;
 	  if (x == len-1){
 		  url = '' ;
 	  }
 
-      txt += "<tr onclick=\"window.location="+url+";\"><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
+      txt += "<tr onclick=\"window.location=\'"+url+"\';\"><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
     }
     txt += "</tbody></table>"    
     document.getElementById("myTable").innerHTML = txt;

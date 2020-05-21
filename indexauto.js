@@ -31,9 +31,13 @@ xmlhttp.onreadystatechange = function() {
       trecovered += recovered ;
       tdeceased += deceased ;
 
-
-      txt += "<tr onclick=\"window.location=\'district/"+district+"/index.html\';\"><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
-    }
+	  if (x == len-1){
+		  txt += "<tr><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
+	  }
+	  else {
+		txt += "<tr onclick=\"window.location=\'district/"+district+"/index.html\';\"><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
+	  }    
+	}
     txt += "</tbody></table>"    
     document.getElementById("myTable").innerHTML = txt;
 

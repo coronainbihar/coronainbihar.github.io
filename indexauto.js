@@ -32,7 +32,7 @@ xmlhttp.onreadystatechange = function() {
       trecovered += recovered ;
       tdeceased += deceased ;
 
-	  if (x == len-1){
+	  if (x == 38){
 		  txt += "<tr><td>"+district+"</td><td style=\"color:red;\">"+new_confirmed+"</td><td>"+confirmed+"</td><td style=\"color:blue;\">"+active+"</td><td style=\"color:green;\">"+recovered+"</td><td style=\"color:red;\">"+deceased+"</td></tr>" ;
 	  }
 	  else {

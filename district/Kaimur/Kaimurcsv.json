@@ -13,14 +13,14 @@
 },
 {
     "": "", 
-    "confirmed": "21", 
+    "confirmed": "24", 
     "district": "Kaimur", 
     "color": "", 
     "Previous_day_confirmed": "20", 
     "link": "district/Kaimur/index.html", 
     "recovered": "8", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Bhabhua"
 },
@@ -143,7 +143,7 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Kaimur", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -156,14 +156,14 @@
 },
 {
     "": "", 
-    "confirmed": "45", 
+    "confirmed": "49", 
     "district": "Kaimur", 
     "color": "orange", 
     "Previous_day_confirmed": "44", 
     "link": "district/Kaimur/index.html", 
     "recovered": "32", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

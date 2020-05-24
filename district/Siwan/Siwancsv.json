@@ -247,7 +247,7 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "9", 
     "district": "Siwan", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -260,13 +260,13 @@
 },
 {
     "": "", 
-    "confirmed": "48", 
+    "confirmed": "57", 
     "district": "Siwan", 
     "color": "orange", 
     "Previous_day_confirmed": "45", 
     "link": "district/Siwan/index.html", 
     "recovered": "32", 
-    "active": "16", 
+    "active": "25", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

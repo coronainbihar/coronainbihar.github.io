@@ -26,14 +26,14 @@
 },
 {
     "": "", 
-    "confirmed": "16", 
+    "confirmed": "17", 
     "district": "Jehanabad", 
     "color": "", 
     "Previous_day_confirmed": "8", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Jehanabad"
 },
@@ -104,14 +104,14 @@
 },
 {
     "": "", 
-    "confirmed": "108", 
+    "confirmed": "109", 
     "district": "Jehanabad", 
     "color": "orange", 
     "Previous_day_confirmed": "58", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "5", 
-    "active": "103", 
-    "new_confirmed": "0", 
+    "active": "104", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

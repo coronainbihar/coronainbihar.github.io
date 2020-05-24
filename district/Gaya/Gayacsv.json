@@ -312,7 +312,7 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "6", 
     "district": "Gaya", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -325,13 +325,13 @@
 },
 {
     "": "", 
-    "confirmed": "35", 
+    "confirmed": "41", 
     "district": "Gaya", 
     "color": "red", 
     "Previous_day_confirmed": "11", 
     "link": "district/Gaya/index.html", 
     "recovered": "6", 
-    "active": "29", 
+    "active": "35", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

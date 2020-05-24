@@ -1,12 +1,12 @@
 [{
     "": "", 
-    "confirmed": "13", 
+    "confirmed": "12", 
     "district": "Arwal", 
     "color": "", 
     "Previous_day_confirmed": "13", 
     "link": "district/Arwal/index.html", 
     "recovered": "1", 
-    "active": "12", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Arwal"
@@ -39,14 +39,14 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Arwal", 
     "color": "", 
     "Previous_day_confirmed": "0", 
     "link": "district/Arwal/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Karpi"
 },
@@ -65,7 +65,7 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "0", 
     "district": "Arwal", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -78,14 +78,14 @@
 },
 {
     "": "", 
-    "confirmed": "23", 
+    "confirmed": "22", 
     "district": "Arwal", 
     "color": "orange", 
     "Previous_day_confirmed": "19", 
     "link": "district/Arwal/index.html", 
     "recovered": "4", 
-    "active": "19", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

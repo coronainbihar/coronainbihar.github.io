@@ -260,7 +260,7 @@
 },
 {
     "": "", 
-    "confirmed": "6", 
+    "confirmed": "11", 
     "district": "Saran", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -268,20 +268,20 @@
     "recovered": "6", 
     "active": "0", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Unknown"
 },
 {
     "": "", 
-    "confirmed": "24", 
+    "confirmed": "29", 
     "district": "Saran", 
     "color": "orange", 
     "Previous_day_confirmed": "14", 
     "link": "district/Saran/index.html", 
     "recovered": "8", 
-    "active": "16", 
+    "active": "20", 
     "new_confirmed": "0", 
-    "deceased": "0", 
+    "deceased": "1", 
     "block": "Total"
 }
 ]

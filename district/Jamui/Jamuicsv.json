@@ -130,7 +130,7 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "11", 
     "district": "Jamui", 
     "color": "", 
     "Previous_day_confirmed": "0", 
@@ -143,13 +143,13 @@
 },
 {
     "": "", 
-    "confirmed": "16", 
+    "confirmed": "27", 
     "district": "Jamui", 
     "color": "orange", 
     "Previous_day_confirmed": "15", 
     "link": "district/Jamui/index.html", 
     "recovered": "0", 
-    "active": "16", 
+    "active": "27", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

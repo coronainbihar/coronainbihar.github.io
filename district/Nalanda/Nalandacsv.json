@@ -91,14 +91,14 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Nalanda", 
     "color": "", 
     "Previous_day_confirmed": "1", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "HARNAUT"
 },
@@ -273,14 +273,14 @@
 },
 {
     "": "", 
-    "confirmed": "83", 
+    "confirmed": "84", 
     "district": "Nalanda", 
     "color": "orange", 
     "Previous_day_confirmed": "74", 
     "link": "district/Nalanda/index.html", 
     "recovered": "62", 
-    "active": "21", 
-    "new_confirmed": "2", 
+    "active": "22", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

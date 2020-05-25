@@ -195,14 +195,14 @@
 },
 {
     "": "", 
-    "confirmed": "4", 
+    "confirmed": "8", 
     "district": "Bhagalpur", 
     "color": "", 
     "Previous_day_confirmed": "2", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "4", 
     "deceased": "0", 
     "block": "Sultanganj Purushottam"
 },
@@ -221,14 +221,14 @@
 },
 {
     "": "", 
-    "confirmed": "74", 
+    "confirmed": "78", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "Previous_day_confirmed": "47", 
     "link": "district/Bhagalpur/index.html", 
     "recovered": "29", 
-    "active": "45", 
-    "new_confirmed": "2", 
+    "active": "49", 
+    "new_confirmed": "6", 
     "deceased": "0", 
     "block": "Total"
 }

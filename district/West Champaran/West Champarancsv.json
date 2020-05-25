@@ -65,14 +65,14 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "West Champaran", 
     "color": "", 
     "Previous_day_confirmed": "0", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "CHANPATIA"
 },
@@ -182,14 +182,14 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "2", 
     "district": "West Champaran", 
     "color": "", 
     "Previous_day_confirmed": "0", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "PIPRASI"
 },
@@ -247,14 +247,14 @@
 },
 {
     "": "", 
-    "confirmed": "34", 
+    "confirmed": "37", 
     "district": "West Champaran", 
     "color": "orange", 
     "Previous_day_confirmed": "25", 
     "link": "district/West Champaran/index.html", 
     "recovered": "11", 
-    "active": "23", 
-    "new_confirmed": "0", 
+    "active": "26", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

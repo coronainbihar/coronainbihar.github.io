@@ -13,14 +13,14 @@
 },
 {
     "": "", 
-    "confirmed": "17", 
+    "confirmed": "18", 
     "district": "Bhojpur", 
     "color": "", 
     "Previous_day_confirmed": "17", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "8", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Ara Sadar"
 },
@@ -195,14 +195,14 @@
 },
 {
     "": "", 
-    "confirmed": "39", 
+    "confirmed": "40", 
     "district": "Bhojpur", 
     "color": "orange", 
     "Previous_day_confirmed": "38", 
     "link": "district/Bhojpur/index.html", 
     "recovered": "23", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -26,14 +26,14 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Gaya", 
     "color": "", 
     "Previous_day_confirmed": "0", 
     "link": "district/Gaya/index.html", 
     "recovered": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Banke Bazar"
 },
@@ -104,14 +104,14 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Gaya", 
     "color": "", 
     "Previous_day_confirmed": "0", 
     "link": "district/Gaya/index.html", 
     "recovered": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Fatehpur"
 },
@@ -325,14 +325,14 @@
 },
 {
     "": "", 
-    "confirmed": "41", 
+    "confirmed": "44", 
     "district": "Gaya", 
     "color": "red", 
     "Previous_day_confirmed": "11", 
     "link": "district/Gaya/index.html", 
     "recovered": "6", 
-    "active": "35", 
-    "new_confirmed": "0", 
+    "active": "38", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -39,14 +39,14 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Supaul", 
     "color": "", 
     "Previous_day_confirmed": "2", 
     "link": "district/Supaul/index.html", 
     "recovered": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "MARAUNA"
 },
@@ -156,14 +156,14 @@
 },
 {
     "": "", 
-    "confirmed": "47", 
+    "confirmed": "49", 
     "district": "Supaul", 
     "color": "orange", 
     "Previous_day_confirmed": "25", 
     "link": "district/Supaul/index.html", 
     "recovered": "1", 
-    "active": "46", 
-    "new_confirmed": "0", 
+    "active": "48", 
+    "new_confirmed": "2", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -52,14 +52,14 @@
 },
 {
     "": "", 
-    "confirmed": "29", 
+    "confirmed": "31", 
     "district": "Katihar", 
     "color": "", 
     "Previous_day_confirmed": "5", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "29", 
-    "new_confirmed": "24", 
+    "active": "31", 
+    "new_confirmed": "26", 
     "deceased": "0", 
     "block": "Barsoi"
 },
@@ -143,14 +143,14 @@
 },
 {
     "": "", 
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Katihar", 
     "color": "", 
     "Previous_day_confirmed": "2", 
     "link": "district/Katihar/index.html", 
     "recovered": "0", 
-    "active": "11", 
-    "new_confirmed": "7", 
+    "active": "12", 
+    "new_confirmed": "8", 
     "deceased": "0", 
     "block": "Kursela"
 },
@@ -221,14 +221,14 @@
 },
 {
     "": "", 
-    "confirmed": "121", 
+    "confirmed": "124", 
     "district": "Katihar", 
     "color": "orange", 
     "Previous_day_confirmed": "34", 
     "link": "district/Katihar/index.html", 
     "recovered": "11", 
-    "active": "110", 
-    "new_confirmed": "35", 
+    "active": "113", 
+    "new_confirmed": "38", 
     "deceased": "0", 
     "block": "Total"
 }

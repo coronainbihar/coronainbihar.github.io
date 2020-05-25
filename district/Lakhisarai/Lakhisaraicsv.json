@@ -39,14 +39,14 @@
 },
 {
     "": "", 
-    "confirmed": "12", 
+    "confirmed": "13", 
     "district": "Lakhisarai", 
     "color": "", 
     "Previous_day_confirmed": "7", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Lakhisarai"
 },
@@ -104,14 +104,14 @@
 },
 {
     "": "", 
-    "confirmed": "25", 
+    "confirmed": "26", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "Previous_day_confirmed": "14", 
     "link": "district/Lakhisarai/index.html", 
     "recovered": "7", 
-    "active": "18", 
-    "new_confirmed": "0", 
+    "active": "19", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

@@ -247,14 +247,14 @@
 },
 {
     "": "", 
-    "confirmed": "89", 
+    "confirmed": "92", 
     "district": "Patna", 
     "color": "", 
     "Previous_day_confirmed": "89", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "75", 
-    "new_confirmed": "0", 
+    "active": "78", 
+    "new_confirmed": "3", 
     "deceased": "1", 
     "block": "PATNA SADAR"
 },
@@ -286,14 +286,14 @@
 },
 {
     "": "", 
-    "confirmed": "7", 
+    "confirmed": "8", 
     "district": "Patna", 
     "color": "", 
     "Previous_day_confirmed": "4", 
     "link": "district/Patna/index.html", 
     "recovered": "2", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "SAMPATCHAK"
 },
@@ -312,14 +312,14 @@
 },
 {
     "": "", 
-    "confirmed": "196", 
+    "confirmed": "200", 
     "district": "Patna", 
     "color": "red", 
     "Previous_day_confirmed": "168", 
     "link": "district/Patna/index.html", 
     "recovered": "55", 
-    "active": "139", 
-    "new_confirmed": "0", 
+    "active": "143", 
+    "new_confirmed": "4", 
     "deceased": "2", 
     "block": "Total"
 }

@@ -116,7 +116,12 @@ xmlhttp.onreadystatechange = function() {
         }
         else {
           date.push(datedata) ;
-          test.push(Number(myState[x].totaltested)-testdata) ;
+		  if (Number(myState[x].totaltested)-testdata != Number(myState[x].totaltested) ){
+			test.push(Number(myState[x].totaltested)-testdata) ;
+		  }
+		  else {
+			  test.push(0) ;
+		  }
           positive.push(Number(myState[x].positive)-positivedata) ;
           testdata = Number(myState[x].totaltested) ;
           positivedata = Number(myState[x].positive) ;

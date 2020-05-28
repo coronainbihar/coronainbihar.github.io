@@ -46,7 +46,7 @@ xmlhttp.open("GET", "Biharcsv.json", true);
 xmlhttp.send();
 
 
-function myFunction() {
+function searchFunction() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();

@@ -51,7 +51,7 @@ xmlhttp.open("GET", "https://api.covid19india.org/state_district_wise.json", tru
 xmlhttp.send();
 
 
-function myFunction() {
+function searchFunction() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();

@@ -52,9 +52,17 @@ for row in reader:
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
 	<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ebc1cf22ff69000125d2a9b&product=inline-share-buttons" async="async"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<body>
-
+	<div class="topnav" id="myTopnav">
+	  <a href="../../" class="active">Corona in Bihar</a>
+	  
+	  <a href="../../resources.html">Resources</a>
+	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+		<i class="fa fa-bars"></i>
+	  </a>
+	</div>
 	<div class="header">
 	  <h1>Covid-19 Dashboard for '''+district+'''</h1>
 	  <p id="hdemo"></p>
@@ -198,6 +206,14 @@ function openWin() {
   window.open("https://forms.gle/BB1eWe9bJ6HmqqHc8");
 }
 
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
 	'''
 	
 	charttxt = '''

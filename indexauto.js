@@ -76,3 +76,12 @@ function openWin() {
 function openWin1() {
   window.open("https://github.com/coronainbihar/coronainbihar.github.io");
 }
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}

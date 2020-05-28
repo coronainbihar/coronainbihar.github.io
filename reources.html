@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164997550-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-164997550-2');
+	</script>
+
+
+	<title>Coronavirus in Bihar | Resources</title>
+	<meta name="title" content="Coronavirus Outbreak in Bihar: Block wise Dashboard"/>
+	<link rel="icon" type="image/png"  href="/icon.png"/>
+	<meta charset="utf-8">
+	<meta name="description" content="An effort to track the coronavirus outbreak in Bihar with graphs and tables of the number of cases by district and block.">
+	<meta name="keywords" content="Corona, Bihar, Tracker, Covid-19, Blockwise, Block wise, Block, Coronavirus, District, District wise, live, update">
+	<meta name="author" content="Anand Kumar Verma">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link href="chart.css" rel="stylesheet" type="text/css" />
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+	<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ebc1cf22ff69000125d2a9b&product=inline-share-buttons" async="async"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="topnav" id="myTopnav">
+  <a href="index.html" class="active">Corona in Bihar</a>
+  
+  <a href="">Resources</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+<div class="header">
+  <h1>Resources</h1>
+  
+</div>
+
+<div class="row">
+  <div class="column side">
+    
+  </div>
+  
+  <div class="column middle">
+    <h3>Important Links:</h3>
+    <p>Bihar E-Pass Link: <a target="_blank" href="https://serviceonline.bihar.gov.in/">https://serviceonline.bihar.gov.in/</a></p>
+    <p>Bihar Government: <a target="_blank" href="http://statehealthsocietybihar.org/corona/index.htm">State Health Society</a>, <a target="_blank" href="https://covid19.bihar.gov.in/">Covid-19 Bihar</a></p>
+    <p>National Portal: <a target="_blank" href="https://www.mohfw.gov.in/">Ministry of Health and Family Welfare</a></p>
+    <h3>COVID-19 Testing Center in Bihar:</h3>
+    <div style="overflow-x:auto;">
+          <table id="TestingCenterTable" width="100%" cellspacing="0">
+              <thead>
+                  <tr>
+                      <th>Institute</th>
+                      <th>City</th>
+                      <th>Started On</th>
+                      <th>Type</th>
+                      <th>Address/Detail</th>
+                  </tr>
+              </thead>
+              
+              <tbody>
+                  <tr>
+                      <td>RMRIMS</td>
+                      <td>Patna</td>
+                      <td>7 March 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>IGIMS</td>
+                      <td>Patna</td>
+                      <td>25 March 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>DMCH</td>
+                      <td>Darbhanga</td>
+                      <td>2 April 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>PMCH</td>
+                      <td>Patna</td>
+                      <td>13 April 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>PMCH</td>
+                      <td>Patna</td>
+                      <td>13 April 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>AIIMS</td>
+                      <td>Patna</td>
+                      <td>15 April 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>JLNMCH</td>
+                      <td>Bhagalpur</td>
+                      <td>3 May 2020</td>
+                      <td>Government</td>
+                      <td></td>
+                  </tr>
+                 <tr>
+                      <td>Dr. Lal Path Labs</td>
+                      <td>Online</td>
+                      <td>10 May 2020</td>
+                      <td>Private</td>
+                      <td>Website: www.lalpathlabs.com, Mobile Number: 8527483085</td>
+                  </tr> 
+                  <tr>
+                      <td>Path Kind Diagnostics Pvt. Ltd</td>
+                      <td>Patna</td>
+                      <td>10 May 2020</td>
+                      <td>Private</td>
+                      <td>Mobile Number: 7827949761/ 7827949762</td>
+                  </tr>
+                  <tr>
+                      <td>Path Kind Diagnostics Pvt. Ltd</td>
+                      <td>Muzaffarpur</td>
+                      <td>10 May 2020</td>
+                      <td>Private</td>
+                      <td>Mobile Number: 7827949750</td>
+                  </tr> 
+              </tbody>
+          </table>
+      </div>
+  </div>
+  
+  <div class="column side">
+    
+  </div>
+</div>
+<div class="footer">
+  <form>
+    <input type="button" id = "contribution_button" value="Contribute on the Github" onclick="openWin1()">
+  
+	<input type="button" id = "error_button" value="Report an Error / Feedback" onclick="openWin()">
+  </form>
+  <p></p>
+  <div class="sharethis-inline-share-buttons">Block wise Coronavirus dashboard for Bihar.</div>
+  <h5>Created with &#10084 by <a target="_blank" href="https://www.linkedin.com/in/anand-kumar-verma/">Anand Kumar Verma</a>.</h4>
+  <h5>Data managed by <a target="_blank" href="https://www.facebook.com/saurabhkumar.son">Saurabh Kumar</a> and <a target="_blank" href="https://www.facebook.com/profile.php?id=100005697376403">Ajit Kumar</a>.</h4>
+	<p style="font-size:0.6em">Credit: <a target="_blank" href="https://twitter.com/BiharHealthDept">Bihar Health Department</a>, <a target="_blank" href="https://api.covid19india.org/">Covid19India</a></p>
+  <p style="font-size:0.8em">Inspired from the project: <a target="_blank" href="https://www.covid19india.org/">Covid19India</a></p>
+  </div>
+</body>
+</html>
+

@@ -140,7 +140,7 @@ div {
 }
 
 .header ccard {
-  background: linear-gradient(90deg, rgba(255, 165, 0, 0.5) 0%, orange 100%);
+  background: linear-gradient(90deg, rgba(255, 165, 0, 0.8) 0%, orange 100%);
   color: white;
   width: 8rem;
   text-align: center;
@@ -150,7 +150,7 @@ div {
 }
 
 .header acard {
-  background: linear-gradient(90deg, rgba(0, 0, 255, 0.5) 0%, blue 100%);
+  background: linear-gradient(90deg, rgba(0, 0, 255, 0.8) 0%, blue 100%);
   color: white;
   width: 8rem;
   text-align: center;
@@ -160,7 +160,7 @@ div {
 }
 
 .header rcard {
-  background: linear-gradient(90deg, rgba(0, 128, 0, 0.5) 0%, green 100%);
+  background: linear-gradient(90deg, rgba(0, 128, 0, 0.8) 0%, green 100%);
   color: white;
   width: 8rem;
   text-align: center;
@@ -170,7 +170,7 @@ div {
 }
 
 .header dcard {
-  background: linear-gradient(90deg, rgba(255, 0, 0, 0.5) 0%, red 100%);
+  background: linear-gradient(90deg, rgba(255, 0, 0, 0.8) 0%, red 100%);
   color: white;
   width: 8rem;
   text-align: center;

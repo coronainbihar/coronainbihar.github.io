@@ -117,13 +117,13 @@
 },
 {
     "": "", 
-    "confirmed": "28", 
+    "confirmed": "29", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "28", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "0", 
-    "active": "28", 
+    "active": "29", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "PARIHAR"
@@ -234,13 +234,13 @@
 },
 {
     "": "", 
-    "confirmed": "44", 
+    "confirmed": "45", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "recovered": "4", 
-    "active": "39", 
+    "active": "40", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

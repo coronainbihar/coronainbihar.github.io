@@ -104,13 +104,13 @@
 },
 {
     "": "", 
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "Patna", 
     "color": "", 
     "D+E": "10", 
     "link": "district/Patna/index.html", 
     "recovered": "0", 
-    "active": "10", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "DHANARUA"
@@ -247,13 +247,13 @@
 },
 {
     "": "", 
-    "confirmed": "103", 
+    "confirmed": "110", 
     "district": "Patna", 
     "color": "", 
     "D+E": "103", 
     "link": "district/Patna/index.html", 
     "recovered": "13", 
-    "active": "89", 
+    "active": "96", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "PATNA SADAR"
@@ -312,13 +312,13 @@
 },
 {
     "": "", 
-    "confirmed": "233", 
+    "confirmed": "241", 
     "district": "Patna", 
     "color": "red", 
     "D+E": "233", 
     "link": "district/Patna/index.html", 
     "recovered": "55", 
-    "active": "176", 
+    "active": "184", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

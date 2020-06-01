@@ -65,13 +65,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "4", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Nalanda/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "EKANGARSARAI"
@@ -156,13 +156,13 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Nalanda/index.html", 
     "recovered": "1", 
-    "active": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "NAGARNAUSA"
@@ -273,13 +273,13 @@
 },
 {
     "": "", 
-    "confirmed": "102", 
+    "confirmed": "107", 
     "district": "Nalanda", 
     "color": "orange", 
     "D+E": "102", 
     "link": "district/Nalanda/index.html", 
     "recovered": "62", 
-    "active": "40", 
+    "active": "45", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

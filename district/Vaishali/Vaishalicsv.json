@@ -65,13 +65,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "HAJIPUR"
@@ -182,13 +182,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SAHDEI"
@@ -221,13 +221,13 @@
 },
 {
     "": "", 
-    "confirmed": "61", 
+    "confirmed": "63", 
     "district": "Vaishali", 
     "color": "orange", 
     "D+E": "61", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "57", 
+    "active": "59", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

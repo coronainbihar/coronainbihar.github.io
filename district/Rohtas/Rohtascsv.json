@@ -13,13 +13,13 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "4", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Rohtas/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BIKRAMGANJ"
@@ -104,13 +104,13 @@
 },
 {
     "": "", 
-    "confirmed": "28", 
+    "confirmed": "29", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "28", 
     "link": "district/Rohtas/index.html", 
     "recovered": "5", 
-    "active": "23", 
+    "active": "24", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "KOCHAS"
@@ -195,13 +195,13 @@
 },
 {
     "": "", 
-    "confirmed": "84", 
+    "confirmed": "87", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "84", 
     "link": "district/Rohtas/index.html", 
     "recovered": "14", 
-    "active": "69", 
+    "active": "72", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "SASARAM"
@@ -260,13 +260,13 @@
 },
 {
     "": "", 
-    "confirmed": "187", 
+    "confirmed": "192", 
     "district": "Rohtas", 
     "color": "red", 
     "D+E": "187", 
     "link": "district/Rohtas/index.html", 
     "recovered": "62", 
-    "active": "124", 
+    "active": "129", 
     "new_confirmed": "0", 
     "deceased": "1", 
     "block": "Total"

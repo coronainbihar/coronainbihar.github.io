@@ -13,13 +13,13 @@
 },
 {
     "": "", 
-    "confirmed": "0", 
+    "confirmed": "1", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "BAGAHA 2"
@@ -104,13 +104,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "1", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "LAURIYA"
@@ -208,13 +208,13 @@
 },
 {
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "1", 
     "link": "district/West Champaran/index.html", 
     "recovered": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SIKTA"
@@ -247,13 +247,13 @@
 },
 {
     "": "", 
-    "confirmed": "43", 
+    "confirmed": "46", 
     "district": "West Champaran", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/West Champaran/index.html", 
     "recovered": "11", 
-    "active": "32", 
+    "active": "35", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

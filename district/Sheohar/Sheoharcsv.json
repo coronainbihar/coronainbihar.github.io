@@ -39,13 +39,13 @@
 },
 {
     "": "", 
-    "confirmed": "3", 
+    "confirmed": "5", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Sheohar/index.html", 
     "recovered": "0", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SHEOHAR"
@@ -78,13 +78,13 @@
 },
 {
     "": "", 
-    "confirmed": "6", 
+    "confirmed": "8", 
     "district": "Sheohar", 
     "color": "orange", 
     "D+E": "6", 
     "link": "district/Sheohar/index.html", 
     "recovered": "3", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

@@ -52,7 +52,7 @@
 },
 {
     "": "", 
-    "confirmed": "38", 
+    "confirmed": "40", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "37", 
@@ -78,13 +78,13 @@
 },
 {
     "": "", 
-    "confirmed": "6", 
+    "confirmed": "7", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Khagaria/index.html", 
     "recovered": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Parbatta"
@@ -104,13 +104,13 @@
 },
 {
     "": "", 
-    "confirmed": "155", 
+    "confirmed": "158", 
     "district": "Khagaria", 
     "color": "orange", 
     "D+E": "149", 
     "link": "district/Khagaria/index.html", 
     "recovered": "16", 
-    "active": "137", 
+    "active": "140", 
     "new_confirmed": "0", 
     "deceased": "2", 
     "block": "Total"

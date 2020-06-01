@@ -13,13 +13,13 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "3", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Buxar/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Buxar"
@@ -156,13 +156,13 @@
 },
 {
     "": "", 
-    "confirmed": "117", 
+    "confirmed": "118", 
     "district": "Buxar", 
     "color": "red", 
     "D+E": "114", 
     "link": "district/Buxar/index.html", 
     "recovered": "56", 
-    "active": "61", 
+    "active": "62", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

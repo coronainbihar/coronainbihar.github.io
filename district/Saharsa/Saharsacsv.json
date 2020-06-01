@@ -26,13 +26,13 @@
 },
 {
     "": "", 
-    "confirmed": "4", 
+    "confirmed": "6", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "4", 
+    "active": "6", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "MAHISHI"
@@ -91,13 +91,13 @@
 },
 {
     "": "", 
-    "confirmed": "2", 
+    "confirmed": "4", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SAUR BAZAR"
@@ -117,13 +117,13 @@
 },
 {
     "": "", 
-    "confirmed": "11", 
+    "confirmed": "12", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saharsa/index.html", 
     "recovered": "0", 
-    "active": "11", 
+    "active": "12", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "SONBARSA"
@@ -143,13 +143,13 @@
 },
 {
     "": "", 
-    "confirmed": "61", 
+    "confirmed": "66", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "recovered": "8", 
-    "active": "53", 
+    "active": "58", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

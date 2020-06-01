@@ -39,13 +39,13 @@
 },
 {
     "": "", 
-    "confirmed": "8", 
+    "confirmed": "11", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Arwal/index.html", 
     "recovered": "0", 
-    "active": "8", 
+    "active": "11", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Karpi"
@@ -78,13 +78,13 @@
 },
 {
     "": "", 
-    "confirmed": "42", 
+    "confirmed": "45", 
     "district": "Arwal", 
     "color": "orange", 
     "D+E": "38", 
     "link": "district/Arwal/index.html", 
     "recovered": "4", 
-    "active": "38", 
+    "active": "41", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Total"

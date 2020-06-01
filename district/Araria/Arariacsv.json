@@ -26,14 +26,14 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "7", 
     "district": "Araria", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Forbesganj"
 },
@@ -65,14 +65,14 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "8", 
     "district": "Araria", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "3", 
     "deceased": "0", 
     "block": "Narpatganj"
 },
@@ -90,7 +90,7 @@
     "block": "Palasi"
 },
 {
-    "": "", 
+    "": " ", 
     "confirmed": "5", 
     "district": "Araria", 
     "color": "", 
@@ -104,14 +104,14 @@
 },
 {
     "": "", 
-    "confirmed": "5", 
+    "confirmed": "6", 
     "district": "Araria", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Araria/index.html", 
     "recovered": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Sikti"
 },
@@ -130,14 +130,14 @@
 },
 {
     "": "", 
-    "confirmed": "38", 
+    "confirmed": "44", 
     "district": "Araria", 
     "color": "orange", 
     "D+E": "27", 
     "link": "district/Araria/index.html", 
     "recovered": "3", 
-    "active": "35", 
-    "new_confirmed": "0", 
+    "active": "41", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 }

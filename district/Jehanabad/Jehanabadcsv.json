@@ -1,12 +1,12 @@
 [{
     "": "", 
-    "confirmed": "27", 
+    "confirmed": "28", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "1", 
-    "active": "26", 
+    "active": "27", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Ghoshi"
@@ -39,14 +39,14 @@
 },
 {
     "": "", 
-    "confirmed": "15", 
+    "confirmed": "22", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "15", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "22", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Kako"
 },
@@ -65,13 +65,13 @@
 },
 {
     "": "", 
-    "confirmed": "15", 
+    "confirmed": "21", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "15", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "0", 
-    "active": "15", 
+    "active": "21", 
     "new_confirmed": "0", 
     "deceased": "0", 
     "block": "Modanganj"
@@ -104,14 +104,14 @@
 },
 {
     "": "", 
-    "confirmed": "146", 
+    "confirmed": "160", 
     "district": "Jehanabad", 
     "color": "orange", 
     "D+E": "114", 
     "link": "district/Jehanabad/index.html", 
     "recovered": "5", 
-    "active": "141", 
-    "new_confirmed": "0", 
+    "active": "155", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "Total"
 }

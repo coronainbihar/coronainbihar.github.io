@@ -78,14 +78,14 @@
 },
 {
     "": "", 
-    "confirmed": "22", 
+    "confirmed": "27", 
     "district": "Banka", 
     "color": "", 
     "D+E": "22", 
     "link": "district/Banka/index.html", 
     "recovered": "0", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "27", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Dhoraiya"
 },
@@ -156,14 +156,14 @@
 },
 {
     "": "", 
-    "confirmed": "115", 
+    "confirmed": "120", 
     "district": "Banka", 
     "color": "orange", 
     "D+E": "108", 
     "link": "district/Banka/index.html", 
     "recovered": "2", 
-    "active": "113", 
-    "new_confirmed": "0", 
+    "active": "118", 
+    "new_confirmed": "5", 
     "deceased": "0", 
     "block": "Total"
 }

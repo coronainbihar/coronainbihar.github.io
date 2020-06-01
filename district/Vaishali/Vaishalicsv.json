@@ -1,13 +1,13 @@
 [{
     "": "", 
-    "confirmed": "1", 
+    "confirmed": "2", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "BHAGWANPUR"
 },
@@ -195,14 +195,14 @@
 },
 {
     "": "", 
-    "confirmed": "10", 
+    "confirmed": "11", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "10", 
     "link": "district/Vaishali/index.html", 
     "recovered": "0", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "1", 
     "deceased": "0", 
     "block": "VAISHALI"
 },
@@ -221,14 +221,14 @@
 },
 {
     "": "", 
-    "confirmed": "63", 
+    "confirmed": "65", 
     "district": "Vaishali", 
     "color": "orange", 
     "D+E": "61", 
     "link": "district/Vaishali/index.html", 
     "recovered": "2", 
-    "active": "59", 
-    "new_confirmed": "0", 
+    "active": "61", 
+    "new_confirmed": "2", 
     "deceased": "2", 
     "block": "Total"
 }

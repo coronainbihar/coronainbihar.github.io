@@ -239,8 +239,8 @@
     "block": "WARISNAGAR"
 },
 {
-    "confirmed": "75", 
-    "recovered": "63", 
+    "confirmed": "74", 
+    "recovered": "62", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "17", 
@@ -251,8 +251,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "133", 
-    "recovered": "63", 
+    "confirmed": "132", 
+    "recovered": "62", 
     "district": "Samastipur", 
     "color": "orange", 
     "D+E": "63", 

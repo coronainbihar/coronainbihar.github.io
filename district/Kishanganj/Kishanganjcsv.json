@@ -84,7 +84,7 @@
 },
 {
     "confirmed": "35", 
-    "recovered": "19", 
+    "recovered": "18", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
@@ -96,13 +96,13 @@
 },
 {
     "confirmed": "104", 
-    "recovered": "19", 
+    "recovered": "18", 
     "district": "Kishanganj", 
     "color": "orange", 
     "D+E": "32", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "85", 
+    "active": "86", 
     "new_confirmed": "4", 
     "block": "Total"
 }

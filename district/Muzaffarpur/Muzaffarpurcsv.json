@@ -191,8 +191,8 @@
     "block": "BANDRA"
 },
 {
-    "confirmed": "48", 
-    "recovered": "35", 
+    "confirmed": "62", 
+    "recovered": "36", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
@@ -203,14 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "112", 
-    "recovered": "35", 
+    "confirmed": "126", 
+    "recovered": "36", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "1", 
-    "active": "76", 
+    "active": "89", 
     "new_confirmed": "0", 
     "block": "Total"
 }

@@ -119,7 +119,7 @@
     "block": "SONBARSA"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "31", 
     "recovered": "45", 
     "district": "Saharsa", 
     "color": "", 
@@ -131,14 +131,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "88", 
+    "confirmed": "93", 
     "recovered": "45", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "43", 
+    "active": "48", 
     "new_confirmed": "0", 
     "block": "Total"
 }

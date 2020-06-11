@@ -239,26 +239,26 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "45", 
-    "recovered": "43", 
+    "confirmed": "70", 
+    "recovered": "46", 
     "district": "Saran", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saran/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "110", 
-    "recovered": "45", 
+    "confirmed": "135", 
+    "recovered": "48", 
     "district": "Saran", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Saran/index.html", 
-    "deceased": "1", 
-    "active": "64", 
+    "deceased": "2", 
+    "active": "85", 
     "new_confirmed": "0", 
     "block": "Total"
 }

@@ -191,8 +191,8 @@
     "block": "VAISHALI"
 },
 {
-    "confirmed": "38", 
-    "recovered": "47", 
+    "confirmed": "42", 
+    "recovered": "58", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "3", 
@@ -203,14 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "100", 
-    "recovered": "49", 
+    "confirmed": "104", 
+    "recovered": "60", 
     "district": "Vaishali", 
     "color": "orange", 
     "D+E": "61", 
     "link": "district/Vaishali/index.html", 
     "deceased": "2", 
-    "active": "49", 
+    "active": "42", 
     "new_confirmed": "2", 
     "block": "Total"
 }

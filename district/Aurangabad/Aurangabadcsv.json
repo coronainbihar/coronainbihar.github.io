@@ -131,8 +131,8 @@
     "block": "Rafiganj"
 },
 {
-    "confirmed": "23", 
-    "recovered": "49", 
+    "confirmed": "32", 
+    "recovered": "58", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "9", 
@@ -143,8 +143,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "88", 
-    "recovered": "53", 
+    "confirmed": "97", 
+    "recovered": "62", 
     "district": "Aurangabad", 
     "color": "orange", 
     "D+E": "63", 

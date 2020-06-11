@@ -59,8 +59,8 @@
     "block": "TARIYANI"
 },
 {
-    "confirmed": "16", 
-    "recovered": "9", 
+    "confirmed": "20", 
+    "recovered": "7", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
@@ -71,14 +71,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "24", 
-    "recovered": "9", 
+    "confirmed": "28", 
+    "recovered": "7", 
     "district": "Sheohar", 
     "color": "orange", 
     "D+E": "6", 
     "link": "district/Sheohar/index.html", 
     "deceased": "1", 
-    "active": "14", 
+    "active": "20", 
     "new_confirmed": "0", 
     "block": "Total"
 }

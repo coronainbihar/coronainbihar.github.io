@@ -1,37 +1,37 @@
 [{
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "2", 
     "block": "BASANTPUR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "block": "CHHATAPUR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "block": "KISHANPUR"
 },
 {
@@ -95,27 +95,27 @@
     "block": "RAGHOPUR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "block": "SARAIGARH"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "block": "SUPAUL"
 },
 {
@@ -131,7 +131,7 @@
     "block": "TRIVENGANJ"
 },
 {
-    "confirmed": "95", 
+    "confirmed": "87", 
     "recovered": "49", 
     "district": "Supaul", 
     "color": "", 
@@ -151,7 +151,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "120", 
-    "new_confirmed": "0", 
+    "new_confirmed": "8", 
     "block": "Total"
 }
 ]

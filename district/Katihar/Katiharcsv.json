@@ -11,15 +11,15 @@
     "block": "Amdabad"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "6", 
     "block": "Azamnagar"
 },
 {
@@ -35,15 +35,15 @@
     "block": "Balrampur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "block": "Barari"
 },
 {
@@ -95,27 +95,27 @@
     "block": "Hasanganj"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Kadwa"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "15", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "1", 
     "block": "Katihar"
 },
 {
@@ -131,15 +131,15 @@
     "block": "Korha"
 },
 {
-    "confirmed": "16", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "16", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "1", 
     "block": "Kursela"
 },
 {
@@ -191,27 +191,27 @@
     "block": "Sameli"
 },
 {
-    "confirmed": "88", 
-    "recovered": "82", 
+    "confirmed": "89", 
+    "recovered": "110", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "34", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
     "active": "0", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "block": "Unknown"
 },
 {
-    "confirmed": "196", 
-    "recovered": "82", 
+    "confirmed": "207", 
+    "recovered": "110", 
     "district": "Katihar", 
     "color": "orange", 
     "D+E": "135", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "114", 
-    "new_confirmed": "5", 
+    "active": "97", 
+    "new_confirmed": "16", 
     "block": "Total"
 }
 ]

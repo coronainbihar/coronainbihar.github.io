@@ -187,7 +187,7 @@
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "0", 
+    "new_confirmed": "9", 
     "block": "Paharpur"
 },
 {
@@ -323,8 +323,8 @@
     "block": "Bankatwa"
 },
 {
-    "confirmed": "66", 
-    "recovered": "83", 
+    "confirmed": "70", 
+    "recovered": "94", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "27", 
@@ -335,15 +335,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "136", 
-    "recovered": "83", 
+    "confirmed": "140", 
+    "recovered": "94", 
     "district": "East Champaran", 
     "color": "orange", 
     "D+E": "94", 
     "link": "district/East Champaran/index.html", 
     "deceased": "1", 
-    "active": "52", 
-    "new_confirmed": "0", 
+    "active": "45", 
+    "new_confirmed": "9", 
     "block": "Total"
 }
 ]

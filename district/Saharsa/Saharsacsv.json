@@ -83,15 +83,15 @@
     "block": "SATTAR KATIYA"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "block": "SAUR BAZAR"
 },
 {
@@ -107,20 +107,20 @@
     "block": "SIMRI BAKHTIYARPUR"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "1", 
     "block": "SONBARSA"
 },
 {
-    "confirmed": "34", 
-    "recovered": "51", 
+    "confirmed": "43", 
+    "recovered": "59", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "4", 
@@ -131,15 +131,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "96", 
-    "recovered": "51", 
+    "confirmed": "107", 
+    "recovered": "59", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "45", 
-    "new_confirmed": "0", 
+    "active": "48", 
+    "new_confirmed": "2", 
     "block": "Total"
 }
 ]

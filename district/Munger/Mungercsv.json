@@ -107,8 +107,8 @@
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "73", 
-    "recovered": "106", 
+    "confirmed": "109", 
+    "recovered": "113", 
     "district": "Munger", 
     "color": "", 
     "D+E": "0", 
@@ -119,14 +119,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "229", 
-    "recovered": "144", 
+    "confirmed": "265", 
+    "recovered": "151", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "84", 
+    "active": "113", 
     "new_confirmed": "0", 
     "block": "Total"
 }

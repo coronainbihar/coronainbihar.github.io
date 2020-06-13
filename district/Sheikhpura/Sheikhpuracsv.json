@@ -72,7 +72,7 @@
 },
 {
     "confirmed": "30", 
-    "recovered": "52", 
+    "recovered": "55", 
     "district": "Sheikhpura", 
     "color": "", 
     "D+E": "13", 
@@ -84,13 +84,13 @@
 },
 {
     "confirmed": "120", 
-    "recovered": "52", 
+    "recovered": "55", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "D+E": "59", 
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
-    "active": "68", 
+    "active": "65", 
     "new_confirmed": "0", 
     "block": "Total"
 }

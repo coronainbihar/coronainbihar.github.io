@@ -119,8 +119,8 @@
     "block": "Sono"
 },
 {
-    "confirmed": "20", 
-    "recovered": "28", 
+    "confirmed": "21", 
+    "recovered": "29", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "11", 
@@ -131,8 +131,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "50", 
-    "recovered": "28", 
+    "confirmed": "51", 
+    "recovered": "29", 
     "district": "Jamui", 
     "color": "orange", 
     "D+E": "29", 

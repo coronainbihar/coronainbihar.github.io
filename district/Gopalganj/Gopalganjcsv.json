@@ -11,15 +11,15 @@
     "block": "Baikunthpur"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "2", 
     "block": "Barauli"
 },
 {
@@ -131,15 +131,15 @@
     "block": "Sidhwalia"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Thawe"
 },
 {
@@ -167,7 +167,7 @@
     "block": "Vijaipur"
 },
 {
-    "confirmed": "47", 
+    "confirmed": "51", 
     "recovered": "98", 
     "district": "Gopalganj", 
     "color": "", 
@@ -179,15 +179,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "146", 
+    "confirmed": "153", 
     "recovered": "101", 
     "district": "Gopalganj", 
     "color": "orange", 
     "D+E": "101", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "45", 
-    "new_confirmed": "0", 
+    "active": "52", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

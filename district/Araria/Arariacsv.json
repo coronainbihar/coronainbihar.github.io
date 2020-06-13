@@ -107,8 +107,8 @@
     "block": "Sikti"
 },
 {
-    "confirmed": "40", 
-    "recovered": "49", 
+    "confirmed": "41", 
+    "recovered": "59", 
     "district": "Araria", 
     "color": "", 
     "D+E": "0", 
@@ -119,14 +119,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "84", 
-    "recovered": "49", 
+    "confirmed": "85", 
+    "recovered": "59", 
     "district": "Araria", 
     "color": "orange", 
     "D+E": "27", 
     "link": "district/Araria/index.html", 
     "deceased": "1", 
-    "active": "34", 
+    "active": "25", 
     "new_confirmed": "5", 
     "block": "Total"
 }

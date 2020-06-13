@@ -47,15 +47,15 @@
     "block": "Kako"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Jehanabad/index.html", 
     "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "2", 
     "block": "Makhdumpur"
 },
 {
@@ -83,27 +83,27 @@
     "block": "Ratni Faridpur"
 },
 {
-    "confirmed": "22", 
+    "confirmed": "25", 
     "recovered": "143", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Jehanabad/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "182", 
+    "confirmed": "187", 
     "recovered": "144", 
     "district": "Jehanabad", 
     "color": "orange", 
     "D+E": "114", 
     "link": "district/Jehanabad/index.html", 
-    "deceased": "1", 
-    "active": "37", 
-    "new_confirmed": "1", 
+    "deceased": "2", 
+    "active": "41", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

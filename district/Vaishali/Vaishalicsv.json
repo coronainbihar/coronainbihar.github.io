@@ -11,15 +11,15 @@
     "block": "BHAGWANPUR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "1", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "block": "BIDUPUR"
 },
 {
@@ -191,8 +191,8 @@
     "block": "VAISHALI"
 },
 {
-    "confirmed": "42", 
-    "recovered": "58", 
+    "confirmed": "41", 
+    "recovered": "64", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "3", 
@@ -204,14 +204,14 @@
 },
 {
     "confirmed": "104", 
-    "recovered": "60", 
+    "recovered": "66", 
     "district": "Vaishali", 
     "color": "orange", 
     "D+E": "61", 
     "link": "district/Vaishali/index.html", 
     "deceased": "2", 
-    "active": "42", 
-    "new_confirmed": "2", 
+    "active": "36", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

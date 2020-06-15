@@ -1,13 +1,13 @@
 [{
-    "confirmed": "9", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "1", 
     "block": "Araria"
 },
 {
@@ -23,39 +23,39 @@
     "block": "Bhargama"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "9", 
     "new_confirmed": "1", 
     "block": "Forbesganj"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "2", 
     "block": "Jokihat"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Kursakanta"
 },
 {
@@ -67,31 +67,31 @@
     "link": "district/Araria/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Narpatganj"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "Palasi"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "block": "Raniganj"
 },
 {
@@ -103,12 +103,12 @@
     "link": "district/Araria/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Sikti"
 },
 {
-    "confirmed": "41", 
-    "recovered": "59", 
+    "confirmed": "33", 
+    "recovered": "73", 
     "district": "Araria", 
     "color": "", 
     "D+E": "0", 
@@ -119,15 +119,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "85", 
-    "recovered": "59", 
+    "confirmed": "88", 
+    "recovered": "73", 
     "district": "Araria", 
     "color": "orange", 
     "D+E": "27", 
     "link": "district/Araria/index.html", 
     "deceased": "1", 
-    "active": "25", 
-    "new_confirmed": "5", 
+    "active": "14", 
+    "new_confirmed": "6", 
     "block": "Total"
 }
 ]

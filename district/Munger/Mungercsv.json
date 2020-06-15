@@ -1,25 +1,25 @@
 [{
-    "confirmed": "11", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "6", 
     "block": "ASARGANJ"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "block": "BARIYARPUR"
 },
 {
@@ -59,55 +59,55 @@
     "block": "JAMALPUR"
 },
 {
-    "confirmed": "32", 
+    "confirmed": "33", 
     "recovered": "8", 
     "district": "Munger", 
     "color": "", 
     "D+E": "29", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "23", 
-    "new_confirmed": "0", 
+    "active": "24", 
+    "new_confirmed": "1", 
     "block": "MUNGER SADAR"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "1", 
     "block": "SANGARAMPUR"
-},
-{
-    "confirmed": "4", 
-    "recovered": "0", 
-    "district": "Munger", 
-    "color": "", 
-    "D+E": "3", 
-    "link": "district/Munger/index.html", 
-    "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
-    "block": "TARAPURA"
 },
 {
     "confirmed": "5", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
-    "D+E": "5", 
+    "D+E": "3", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
     "active": "5", 
     "new_confirmed": "0", 
+    "block": "TARAPURA"
+},
+{
+    "confirmed": "11", 
+    "recovered": "0", 
+    "district": "Munger", 
+    "color": "", 
+    "D+E": "5", 
+    "link": "district/Munger/index.html", 
+    "deceased": "0", 
+    "active": "11", 
+    "new_confirmed": "6", 
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "109", 
+    "confirmed": "90", 
     "recovered": "113", 
     "district": "Munger", 
     "color": "", 
@@ -119,15 +119,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "265", 
+    "confirmed": "270", 
     "recovered": "151", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "113", 
-    "new_confirmed": "0", 
+    "active": "118", 
+    "new_confirmed": "15", 
     "block": "Total"
 }
 ]

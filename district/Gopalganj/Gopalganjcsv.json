@@ -1,25 +1,25 @@
 [{
-    "confirmed": "1", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "Baikunthpur"
 },
 {
-    "confirmed": "16", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "16", 
-    "new_confirmed": "2", 
+    "active": "17", 
+    "new_confirmed": "0", 
     "block": "Barauli"
 },
 {
@@ -35,15 +35,15 @@
     "block": "Bhore"
 },
 {
-    "confirmed": "28", 
+    "confirmed": "32", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "27", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "28", 
-    "new_confirmed": "0", 
+    "active": "32", 
+    "new_confirmed": "1", 
     "block": "Gopalganj"
 },
 {
@@ -59,26 +59,26 @@
     "block": "Hathua"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "2", 
     "block": "Kateya"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Kuchaikot"
 },
@@ -139,7 +139,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Thawe"
 },
 {
@@ -167,8 +167,8 @@
     "block": "Vijaipur"
 },
 {
-    "confirmed": "51", 
-    "recovered": "98", 
+    "confirmed": "52", 
+    "recovered": "118", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "10", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "153", 
-    "recovered": "101", 
+    "confirmed": "167", 
+    "recovered": "121", 
     "district": "Gopalganj", 
     "color": "orange", 
     "D+E": "101", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "52", 
+    "active": "46", 
     "new_confirmed": "3", 
     "block": "Total"
 }

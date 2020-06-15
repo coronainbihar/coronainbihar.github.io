@@ -1,24 +1,24 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "AKORHIGOLA"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "15", 
     "recovered": "0", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "15", 
     "new_confirmed": "0", 
     "block": "BIKRAMGANJ"
 },
@@ -55,18 +55,18 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
     "active": "19", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "block": "DEHRI"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "12", 
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "0", 
     "block": "DINARA"
 },
@@ -107,14 +107,14 @@
     "block": "KOCHAS"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "NASRIGANJ"
 },
@@ -187,18 +187,18 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
     "active": "73", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "SASARAM"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "12", 
     "recovered": "1", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "11", 
     "new_confirmed": "0", 
     "block": "SHEOSAGAR"
 },
@@ -223,12 +223,12 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
     "active": "5", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "TILOUTHU"
 },
 {
-    "confirmed": "75", 
-    "recovered": "174", 
+    "confirmed": "59", 
+    "recovered": "205", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "0", 
@@ -239,15 +239,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "278", 
-    "recovered": "196", 
+    "confirmed": "282", 
+    "recovered": "227", 
     "district": "Rohtas", 
     "color": "red", 
     "D+E": "187", 
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
-    "active": "81", 
-    "new_confirmed": "11", 
+    "active": "54", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

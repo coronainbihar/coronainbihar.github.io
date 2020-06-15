@@ -7,19 +7,19 @@
     "link": "district/Saran/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "AMNOUR"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "BANIYAPUR"
 },
 {
@@ -31,31 +31,31 @@
     "link": "district/Saran/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "CHAPRA"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "4", 
     "block": "DARIYAPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "2", 
     "block": "DIGHWARA"
 },
 {
@@ -155,15 +155,15 @@
     "block": "MARHOURAH"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "block": "MASHRAKH"
 },
 {
@@ -191,15 +191,15 @@
     "block": "PANAPUR"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "3", 
     "block": "PARSA"
 },
 {
@@ -239,27 +239,27 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "77", 
-    "recovered": "63", 
+    "confirmed": "81", 
+    "recovered": "85", 
     "district": "Saran", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saran/index.html", 
     "deceased": "2", 
     "active": "0", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "145", 
-    "recovered": "65", 
+    "confirmed": "160", 
+    "recovered": "87", 
     "district": "Saran", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Saran/index.html", 
     "deceased": "2", 
-    "active": "78", 
-    "new_confirmed": "4", 
+    "active": "71", 
+    "new_confirmed": "11", 
     "block": "Total"
 }
 ]

@@ -11,15 +11,15 @@
     "block": "Bachwara"
 },
 {
-    "confirmed": "23", 
+    "confirmed": "24", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "23", 
-    "new_confirmed": "0", 
+    "active": "24", 
+    "new_confirmed": "1", 
     "block": "Bakhri"
 },
 {
@@ -83,27 +83,27 @@
     "block": "Birpur"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "1", 
     "block": "Cheria Bariyarpur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "2", 
     "block": "Chhourahi"
 },
 {
@@ -119,27 +119,27 @@
     "block": "Dandari"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "23", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "19", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "20", 
-    "new_confirmed": "0", 
+    "active": "23", 
+    "new_confirmed": "3", 
     "block": "Gadhpura"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "block": "Khodabandpur"
 },
 {
@@ -215,8 +215,8 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "189", 
-    "recovered": "228", 
+    "confirmed": "184", 
+    "recovered": "247", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "39", 
@@ -227,15 +227,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "294", 
-    "recovered": "230", 
+    "confirmed": "299", 
+    "recovered": "249", 
     "district": "Begusarai", 
     "color": "orange", 
     "D+E": "182", 
     "link": "district/Begusarai/index.html", 
     "deceased": "3", 
-    "active": "61", 
-    "new_confirmed": "0", 
+    "active": "47", 
+    "new_confirmed": "8", 
     "block": "Total"
 }
 ]

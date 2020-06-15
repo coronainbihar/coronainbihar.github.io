@@ -59,26 +59,26 @@
     "block": "Chhauradano"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "3", 
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Chiraiya"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "4", 
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Dhaka"
 },
@@ -119,14 +119,14 @@
     "block": "Kalyanpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "Kesaria"
 },
@@ -155,27 +155,27 @@
     "block": "Madhuban"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "4", 
     "block": "Mehsi"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "11", 
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "14", 
+    "new_confirmed": "3", 
     "block": "Motihari"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/East Champaran/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "block": "Paharpur"
 },
 {
@@ -323,8 +323,8 @@
     "block": "Bankatwa"
 },
 {
-    "confirmed": "70", 
-    "recovered": "94", 
+    "confirmed": "61", 
+    "recovered": "118", 
     "district": "East Champaran", 
     "color": "", 
     "D+E": "27", 
@@ -335,15 +335,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "140", 
-    "recovered": "94", 
+    "confirmed": "143", 
+    "recovered": "118", 
     "district": "East Champaran", 
     "color": "orange", 
     "D+E": "94", 
     "link": "district/East Champaran/index.html", 
     "deceased": "1", 
-    "active": "45", 
-    "new_confirmed": "9", 
+    "active": "24", 
+    "new_confirmed": "8", 
     "block": "Total"
 }
 ]

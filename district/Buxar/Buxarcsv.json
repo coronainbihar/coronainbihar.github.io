@@ -35,14 +35,14 @@
     "block": "Chakki"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "Chausha"
 },
@@ -71,15 +71,15 @@
     "block": "Dumraon"
 },
 {
-    "confirmed": "16", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "3", 
     "block": "Itarhi"
 },
 {
@@ -131,8 +131,8 @@
     "block": "Simari"
 },
 {
-    "confirmed": "60", 
-    "recovered": "87", 
+    "confirmed": "63", 
+    "recovered": "90", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "25", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "153", 
-    "recovered": "113", 
+    "confirmed": "158", 
+    "recovered": "116", 
     "district": "Buxar", 
     "color": "red", 
     "D+E": "114", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "40", 
-    "new_confirmed": "0", 
+    "active": "42", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

@@ -7,7 +7,7 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
     "active": "37", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Allouli"
 },
 {
@@ -31,23 +31,23 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
     "active": "22", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Chautham"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Khagaria/index.html", 
     "deceased": "1", 
-    "active": "8", 
-    "new_confirmed": "1", 
+    "active": "9", 
+    "new_confirmed": "0", 
     "block": "Gogari"
 },
 {
-    "confirmed": "43", 
+    "confirmed": "44", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
@@ -55,7 +55,7 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
     "active": "13", 
-    "new_confirmed": "3", 
+    "new_confirmed": "1", 
     "block": "Khagaria"
 },
 {
@@ -67,43 +67,43 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
     "active": "18", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Mansi"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "2", 
+    "active": "11", 
+    "new_confirmed": "0", 
     "block": "Parbatta"
 },
 {
-    "confirmed": "141", 
-    "recovered": "125", 
+    "confirmed": "140", 
+    "recovered": "231", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "24", 
     "link": "district/Khagaria/index.html", 
     "deceased": "2", 
     "active": "0", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "288", 
-    "recovered": "125", 
+    "confirmed": "291", 
+    "recovered": "231", 
     "district": "Khagaria", 
     "color": "orange", 
     "D+E": "149", 
     "link": "district/Khagaria/index.html", 
     "deceased": "3", 
-    "active": "160", 
-    "new_confirmed": "16", 
+    "active": "57", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

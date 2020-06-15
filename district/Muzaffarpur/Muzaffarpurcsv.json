@@ -107,26 +107,26 @@
     "block": "MUSHAHARI"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "block": "BOCHAHAN"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "AURAI"
 },
@@ -143,15 +143,15 @@
     "block": "KATARA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "block": "GAIGHAT"
 },
 {
@@ -167,14 +167,14 @@
     "block": "MURAUL"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "14", 
     "new_confirmed": "0", 
     "block": "SAKRA"
 },
@@ -191,8 +191,8 @@
     "block": "BANDRA"
 },
 {
-    "confirmed": "81", 
-    "recovered": "49", 
+    "confirmed": "93", 
+    "recovered": "52", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
@@ -203,15 +203,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "145", 
-    "recovered": "49", 
+    "confirmed": "162", 
+    "recovered": "52", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "1", 
-    "active": "95", 
-    "new_confirmed": "0", 
+    "active": "109", 
+    "new_confirmed": "2", 
     "block": "Total"
 }
 ]

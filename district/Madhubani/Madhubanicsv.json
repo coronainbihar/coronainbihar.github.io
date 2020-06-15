@@ -19,7 +19,7 @@
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "BABUBARHI"
 },
 {
@@ -31,19 +31,19 @@
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
     "active": "25", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "BASOPATTI"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Madhubani", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
-    "active": "12", 
-    "new_confirmed": "1", 
+    "active": "16", 
+    "new_confirmed": "4", 
     "block": "BENIPATTI"
 },
 {
@@ -79,7 +79,7 @@
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "HARLAKHI"
 },
 {
@@ -179,15 +179,15 @@
     "block": "LAUKAHI"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Madhubani", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "5", 
     "block": "MADHEPUR"
 },
 {
@@ -227,31 +227,31 @@
     "block": "PHULPARAS"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Madhubani", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "block": "RAHIKA"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "24", 
     "recovered": "0", 
     "district": "Madhubani", 
     "color": "", 
     "D+E": "12", 
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
-    "active": "18", 
-    "new_confirmed": "5", 
+    "active": "24", 
+    "new_confirmed": "6", 
     "block": "RAJNAGAR"
 },
 {
-    "confirmed": "112", 
+    "confirmed": "96", 
     "recovered": "133", 
     "district": "Madhubani", 
     "color": "", 
@@ -271,7 +271,7 @@
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
     "active": "149", 
-    "new_confirmed": "14", 
+    "new_confirmed": "16", 
     "block": "Total"
 }
 ]

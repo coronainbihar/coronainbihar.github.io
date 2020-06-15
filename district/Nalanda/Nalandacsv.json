@@ -59,14 +59,14 @@
     "block": "CHANDI"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "EKANGARSARAI"
 },
@@ -83,14 +83,14 @@
     "block": "GIRIYAK"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "HARNAUT"
 },
@@ -103,18 +103,18 @@
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "HILSA"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "ISLAMPUR"
 },
@@ -155,14 +155,14 @@
     "block": "NAGARNAUSA"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "NOORSARAI"
 },
@@ -239,8 +239,8 @@
     "block": "THARTHARI"
 },
 {
-    "confirmed": "36", 
-    "recovered": "84", 
+    "confirmed": "33", 
+    "recovered": "95", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
@@ -251,15 +251,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "143", 
-    "recovered": "114", 
+    "confirmed": "148", 
+    "recovered": "125", 
     "district": "Nalanda", 
     "color": "orange", 
     "D+E": "102", 
     "link": "district/Nalanda/index.html", 
     "deceased": "1", 
-    "active": "28", 
-    "new_confirmed": "1", 
+    "active": "22", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

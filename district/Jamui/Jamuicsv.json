@@ -31,18 +31,18 @@
     "link": "district/Jamui/index.html", 
     "deceased": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Gidhaur"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Jamui/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Isalmanagar Aliganj"
 },
@@ -67,7 +67,7 @@
     "link": "district/Jamui/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Jhajha"
 },
 {
@@ -119,7 +119,7 @@
     "block": "Sono"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "19", 
     "recovered": "29", 
     "district": "Jamui", 
     "color": "", 
@@ -139,7 +139,7 @@
     "link": "district/Jamui/index.html", 
     "deceased": "1", 
     "active": "21", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

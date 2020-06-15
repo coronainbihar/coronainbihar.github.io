@@ -1,24 +1,24 @@
 [{
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "block": "Amarpur"
 },
 {
-    "confirmed": "23", 
+    "confirmed": "24", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "23", 
+    "active": "24", 
     "new_confirmed": "0", 
     "block": "Banka"
 },
@@ -79,7 +79,7 @@
     "link": "district/Banka/index.html", 
     "deceased": "0", 
     "active": "27", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "Dhoraiya"
 },
 {
@@ -119,19 +119,19 @@
     "block": "Rajoun"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "block": "Shambhuganj"
 },
 {
-    "confirmed": "47", 
+    "confirmed": "64", 
     "recovered": "95", 
     "district": "Banka", 
     "color": "", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "152", 
+    "confirmed": "172", 
     "recovered": "95", 
     "district": "Banka", 
     "color": "orange", 
     "D+E": "108", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "57", 
-    "new_confirmed": "5", 
+    "active": "77", 
+    "new_confirmed": "2", 
     "block": "Total"
 }
 ]

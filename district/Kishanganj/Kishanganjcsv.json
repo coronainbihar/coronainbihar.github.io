@@ -7,42 +7,42 @@
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
     "active": "37", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Bahadurganj"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "6", 
     "new_confirmed": "1", 
     "block": "Dighalbank"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "13", 
-    "new_confirmed": "1", 
+    "active": "14", 
+    "new_confirmed": "0", 
     "block": "Kishanganj"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "Kochadhaman"
 },
@@ -55,19 +55,19 @@
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Pothia"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "8", 
     "block": "Terhagachh"
 },
 {
@@ -83,8 +83,8 @@
     "block": "Thakurganj"
 },
 {
-    "confirmed": "47", 
-    "recovered": "39", 
+    "confirmed": "35", 
+    "recovered": "92", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
@@ -95,15 +95,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "118", 
-    "recovered": "39", 
+    "confirmed": "122", 
+    "recovered": "92", 
     "district": "Kishanganj", 
     "color": "orange", 
     "D+E": "32", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "79", 
-    "new_confirmed": "6", 
+    "active": "30", 
+    "new_confirmed": "9", 
     "block": "Total"
 }
 ]

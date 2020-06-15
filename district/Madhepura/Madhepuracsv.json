@@ -79,7 +79,7 @@
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "KUMARKHAND"
 },
 {
@@ -139,7 +139,7 @@
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "SIGHESHWARSTHAN"
 },
 {
@@ -155,8 +155,8 @@
     "block": "UDA KISHANGANJ"
 },
 {
-    "confirmed": "59", 
-    "recovered": "45", 
+    "confirmed": "61", 
+    "recovered": "75", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "2", 
@@ -167,15 +167,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "140", 
-    "recovered": "47", 
+    "confirmed": "142", 
+    "recovered": "77", 
     "district": "Madhepura", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Madhepura/index.html", 
     "deceased": "1", 
-    "active": "92", 
-    "new_confirmed": "3", 
+    "active": "64", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

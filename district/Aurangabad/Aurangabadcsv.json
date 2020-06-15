@@ -1,36 +1,36 @@
 [{
-    "confirmed": "21", 
+    "confirmed": "22", 
     "recovered": "1", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "20", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "20", 
+    "active": "21", 
     "new_confirmed": "0", 
     "block": "Aurangabad"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "Barun"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Daudnagar"
 },
@@ -47,15 +47,15 @@
     "block": "Deo"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Goh"
 },
 {
@@ -71,15 +71,15 @@
     "block": "Haspura"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Kutumba"
 },
 {
@@ -119,20 +119,20 @@
     "block": "Obra"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "1", 
     "block": "Rafiganj"
 },
 {
-    "confirmed": "52", 
-    "recovered": "58", 
+    "confirmed": "54", 
+    "recovered": "70", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "9", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "117", 
-    "recovered": "62", 
+    "confirmed": "129", 
+    "recovered": "74", 
     "district": "Aurangabad", 
     "color": "orange", 
     "D+E": "63", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "1", 
     "active": "54", 
-    "new_confirmed": "0", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

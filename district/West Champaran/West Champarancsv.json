@@ -11,15 +11,15 @@
     "block": "BAGAHA 1"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "5", 
     "block": "BAGAHA 2"
 },
 {
@@ -71,15 +71,15 @@
     "block": "CHANPATIA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "block": "GAUNAHA"
 },
 {
@@ -131,15 +131,15 @@
     "block": "MAINATAND"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "1", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "5", 
     "block": "MAJHAULIA"
 },
 {
@@ -203,20 +203,20 @@
     "block": "SIKTA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "1", 
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "46", 
-    "recovered": "37", 
+    "confirmed": "50", 
+    "recovered": "71", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
@@ -227,15 +227,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "92", 
-    "recovered": "37", 
+    "confirmed": "108", 
+    "recovered": "71", 
     "district": "West Champaran", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "55", 
-    "new_confirmed": "0", 
+    "active": "37", 
+    "new_confirmed": "12", 
     "block": "Total"
 }
 ]

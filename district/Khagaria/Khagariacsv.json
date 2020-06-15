@@ -83,7 +83,7 @@
     "block": "Parbatta"
 },
 {
-    "confirmed": "140", 
+    "confirmed": "142", 
     "recovered": "231", 
     "district": "Khagaria", 
     "color": "", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "291", 
+    "confirmed": "293", 
     "recovered": "231", 
     "district": "Khagaria", 
     "color": "orange", 
     "D+E": "149", 
     "link": "district/Khagaria/index.html", 
     "deceased": "3", 
-    "active": "57", 
+    "active": "59", 
     "new_confirmed": "1", 
     "block": "Total"
 }

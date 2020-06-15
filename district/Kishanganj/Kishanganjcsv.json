@@ -83,7 +83,7 @@
     "block": "Thakurganj"
 },
 {
-    "confirmed": "35", 
+    "confirmed": "38", 
     "recovered": "92", 
     "district": "Kishanganj", 
     "color": "", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "122", 
+    "confirmed": "125", 
     "recovered": "92", 
     "district": "Kishanganj", 
     "color": "orange", 
     "D+E": "32", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "30", 
+    "active": "33", 
     "new_confirmed": "9", 
     "block": "Total"
 }

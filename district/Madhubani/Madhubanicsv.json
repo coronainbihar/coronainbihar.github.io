@@ -251,7 +251,7 @@
     "block": "RAJNAGAR"
 },
 {
-    "confirmed": "96", 
+    "confirmed": "117", 
     "recovered": "133", 
     "district": "Madhubani", 
     "color": "", 
@@ -263,14 +263,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "282", 
+    "confirmed": "303", 
     "recovered": "133", 
     "district": "Madhubani", 
     "color": "orange", 
     "D+E": "177", 
     "link": "district/Madhubani/index.html", 
     "deceased": "0", 
-    "active": "149", 
+    "active": "170", 
     "new_confirmed": "16", 
     "block": "Total"
 }

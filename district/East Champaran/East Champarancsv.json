@@ -323,7 +323,7 @@
     "block": "Bankatwa"
 },
 {
-    "confirmed": "61", 
+    "confirmed": "71", 
     "recovered": "118", 
     "district": "East Champaran", 
     "color": "", 
@@ -335,14 +335,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "143", 
+    "confirmed": "153", 
     "recovered": "118", 
     "district": "East Champaran", 
     "color": "orange", 
     "D+E": "94", 
     "link": "district/East Champaran/index.html", 
     "deceased": "1", 
-    "active": "24", 
+    "active": "34", 
     "new_confirmed": "8", 
     "block": "Total"
 }

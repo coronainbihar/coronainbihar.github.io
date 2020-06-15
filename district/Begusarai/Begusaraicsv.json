@@ -215,7 +215,7 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "184", 
+    "confirmed": "186", 
     "recovered": "247", 
     "district": "Begusarai", 
     "color": "", 
@@ -227,14 +227,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "299", 
+    "confirmed": "301", 
     "recovered": "249", 
     "district": "Begusarai", 
     "color": "orange", 
     "D+E": "182", 
     "link": "district/Begusarai/index.html", 
     "deceased": "3", 
-    "active": "47", 
+    "active": "49", 
     "new_confirmed": "8", 
     "block": "Total"
 }

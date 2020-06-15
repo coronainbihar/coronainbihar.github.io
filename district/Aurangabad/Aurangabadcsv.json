@@ -131,7 +131,7 @@
     "block": "Rafiganj"
 },
 {
-    "confirmed": "54", 
+    "confirmed": "59", 
     "recovered": "70", 
     "district": "Aurangabad", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "129", 
+    "confirmed": "134", 
     "recovered": "74", 
     "district": "Aurangabad", 
     "color": "orange", 
     "D+E": "63", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "1", 
-    "active": "54", 
+    "active": "59", 
     "new_confirmed": "3", 
     "block": "Total"
 }

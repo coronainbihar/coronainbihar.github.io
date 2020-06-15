@@ -131,7 +131,7 @@
     "block": "Shambhuganj"
 },
 {
-    "confirmed": "64", 
+    "confirmed": "65", 
     "recovered": "95", 
     "district": "Banka", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "172", 
+    "confirmed": "173", 
     "recovered": "95", 
     "district": "Banka", 
     "color": "orange", 
     "D+E": "108", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "77", 
+    "active": "78", 
     "new_confirmed": "2", 
     "block": "Total"
 }

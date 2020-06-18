@@ -167,8 +167,8 @@
     "block": "Vijaipur"
 },
 {
-    "confirmed": "52", 
-    "recovered": "118", 
+    "confirmed": "59", 
+    "recovered": "130", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "10", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "167", 
-    "recovered": "121", 
+    "confirmed": "174", 
+    "recovered": "133", 
     "district": "Gopalganj", 
     "color": "orange", 
     "D+E": "101", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "46", 
+    "active": "41", 
     "new_confirmed": "3", 
     "block": "Total"
 }

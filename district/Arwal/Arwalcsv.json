@@ -59,8 +59,8 @@
     "block": "Kurtha"
 },
 {
-    "confirmed": "24", 
-    "recovered": "45", 
+    "confirmed": "31", 
+    "recovered": "52", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "0", 
@@ -71,8 +71,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "73", 
-    "recovered": "46", 
+    "confirmed": "80", 
+    "recovered": "53", 
     "district": "Arwal", 
     "color": "orange", 
     "D+E": "38", 

@@ -191,26 +191,26 @@
     "block": "BANDRA"
 },
 {
-    "confirmed": "109", 
-    "recovered": "52", 
+    "confirmed": "115", 
+    "recovered": "123", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Muzaffarpur/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "178", 
-    "recovered": "52", 
+    "confirmed": "184", 
+    "recovered": "123", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/Muzaffarpur/index.html", 
-    "deceased": "1", 
-    "active": "125", 
+    "deceased": "2", 
+    "active": "59", 
     "new_confirmed": "2", 
     "block": "Total"
 }

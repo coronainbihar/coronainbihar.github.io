@@ -191,26 +191,26 @@
     "block": "Sameli"
 },
 {
-    "confirmed": "97", 
-    "recovered": "120", 
+    "confirmed": "108", 
+    "recovered": "170", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "34", 
     "link": "district/Katihar/index.html", 
-    "deceased": "0", 
+    "deceased": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "223", 
-    "recovered": "120", 
+    "confirmed": "234", 
+    "recovered": "170", 
     "district": "Katihar", 
     "color": "orange", 
     "D+E": "135", 
     "link": "district/Katihar/index.html", 
-    "deceased": "0", 
-    "active": "103", 
+    "deceased": "1", 
+    "active": "63", 
     "new_confirmed": "0", 
     "block": "Total"
 }

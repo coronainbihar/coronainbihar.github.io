@@ -167,8 +167,8 @@
     "block": "SRINAGAR"
 },
 {
-    "confirmed": "111", 
-    "recovered": "79", 
+    "confirmed": "128", 
+    "recovered": "179", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "0", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "228", 
-    "recovered": "79", 
+    "confirmed": "245", 
+    "recovered": "179", 
     "district": "Purnia", 
     "color": "orange", 
     "D+E": "62", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "149", 
+    "active": "66", 
     "new_confirmed": "16", 
     "block": "Total"
 }

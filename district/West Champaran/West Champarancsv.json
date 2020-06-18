@@ -215,8 +215,8 @@
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "57", 
-    "recovered": "71", 
+    "confirmed": "67", 
+    "recovered": "81", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
@@ -227,8 +227,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "115", 
-    "recovered": "71", 
+    "confirmed": "125", 
+    "recovered": "81", 
     "district": "West Champaran", 
     "color": "orange", 
     "D+E": "43", 

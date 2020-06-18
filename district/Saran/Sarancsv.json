@@ -239,8 +239,8 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "81", 
-    "recovered": "85", 
+    "confirmed": "86", 
+    "recovered": "97", 
     "district": "Saran", 
     "color": "", 
     "D+E": "11", 
@@ -251,14 +251,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "160", 
-    "recovered": "87", 
+    "confirmed": "165", 
+    "recovered": "99", 
     "district": "Saran", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Saran/index.html", 
     "deceased": "2", 
-    "active": "71", 
+    "active": "64", 
     "new_confirmed": "11", 
     "block": "Total"
 }

@@ -155,8 +155,8 @@
     "block": "UDA KISHANGANJ"
 },
 {
-    "confirmed": "64", 
-    "recovered": "75", 
+    "confirmed": "67", 
+    "recovered": "104", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "2", 
@@ -167,14 +167,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "145", 
-    "recovered": "77", 
+    "confirmed": "148", 
+    "recovered": "106", 
     "district": "Madhepura", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Madhepura/index.html", 
     "deceased": "1", 
-    "active": "67", 
+    "active": "41", 
     "new_confirmed": "0", 
     "block": "Total"
 }

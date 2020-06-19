@@ -19,7 +19,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "BAGAHA 2"
 },
 {
@@ -35,14 +35,14 @@
     "block": "BAIRIYA"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "7", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "BETTIAH"
 },
@@ -59,14 +59,14 @@
     "block": "BHITHA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "1", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "CHANPATIA"
 },
@@ -79,7 +79,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "GAUNAHA"
 },
 {
@@ -119,14 +119,14 @@
     "block": "MADHUBAN"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "MAINATAND"
 },
@@ -139,18 +139,18 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "MAJHAULIA"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "2", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "NARKATIAGANJ"
 },
@@ -179,14 +179,14 @@
     "block": "PIPRASI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "RAMNAGAR"
 },
@@ -211,31 +211,31 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "67", 
-    "recovered": "81", 
+    "confirmed": "43", 
+    "recovered": "95", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
-    "deceased": "0", 
+    "deceased": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
     "confirmed": "125", 
-    "recovered": "81", 
+    "recovered": "95", 
     "district": "West Champaran", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/West Champaran/index.html", 
-    "deceased": "0", 
-    "active": "44", 
-    "new_confirmed": "12", 
+    "deceased": "1", 
+    "active": "29", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

@@ -1,13 +1,13 @@
 [{
-    "confirmed": "17", 
+    "confirmed": "26", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "6", 
+    "active": "26", 
+    "new_confirmed": "1", 
     "block": "ASARGANJ"
 },
 {
@@ -19,7 +19,7 @@
     "link": "district/Munger/index.html", 
     "deceased": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "BARIYARPUR"
 },
 {
@@ -35,14 +35,14 @@
     "block": "DHARAHARA"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "10", 
     "new_confirmed": "0", 
     "block": "HAVELI KHARAGPUR"
 },
@@ -67,48 +67,48 @@
     "link": "district/Munger/index.html", 
     "deceased": "1", 
     "active": "24", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "MUNGER SADAR"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "24", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "11", 
+    "active": "24", 
     "new_confirmed": "1", 
     "block": "SANGARAMPUR"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "TARAPURA"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "18", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "11", 
+    "active": "18", 
     "new_confirmed": "6", 
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "105", 
-    "recovered": "116", 
+    "confirmed": "72", 
+    "recovered": "159", 
     "district": "Munger", 
     "color": "", 
     "D+E": "0", 
@@ -119,15 +119,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "285", 
-    "recovered": "154", 
+    "confirmed": "286", 
+    "recovered": "197", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "130", 
-    "new_confirmed": "15", 
+    "active": "88", 
+    "new_confirmed": "8", 
     "block": "Total"
 }
 ]

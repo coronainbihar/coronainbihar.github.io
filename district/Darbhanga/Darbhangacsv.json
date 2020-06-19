@@ -11,15 +11,15 @@
     "block": "Alinagar"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "2", 
     "block": "Bahadurpur"
 },
 {
@@ -31,7 +31,7 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Baheri"
 },
 {
@@ -59,15 +59,15 @@
     "block": "Biraul"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "22", 
     "recovered": "0", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "18", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
-    "active": "20", 
-    "new_confirmed": "0", 
+    "active": "22", 
+    "new_confirmed": "2", 
     "block": "Darbhanga"
 },
 {
@@ -91,19 +91,19 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Ghanshyampur"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "block": "Hanuman Nagar"
 },
 {
@@ -215,26 +215,26 @@
     "block": "Tardih"
 },
 {
-    "confirmed": "60", 
-    "recovered": "127", 
+    "confirmed": "77", 
+    "recovered": "128", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Darbhanga/index.html", 
-    "deceased": "2", 
+    "deceased": "3", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "169", 
-    "recovered": "127", 
+    "confirmed": "191", 
+    "recovered": "128", 
     "district": "Darbhanga", 
     "color": "orange", 
     "D+E": "70", 
     "link": "district/Darbhanga/index.html", 
-    "deceased": "2", 
-    "active": "40", 
+    "deceased": "3", 
+    "active": "60", 
     "new_confirmed": "5", 
     "block": "Total"
 }

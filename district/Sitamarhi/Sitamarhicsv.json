@@ -19,7 +19,7 @@
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "BAJPATTI"
 },
 {
@@ -59,26 +59,26 @@
     "block": "BOKHRA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "CHORAUT"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "DUMRA"
 },
@@ -203,8 +203,8 @@
     "block": "SURSAND"
 },
 {
-    "confirmed": "69", 
-    "recovered": "98", 
+    "confirmed": "59", 
+    "recovered": "99", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
@@ -216,14 +216,14 @@
 },
 {
     "confirmed": "120", 
-    "recovered": "99", 
+    "recovered": "100", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
-    "active": "19", 
-    "new_confirmed": "3", 
+    "active": "18", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

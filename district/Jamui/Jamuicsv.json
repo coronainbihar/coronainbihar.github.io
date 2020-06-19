@@ -95,14 +95,14 @@
     "block": "Laxmipur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Jamui/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "Sikandra"
 },
@@ -119,7 +119,7 @@
     "block": "Sono"
 },
 {
-    "confirmed": "23", 
+    "confirmed": "22", 
     "recovered": "34", 
     "district": "Jamui", 
     "color": "", 

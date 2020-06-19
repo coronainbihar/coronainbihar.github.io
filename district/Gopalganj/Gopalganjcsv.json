@@ -23,15 +23,15 @@
     "block": "Barauli"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "23", 
     "recovered": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "11", 
-    "new_confirmed": "0", 
+    "active": "22", 
+    "new_confirmed": "11", 
     "block": "Bhore"
 },
 {
@@ -43,7 +43,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "32", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Gopalganj"
 },
 {
@@ -59,15 +59,15 @@
     "block": "Hathua"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "2", 
+    "active": "8", 
+    "new_confirmed": "0", 
     "block": "Kateya"
 },
 {
@@ -131,14 +131,14 @@
     "block": "Sidhwalia"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "7", 
     "recovered": "1", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Thawe"
 },
@@ -167,7 +167,7 @@
     "block": "Vijaipur"
 },
 {
-    "confirmed": "59", 
+    "confirmed": "44", 
     "recovered": "130", 
     "district": "Gopalganj", 
     "color": "", 
@@ -187,7 +187,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "41", 
-    "new_confirmed": "3", 
+    "new_confirmed": "11", 
     "block": "Total"
 }
 ]

@@ -1,12 +1,12 @@
 [{
-    "confirmed": "1", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Agiaon"
 },
@@ -19,7 +19,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "38", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Ara Sadar"
 },
 {
@@ -55,7 +55,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Charpokhri"
 },
 {
@@ -95,14 +95,14 @@
     "block": "Koilwar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Piro"
 },
@@ -139,7 +139,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Shahpur"
 },
 {
@@ -163,11 +163,11 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Udwantnagar"
 },
 {
-    "confirmed": "59", 
+    "confirmed": "50", 
     "recovered": "70", 
     "district": "Bhojpur", 
     "color": "", 
@@ -187,7 +187,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "2", 
     "active": "68", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

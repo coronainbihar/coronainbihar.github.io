@@ -11,14 +11,14 @@
     "block": "Arwal"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
-    "active": "9", 
+    "active": "11", 
     "new_confirmed": "0", 
     "block": "Sonbhadra Banshi Surypur"
 },
@@ -31,7 +31,7 @@
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
     "active": "7", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Kaler"
 },
 {
@@ -47,19 +47,19 @@
     "block": "Karpi"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "Kurtha"
 },
 {
-    "confirmed": "31", 
+    "confirmed": "27", 
     "recovered": "52", 
     "district": "Arwal", 
     "color": "", 
@@ -71,15 +71,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "80", 
+    "confirmed": "81", 
     "recovered": "53", 
     "district": "Arwal", 
     "color": "orange", 
     "D+E": "38", 
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
-    "active": "27", 
-    "new_confirmed": "2", 
+    "active": "28", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

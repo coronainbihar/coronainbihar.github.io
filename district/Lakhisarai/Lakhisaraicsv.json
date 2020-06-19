@@ -35,15 +35,15 @@
     "block": "Halsi"
 },
 {
-    "confirmed": "17", 
+    "confirmed": "18", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "1", 
     "block": "Lakhisarai"
 },
 {
@@ -83,7 +83,7 @@
     "block": "Suryagarha"
 },
 {
-    "confirmed": "45", 
+    "confirmed": "44", 
     "recovered": "42", 
     "district": "Lakhisarai", 
     "color": "", 
@@ -103,7 +103,7 @@
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
     "active": "41", 
-    "new_confirmed": "0", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

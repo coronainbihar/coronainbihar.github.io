@@ -1,13 +1,13 @@
 [{
-    "confirmed": "22", 
+    "confirmed": "23", 
     "recovered": "1", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "20", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "21", 
-    "new_confirmed": "0", 
+    "active": "22", 
+    "new_confirmed": "1", 
     "block": "Aurangabad"
 },
 {
@@ -55,7 +55,7 @@
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Goh"
 },
 {
@@ -71,15 +71,15 @@
     "block": "Haspura"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "1", 
+    "active": "6", 
+    "new_confirmed": "2", 
     "block": "Kutumba"
 },
 {
@@ -107,14 +107,14 @@
     "block": "Nabinagar"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "Obra"
 },
@@ -127,12 +127,12 @@
     "link": "district/Aurangabad/index.html", 
     "deceased": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Rafiganj"
 },
 {
     "confirmed": "66", 
-    "recovered": "76", 
+    "recovered": "96", 
     "district": "Aurangabad", 
     "color": "", 
     "D+E": "9", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "141", 
-    "recovered": "80", 
+    "confirmed": "145", 
+    "recovered": "100", 
     "district": "Aurangabad", 
     "color": "orange", 
     "D+E": "63", 
     "link": "district/Aurangabad/index.html", 
     "deceased": "1", 
-    "active": "60", 
+    "active": "44", 
     "new_confirmed": "3", 
     "block": "Total"
 }

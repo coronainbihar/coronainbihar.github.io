@@ -23,27 +23,27 @@
     "block": "BIHARIGANJ"
 },
 {
-    "confirmed": "19", 
+    "confirmed": "21", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "19", 
+    "active": "21", 
     "new_confirmed": "0", 
     "block": "CHAUSA"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "8", 
     "recovered": "1", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "5", 
     "block": "GHAILADH"
 },
 {
@@ -119,43 +119,43 @@
     "block": "PURAINI"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "8", 
     "block": "SHANKARPUR"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "block": "SIGHESHWARSTHAN"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "block": "UDA KISHANGANJ"
 },
 {
-    "confirmed": "67", 
+    "confirmed": "48", 
     "recovered": "104", 
     "district": "Madhepura", 
     "color": "", 
@@ -175,7 +175,7 @@
     "link": "district/Madhepura/index.html", 
     "deceased": "1", 
     "active": "41", 
-    "new_confirmed": "0", 
+    "new_confirmed": "17", 
     "block": "Total"
 }
 ]

@@ -11,38 +11,38 @@
     "block": "BANMA ITAHRI"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "31", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "26", 
-    "new_confirmed": "0", 
+    "active": "31", 
+    "new_confirmed": "1", 
     "block": "KAHRA"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "2", 
     "block": "MAHISHI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "NAUHATTA"
 },
@@ -71,15 +71,15 @@
     "block": "SALKHUA"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "1", 
+    "active": "7", 
+    "new_confirmed": "5", 
     "block": "SATTAR KATIYA"
 },
 {
@@ -115,12 +115,12 @@
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
     "active": "15", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "SONBARSA"
 },
 {
-    "confirmed": "46", 
-    "recovered": "76", 
+    "confirmed": "30", 
+    "recovered": "81", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "4", 
@@ -131,15 +131,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "117", 
-    "recovered": "76", 
+    "confirmed": "118", 
+    "recovered": "81", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "41", 
-    "new_confirmed": "3", 
+    "active": "37", 
+    "new_confirmed": "8", 
     "block": "Total"
 }
 ]

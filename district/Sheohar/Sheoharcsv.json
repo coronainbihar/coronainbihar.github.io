@@ -43,7 +43,7 @@
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "SHEOHAR"
 },
 {
@@ -55,7 +55,7 @@
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
     "active": "5", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "TARIYANI"
 },
 {
@@ -79,7 +79,7 @@
     "link": "district/Sheohar/index.html", 
     "deceased": "1", 
     "active": "63", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

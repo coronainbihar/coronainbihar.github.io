@@ -11,26 +11,26 @@
     "block": "Adhaura"
 },
 {
-    "confirmed": "46", 
+    "confirmed": "47", 
     "recovered": "8", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "32", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "38", 
-    "new_confirmed": "5", 
+    "active": "39", 
+    "new_confirmed": "0", 
     "block": "Bhabhua"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "Bhagwanpur"
 },
@@ -47,27 +47,27 @@
     "block": "Chainpur"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "3", 
     "block": "Chand"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "8", 
     "block": "Durgawati"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
     "active": "3", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Nuawon"
 },
 {
@@ -131,8 +131,8 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "56", 
-    "recovered": "69", 
+    "confirmed": "45", 
+    "recovered": "70", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "1", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "140", 
-    "recovered": "85", 
+    "confirmed": "142", 
+    "recovered": "86", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "55", 
-    "new_confirmed": "6", 
+    "active": "56", 
+    "new_confirmed": "11", 
     "block": "Total"
 }
 ]

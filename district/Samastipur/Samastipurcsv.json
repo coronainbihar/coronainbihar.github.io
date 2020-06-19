@@ -23,15 +23,15 @@
     "block": "BITHAN"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "DALSINGSARAI"
 },
 {
@@ -59,14 +59,14 @@
     "block": "KALYANPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "KHANPUR"
 },
@@ -119,14 +119,14 @@
     "block": "PATORI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "PUSA"
 },
@@ -143,26 +143,26 @@
     "block": "ROSERA"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "1", 
     "block": "SAMASTIPUR"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "SARAIRANJAN"
 },
@@ -211,7 +211,7 @@
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "UJIYARPUR"
 },
 {
@@ -223,24 +223,24 @@
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "6", 
+    "new_confirmed": "0", 
     "block": "VIDYAPATINAGAR"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Samastipur/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "WARISNAGAR"
 },
 {
-    "confirmed": "99", 
-    "recovered": "87", 
+    "confirmed": "85", 
+    "recovered": "98", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "17", 
@@ -251,15 +251,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "180", 
-    "recovered": "87", 
+    "confirmed": "186", 
+    "recovered": "98", 
     "district": "Samastipur", 
     "color": "orange", 
     "D+E": "63", 
     "link": "district/Samastipur/index.html", 
     "deceased": "1", 
-    "active": "92", 
-    "new_confirmed": "10", 
+    "active": "87", 
+    "new_confirmed": "2", 
     "block": "Total"
 }
 ]

@@ -191,8 +191,8 @@
     "block": "Sameli"
 },
 {
-    "confirmed": "83", 
-    "recovered": "170", 
+    "confirmed": "86", 
+    "recovered": "207", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "34", 
@@ -203,14 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "234", 
-    "recovered": "170", 
+    "confirmed": "237", 
+    "recovered": "207", 
     "district": "Katihar", 
     "color": "orange", 
     "D+E": "135", 
     "link": "district/Katihar/index.html", 
     "deceased": "1", 
-    "active": "63", 
+    "active": "29", 
     "new_confirmed": "18", 
     "block": "Total"
 }

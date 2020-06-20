@@ -252,7 +252,7 @@
 },
 {
     "confirmed": "118", 
-    "recovered": "160", 
+    "recovered": "161", 
     "district": "Madhubani", 
     "color": "", 
     "D+E": "35", 
@@ -264,13 +264,13 @@
 },
 {
     "confirmed": "325", 
-    "recovered": "160", 
+    "recovered": "161", 
     "district": "Madhubani", 
     "color": "orange", 
     "D+E": "177", 
     "link": "district/Madhubani/index.html", 
     "deceased": "1", 
-    "active": "164", 
+    "active": "163", 
     "new_confirmed": "1", 
     "block": "Total"
 }

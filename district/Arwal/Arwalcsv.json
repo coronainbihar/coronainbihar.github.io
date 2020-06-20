@@ -60,7 +60,7 @@
 },
 {
     "confirmed": "27", 
-    "recovered": "52", 
+    "recovered": "56", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "0", 
@@ -72,13 +72,13 @@
 },
 {
     "confirmed": "81", 
-    "recovered": "53", 
+    "recovered": "57", 
     "district": "Arwal", 
     "color": "orange", 
     "D+E": "38", 
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
-    "active": "28", 
+    "active": "24", 
     "new_confirmed": "0", 
     "block": "Total"
 }

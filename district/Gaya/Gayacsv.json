@@ -288,7 +288,7 @@
 },
 {
     "confirmed": "53", 
-    "recovered": "111", 
+    "recovered": "117", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "6", 
@@ -300,13 +300,13 @@
 },
 {
     "confirmed": "162", 
-    "recovered": "116", 
+    "recovered": "122", 
     "district": "Gaya", 
     "color": "red", 
     "D+E": "65", 
     "link": "district/Gaya/index.html", 
     "deceased": "1", 
-    "active": "45", 
+    "active": "39", 
     "new_confirmed": "0", 
     "block": "Total"
 }

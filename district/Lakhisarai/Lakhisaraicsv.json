@@ -84,7 +84,7 @@
 },
 {
     "confirmed": "44", 
-    "recovered": "42", 
+    "recovered": "66", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "3", 
@@ -96,13 +96,13 @@
 },
 {
     "confirmed": "84", 
-    "recovered": "43", 
+    "recovered": "67", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "D+E": "31", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "41", 
+    "active": "17", 
     "new_confirmed": "1", 
     "block": "Total"
 }

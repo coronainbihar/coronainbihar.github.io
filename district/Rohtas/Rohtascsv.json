@@ -228,7 +228,7 @@
 },
 {
     "confirmed": "65", 
-    "recovered": "230", 
+    "recovered": "245", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "0", 
@@ -240,13 +240,13 @@
 },
 {
     "confirmed": "309", 
-    "recovered": "252", 
+    "recovered": "267", 
     "district": "Rohtas", 
     "color": "red", 
     "D+E": "187", 
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
-    "active": "56", 
+    "active": "41", 
     "new_confirmed": "6", 
     "block": "Total"
 }

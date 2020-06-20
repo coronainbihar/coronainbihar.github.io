@@ -167,26 +167,26 @@
     "block": "WARSALIGANJ"
 },
 {
-    "confirmed": "45", 
-    "recovered": "163", 
+    "confirmed": "53", 
+    "recovered": "172", 
     "district": "Nawada", 
     "color": "", 
     "D+E": "13", 
     "link": "district/Nawada/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "192", 
-    "recovered": "165", 
+    "confirmed": "200", 
+    "recovered": "174", 
     "district": "Nawada", 
     "color": "orange", 
     "D+E": "83", 
     "link": "district/Nawada/index.html", 
-    "deceased": "1", 
-    "active": "26", 
+    "deceased": "2", 
+    "active": "24", 
     "new_confirmed": "25", 
     "block": "Total"
 }

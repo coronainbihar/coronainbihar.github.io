@@ -131,7 +131,7 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "45", 
+    "confirmed": "51", 
     "recovered": "70", 
     "district": "Kaimur", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "142", 
+    "confirmed": "148", 
     "recovered": "86", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "56", 
+    "active": "62", 
     "new_confirmed": "11", 
     "block": "Total"
 }

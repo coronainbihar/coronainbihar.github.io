@@ -215,7 +215,7 @@
     "block": "Tardih"
 },
 {
-    "confirmed": "102", 
+    "confirmed": "134", 
     "recovered": "140", 
     "district": "Darbhanga", 
     "color": "", 
@@ -227,14 +227,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "216", 
+    "confirmed": "248", 
     "recovered": "140", 
     "district": "Darbhanga", 
     "color": "orange", 
     "D+E": "70", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "5", 
-    "active": "71", 
+    "active": "103", 
     "new_confirmed": "5", 
     "block": "Total"
 }

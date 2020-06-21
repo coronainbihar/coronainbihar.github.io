@@ -227,7 +227,7 @@
     "block": "TILOUTHU"
 },
 {
-    "confirmed": "65", 
+    "confirmed": "70", 
     "recovered": "245", 
     "district": "Rohtas", 
     "color": "", 
@@ -239,14 +239,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "309", 
+    "confirmed": "314", 
     "recovered": "267", 
     "district": "Rohtas", 
     "color": "red", 
     "D+E": "187", 
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
-    "active": "41", 
+    "active": "46", 
     "new_confirmed": "6", 
     "block": "Total"
 }

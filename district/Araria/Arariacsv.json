@@ -59,15 +59,15 @@
     "block": "Kursakanta"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "21", 
     "recovered": "0", 
     "district": "Araria", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Araria/index.html", 
     "deceased": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "21", 
+    "new_confirmed": "3", 
     "block": "Narpatganj"
 },
 {
@@ -107,8 +107,8 @@
     "block": "Sikti"
 },
 {
-    "confirmed": "43", 
-    "recovered": "80", 
+    "confirmed": "34", 
+    "recovered": "81", 
     "district": "Araria", 
     "color": "", 
     "D+E": "0", 
@@ -120,14 +120,14 @@
 },
 {
     "confirmed": "103", 
-    "recovered": "80", 
+    "recovered": "81", 
     "district": "Araria", 
     "color": "orange", 
     "D+E": "27", 
     "link": "district/Araria/index.html", 
     "deceased": "1", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "21", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

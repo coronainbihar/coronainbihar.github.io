@@ -19,7 +19,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "17", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "CHHATAPUR"
 },
 {
@@ -31,19 +31,19 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "12", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "KISHANPUR"
 },
 {
-    "confirmed": "17", 
+    "confirmed": "19", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "0", 
+    "active": "19", 
+    "new_confirmed": "2", 
     "block": "MARAUNA"
 },
 {
@@ -67,19 +67,19 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "13", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "PIPRA"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "15", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "3", 
+    "active": "15", 
+    "new_confirmed": "1", 
     "block": "PRATAPGANJ"
 },
 {
@@ -91,7 +91,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "33", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "RAGHOPUR"
 },
 {
@@ -131,8 +131,8 @@
     "block": "TRIVENGANJ"
 },
 {
-    "confirmed": "29", 
-    "recovered": "165", 
+    "confirmed": "31", 
+    "recovered": "166", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "4", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "197", 
-    "recovered": "165", 
+    "confirmed": "202", 
+    "recovered": "166", 
     "district": "Supaul", 
     "color": "orange", 
     "D+E": "65", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "32", 
-    "new_confirmed": "9", 
+    "active": "36", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

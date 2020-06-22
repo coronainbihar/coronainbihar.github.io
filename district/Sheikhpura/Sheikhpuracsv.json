@@ -19,7 +19,7 @@
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "BARBIGHA"
 },
 {
@@ -47,15 +47,15 @@
     "block": "GHAT KUSUMBA"
 },
 {
-    "confirmed": "38", 
+    "confirmed": "43", 
     "recovered": "0", 
     "district": "Sheikhpura", 
     "color": "", 
     "D+E": "19", 
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
-    "active": "38", 
-    "new_confirmed": "1", 
+    "active": "43", 
+    "new_confirmed": "0", 
     "block": "SHEIKHPURA"
 },
 {
@@ -71,8 +71,8 @@
     "block": "SHEKHOPUR SARAI"
 },
 {
-    "confirmed": "29", 
-    "recovered": "85", 
+    "confirmed": "26", 
+    "recovered": "92", 
     "district": "Sheikhpura", 
     "color": "", 
     "D+E": "13", 
@@ -83,15 +83,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "130", 
-    "recovered": "85", 
+    "confirmed": "132", 
+    "recovered": "92", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "D+E": "59", 
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
-    "active": "45", 
-    "new_confirmed": "2", 
+    "active": "40", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

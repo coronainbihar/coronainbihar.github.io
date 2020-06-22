@@ -1,13 +1,13 @@
 [{
-    "confirmed": "16", 
+    "confirmed": "19", 
     "recovered": "0", 
     "district": "Patna", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "16", 
-    "new_confirmed": "0", 
+    "active": "19", 
+    "new_confirmed": "3", 
     "block": "ATHMALGOLA"
 },
 {
@@ -71,15 +71,15 @@
     "block": "BIKRAM"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Patna", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "1", 
+    "active": "6", 
+    "new_confirmed": "0", 
     "block": "DANAPUR"
 },
 {
@@ -155,27 +155,27 @@
     "block": "KHUSRUPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Patna", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "1", 
+    "active": "3", 
+    "new_confirmed": "0", 
     "block": "MANER"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Patna", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "1", 
+    "new_confirmed": "4", 
     "block": "MASAURHI"
 },
 {
@@ -191,15 +191,15 @@
     "block": "MOKAMA"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "1", 
     "district": "Patna", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "2", 
     "block": "NAUBATPUR"
 },
 {
@@ -215,27 +215,27 @@
     "block": "PALIGANJ"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Patna", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "2", 
     "block": "PANDARAK"
 },
 {
-    "confirmed": "133", 
+    "confirmed": "141", 
     "recovered": "13", 
     "district": "Patna", 
     "color": "", 
     "D+E": "103", 
     "link": "district/Patna/index.html", 
     "deceased": "1", 
-    "active": "119", 
-    "new_confirmed": "2", 
+    "active": "127", 
+    "new_confirmed": "3", 
     "block": "PATNA SADAR"
 },
 {
@@ -247,7 +247,7 @@
     "link": "district/Patna/index.html", 
     "deceased": "0", 
     "active": "5", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "PHULWARI SHARIF"
 },
 {
@@ -263,20 +263,20 @@
     "block": "PUNPUN"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "recovered": "2", 
     "district": "Patna", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Patna/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "1", 
     "block": "SAMPATCHAK"
 },
 {
-    "confirmed": "131", 
-    "recovered": "205", 
+    "confirmed": "140", 
+    "recovered": "207", 
     "district": "Patna", 
     "color": "", 
     "D+E": "17", 
@@ -287,15 +287,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "401", 
-    "recovered": "223", 
+    "confirmed": "426", 
+    "recovered": "225", 
     "district": "Patna", 
     "color": "red", 
     "D+E": "233", 
     "link": "district/Patna/index.html", 
     "deceased": "2", 
-    "active": "176", 
-    "new_confirmed": "7", 
+    "active": "199", 
+    "new_confirmed": "15", 
     "block": "Total"
 }
 ]

@@ -1,12 +1,12 @@
 [{
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "Amas"
 },
@@ -107,27 +107,27 @@
     "block": "Dumariya"
 },
 {
-    "confirmed": "22", 
+    "confirmed": "23", 
     "recovered": "5", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "15", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "1", 
     "block": "Fatehpur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "2", 
     "block": "Gaya Sadar"
 },
 {
@@ -191,15 +191,15 @@
     "block": "Konch"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "Manpur"
 },
 {
@@ -227,26 +227,26 @@
     "block": "Mohra"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "Paraiya"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "Sherghatty"
 },
@@ -263,51 +263,51 @@
     "block": "Tankuppa"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "1", 
     "block": "Tekari"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "Wazirganj"
 },
 {
-    "confirmed": "63", 
-    "recovered": "117", 
+    "confirmed": "48", 
+    "recovered": "121", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Gaya/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
     "confirmed": "172", 
-    "recovered": "122", 
+    "recovered": "126", 
     "district": "Gaya", 
     "color": "red", 
     "D+E": "65", 
     "link": "district/Gaya/index.html", 
-    "deceased": "1", 
-    "active": "49", 
-    "new_confirmed": "0", 
+    "deceased": "2", 
+    "active": "44", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

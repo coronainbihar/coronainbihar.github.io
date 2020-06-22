@@ -23,15 +23,15 @@
     "block": "BEN"
 },
 {
-    "confirmed": "45", 
+    "confirmed": "46", 
     "recovered": "28", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "40", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "1", 
+    "active": "18", 
+    "new_confirmed": "0", 
     "block": "BIHARSARIF"
 },
 {
@@ -55,7 +55,7 @@
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
     "active": "13", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "CHANDI"
 },
 {
@@ -67,18 +67,18 @@
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "EKANGARSARAI"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "GIRIYAK"
 },
@@ -119,14 +119,14 @@
     "block": "ISLAMPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "KARAI PARSURAI"
 },
@@ -143,26 +143,26 @@
     "block": "KATRISARAI"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "1", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "NAGARNAUSA"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "NOORSARAI"
 },
@@ -203,27 +203,27 @@
     "block": "RAJGIR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "SARMERA"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "recovered": "1", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "2", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "block": "SILAO"
 },
 {
@@ -239,8 +239,8 @@
     "block": "THARTHARI"
 },
 {
-    "confirmed": "39", 
-    "recovered": "99", 
+    "confirmed": "31", 
+    "recovered": "102", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
@@ -251,15 +251,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "166", 
-    "recovered": "129", 
+    "confirmed": "168", 
+    "recovered": "132", 
     "district": "Nalanda", 
     "color": "orange", 
     "D+E": "102", 
     "link": "district/Nalanda/index.html", 
     "deceased": "3", 
-    "active": "34", 
-    "new_confirmed": "8", 
+    "active": "33", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

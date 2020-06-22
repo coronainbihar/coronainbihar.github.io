@@ -1,13 +1,13 @@
 [{
-    "confirmed": "3", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "6", 
     "block": "DUMARI"
 },
 {
@@ -23,44 +23,44 @@
     "block": "PIPRAHI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "2", 
     "block": "PURNAHIYA"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "18", 
     "recovered": "0", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "9", 
     "block": "SHEOHAR"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "5", 
     "block": "TARIYANI"
 },
 {
-    "confirmed": "56", 
-    "recovered": "51", 
+    "confirmed": "30", 
+    "recovered": "66", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
@@ -72,14 +72,14 @@
 },
 {
     "confirmed": "74", 
-    "recovered": "51", 
+    "recovered": "66", 
     "district": "Sheohar", 
     "color": "orange", 
     "D+E": "6", 
     "link": "district/Sheohar/index.html", 
     "deceased": "1", 
-    "active": "22", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "22", 
     "block": "Total"
 }
 ]

@@ -11,14 +11,14 @@
     "block": "BAIRGANIA"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "BAJPATTI"
 },
@@ -107,14 +107,14 @@
     "block": "NANPUR"
 },
 {
-    "confirmed": "31", 
+    "confirmed": "32", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "28", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "31", 
+    "active": "32", 
     "new_confirmed": "0", 
     "block": "PARIHAR"
 },
@@ -155,14 +155,14 @@
     "block": "RIGA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "RUNNISAIDPUR"
 },
@@ -179,15 +179,15 @@
     "block": "SONBARSA"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "5", 
     "block": "SUPPI"
 },
 {
@@ -203,8 +203,8 @@
     "block": "SURSAND"
 },
 {
-    "confirmed": "60", 
-    "recovered": "99", 
+    "confirmed": "54", 
+    "recovered": "107", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
@@ -215,15 +215,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "121", 
-    "recovered": "100", 
+    "confirmed": "129", 
+    "recovered": "108", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
     "active": "19", 
-    "new_confirmed": "0", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

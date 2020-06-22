@@ -11,26 +11,26 @@
     "block": "Allouli"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "12", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "10", 
+    "active": "12", 
     "new_confirmed": "0", 
     "block": "Beldaur"
 },
 {
-    "confirmed": "22", 
+    "confirmed": "23", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "20", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "22", 
+    "active": "23", 
     "new_confirmed": "0", 
     "block": "Chautham"
 },
@@ -43,11 +43,11 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "1", 
     "active": "10", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Gogari"
 },
 {
-    "confirmed": "47", 
+    "confirmed": "55", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
@@ -55,7 +55,7 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
     "active": "13", 
-    "new_confirmed": "0", 
+    "new_confirmed": "3", 
     "block": "Khagaria"
 },
 {
@@ -71,19 +71,19 @@
     "block": "Mansi"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "11", 
+    "active": "12", 
     "new_confirmed": "0", 
     "block": "Parbatta"
 },
 {
-    "confirmed": "139", 
+    "confirmed": "127", 
     "recovered": "271", 
     "district": "Khagaria", 
     "color": "", 
@@ -103,7 +103,7 @@
     "link": "district/Khagaria/index.html", 
     "deceased": "3", 
     "active": "22", 
-    "new_confirmed": "1", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

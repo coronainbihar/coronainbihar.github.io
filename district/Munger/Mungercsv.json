@@ -43,19 +43,19 @@
     "link": "district/Munger/index.html", 
     "deceased": "0", 
     "active": "21", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "HAVELI KHARAGPUR"
 },
 {
-    "confirmed": "95", 
+    "confirmed": "96", 
     "recovered": "30", 
     "district": "Munger", 
     "color": "", 
     "D+E": "91", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "65", 
-    "new_confirmed": "0", 
+    "active": "66", 
+    "new_confirmed": "1", 
     "block": "JAMALPUR"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/Munger/index.html", 
     "deceased": "0", 
     "active": "28", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "TETIYA BAMBER"
 },
 {
@@ -119,15 +119,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "308", 
+    "confirmed": "309", 
     "recovered": "259", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "48", 
-    "new_confirmed": "3", 
+    "active": "49", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

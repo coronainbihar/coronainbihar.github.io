@@ -19,7 +19,7 @@
     "link": "district/Nawada/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "GOVINDPUR"
 },
 {
@@ -31,7 +31,7 @@
     "link": "district/Nawada/index.html", 
     "deceased": "0", 
     "active": "11", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "HISUA"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Nawada/index.html", 
     "deceased": "2", 
     "active": "32", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

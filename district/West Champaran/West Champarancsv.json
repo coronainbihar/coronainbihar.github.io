@@ -31,7 +31,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "BAIRIYA"
 },
 {
@@ -67,7 +67,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "CHANPATIA"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "LAURIYA"
 },
 {
@@ -199,7 +199,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "SIKTA"
 },
 {
@@ -235,7 +235,7 @@
     "link": "district/West Champaran/index.html", 
     "deceased": "1", 
     "active": "22", 
-    "new_confirmed": "9", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

@@ -19,7 +19,7 @@
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
     "active": "42", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Bhabhua"
 },
 {
@@ -31,7 +31,7 @@
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Bhagwanpur"
 },
 {
@@ -151,7 +151,7 @@
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
     "active": "63", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

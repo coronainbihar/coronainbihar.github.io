@@ -1,13 +1,13 @@
 [{
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "block": "Agiaon"
 },
 {
@@ -35,15 +35,15 @@
     "block": "Barhara"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "1", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "7", 
-    "new_confirmed": "0", 
+    "active": "8", 
+    "new_confirmed": "1", 
     "block": "Bihiya"
 },
 {
@@ -79,19 +79,19 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "24", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Jagdishpur"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "1", 
+    "active": "10", 
+    "new_confirmed": "2", 
     "block": "Koilwar"
 },
 {
@@ -139,7 +139,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Shahpur"
 },
 {
@@ -163,7 +163,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Udwantnagar"
 },
 {
@@ -179,15 +179,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "160", 
+    "confirmed": "164", 
     "recovered": "137", 
     "district": "Bhojpur", 
     "color": "orange", 
     "D+E": "54", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "2", 
-    "active": "21", 
-    "new_confirmed": "6", 
+    "active": "25", 
+    "new_confirmed": "4", 
     "block": "Total"
 }
 ]

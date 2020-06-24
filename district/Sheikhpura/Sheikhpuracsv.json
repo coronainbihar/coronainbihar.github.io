@@ -47,15 +47,15 @@
     "block": "GHAT KUSUMBA"
 },
 {
-    "confirmed": "45", 
+    "confirmed": "46", 
     "recovered": "0", 
     "district": "Sheikhpura", 
     "color": "", 
     "D+E": "19", 
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
-    "active": "45", 
-    "new_confirmed": "0", 
+    "active": "46", 
+    "new_confirmed": "1", 
     "block": "SHEIKHPURA"
 },
 {
@@ -83,15 +83,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "132", 
+    "confirmed": "133", 
     "recovered": "103", 
     "district": "Sheikhpura", 
     "color": "orange", 
     "D+E": "59", 
     "link": "district/Sheikhpura/index.html", 
     "deceased": "0", 
-    "active": "29", 
-    "new_confirmed": "0", 
+    "active": "30", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

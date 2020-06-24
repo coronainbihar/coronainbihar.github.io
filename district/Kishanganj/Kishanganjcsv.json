@@ -67,7 +67,7 @@
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
     "active": "12", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Terhagachh"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
     "active": "27", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

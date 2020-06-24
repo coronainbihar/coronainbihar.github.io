@@ -59,15 +59,15 @@
     "block": "Barsoi"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "block": "Dandkhora"
 },
 {
@@ -79,7 +79,7 @@
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Falka"
 },
 {
@@ -139,19 +139,19 @@
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
     "active": "18", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Kursela"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "block": "Manihari"
 },
 {
@@ -203,14 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "270", 
+    "confirmed": "272", 
     "recovered": "231", 
     "district": "Katihar", 
     "color": "orange", 
     "D+E": "135", 
     "link": "district/Katihar/index.html", 
     "deceased": "1", 
-    "active": "38", 
+    "active": "40", 
     "new_confirmed": "2", 
     "block": "Total"
 }

@@ -67,31 +67,31 @@
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
     "active": "16", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "KATARA"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "6", 
+    "new_confirmed": "1", 
     "block": "KURHANI"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "8", 
     "block": "MARWAN"
 },
 {
@@ -107,15 +107,15 @@
     "block": "MINAPUR"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "11", 
+    "new_confirmed": "1", 
     "block": "MOTIPUR"
 },
 {
@@ -131,27 +131,27 @@
     "block": "MURAUL"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "1", 
+    "active": "11", 
+    "new_confirmed": "5", 
     "block": "MUSHAHARI"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "1", 
     "block": "PAROO"
 },
 {
@@ -167,15 +167,15 @@
     "block": "SAHEBGANJ"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "24", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "24", 
+    "new_confirmed": "9", 
     "block": "SAKRA"
 },
 {
@@ -203,15 +203,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "214", 
+    "confirmed": "239", 
     "recovered": "172", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "2", 
-    "active": "40", 
-    "new_confirmed": "6", 
+    "active": "65", 
+    "new_confirmed": "25", 
     "block": "Total"
 }
 ]

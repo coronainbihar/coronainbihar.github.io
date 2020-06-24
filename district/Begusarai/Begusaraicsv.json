@@ -55,7 +55,7 @@
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
     "active": "45", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Begusarai"
 },
 {
@@ -79,7 +79,7 @@
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Birpur"
 },
 {
@@ -235,7 +235,7 @@
     "link": "district/Begusarai/index.html", 
     "deceased": "4", 
     "active": "59", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

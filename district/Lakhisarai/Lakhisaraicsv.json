@@ -1,13 +1,13 @@
 [{
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "1", 
     "block": "Barahia"
 },
 {
@@ -35,26 +35,26 @@
     "block": "Halsi"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "29", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "26", 
-    "new_confirmed": "0", 
+    "active": "29", 
+    "new_confirmed": "3", 
     "block": "Lakhisarai"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "1", 
     "block": "Piparia"
 },
@@ -95,15 +95,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "91", 
+    "confirmed": "96", 
     "recovered": "67", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "D+E": "31", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "24", 
-    "new_confirmed": "1", 
+    "active": "29", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

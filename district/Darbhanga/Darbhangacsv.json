@@ -59,15 +59,15 @@
     "block": "Biraul"
 },
 {
-    "confirmed": "25", 
+    "confirmed": "26", 
     "recovered": "0", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "18", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
-    "active": "25", 
-    "new_confirmed": "2", 
+    "active": "26", 
+    "new_confirmed": "1", 
     "block": "Darbhanga"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Hanuman Nagar"
 },
 {
@@ -127,19 +127,19 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Jale"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Darbhanga", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "1", 
+    "active": "8", 
+    "new_confirmed": "3", 
     "block": "Keoti"
 },
 {
@@ -175,7 +175,7 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Kusheswar Asthan East"
 },
 {
@@ -211,7 +211,7 @@
     "link": "district/Darbhanga/index.html", 
     "deceased": "0", 
     "active": "4", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Tardih"
 },
 {
@@ -227,15 +227,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "267", 
+    "confirmed": "271", 
     "recovered": "159", 
     "district": "Darbhanga", 
     "color": "orange", 
     "D+E": "70", 
     "link": "district/Darbhanga/index.html", 
     "deceased": "5", 
-    "active": "103", 
-    "new_confirmed": "8", 
+    "active": "107", 
+    "new_confirmed": "4", 
     "block": "Total"
 }
 ]

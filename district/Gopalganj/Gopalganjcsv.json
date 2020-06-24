@@ -55,7 +55,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Hathua"
 },
 {
@@ -139,7 +139,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Thawe"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
     "active": "43", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

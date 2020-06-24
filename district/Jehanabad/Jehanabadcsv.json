@@ -79,7 +79,7 @@
     "link": "district/Jehanabad/index.html", 
     "deceased": "0", 
     "active": "23", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Ratni Faridpur"
 },
 {
@@ -103,7 +103,7 @@
     "link": "district/Jehanabad/index.html", 
     "deceased": "2", 
     "active": "32", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

@@ -11,15 +11,15 @@
     "block": "BASANTPUR"
 },
 {
-    "confirmed": "17", 
+    "confirmed": "18", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "17", 
-    "new_confirmed": "0", 
+    "active": "18", 
+    "new_confirmed": "1", 
     "block": "CHHATAPUR"
 },
 {
@@ -43,31 +43,31 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "19", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "MARAUNA"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "1", 
     "block": "NIRMALI"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "2", 
     "block": "PIPRA"
 },
 {
@@ -79,7 +79,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "15", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "PRATAPGANJ"
 },
 {
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "206", 
+    "confirmed": "210", 
     "recovered": "179", 
     "district": "Supaul", 
     "color": "orange", 
     "D+E": "65", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "27", 
-    "new_confirmed": "3", 
+    "active": "31", 
+    "new_confirmed": "4", 
     "block": "Total"
 }
 ]

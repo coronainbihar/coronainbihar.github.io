@@ -7,7 +7,7 @@
     "link": "district/Banka/index.html", 
     "deceased": "0", 
     "active": "11", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Amarpur"
 },
 {
@@ -19,7 +19,7 @@
     "link": "district/Banka/index.html", 
     "deceased": "0", 
     "active": "33", 
-    "new_confirmed": "6", 
+    "new_confirmed": "0", 
     "block": "Banka"
 },
 {
@@ -31,7 +31,7 @@
     "link": "district/Banka/index.html", 
     "deceased": "0", 
     "active": "5", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Barahat"
 },
 {
@@ -43,19 +43,19 @@
     "link": "district/Banka/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Belhar"
 },
 {
-    "confirmed": "14", 
+    "confirmed": "15", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "2", 
+    "active": "15", 
+    "new_confirmed": "1", 
     "block": "Bounsi"
 },
 {
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "221", 
+    "confirmed": "222", 
     "recovered": "168", 
     "district": "Banka", 
     "color": "orange", 
     "D+E": "108", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "53", 
-    "new_confirmed": "16", 
+    "active": "54", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

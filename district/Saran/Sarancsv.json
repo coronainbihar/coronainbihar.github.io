@@ -23,14 +23,14 @@
     "block": "BANIYAPUR"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "1", 
     "block": "CHAPRA"
 },
@@ -139,7 +139,7 @@
     "link": "district/Saran/index.html", 
     "deceased": "0", 
     "active": "2", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "MANJHI"
 },
 {
@@ -251,15 +251,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "186", 
+    "confirmed": "187", 
     "recovered": "135", 
     "district": "Saran", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Saran/index.html", 
     "deceased": "5", 
-    "active": "46", 
-    "new_confirmed": "2", 
+    "active": "47", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

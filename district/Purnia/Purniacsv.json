@@ -19,7 +19,7 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "9", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "BAISA"
 },
 {
@@ -31,7 +31,7 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "3", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "BAISI"
 },
 {
@@ -139,7 +139,7 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "44", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "PURNIA"
 },
 {
@@ -151,7 +151,7 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "36", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "RUPOULI"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "52", 
-    "new_confirmed": "13", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

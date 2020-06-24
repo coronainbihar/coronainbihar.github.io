@@ -31,7 +31,7 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
     "active": "13", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "CHENARI"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
     "active": "83", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "SASARAM"
 },
 {
@@ -199,7 +199,7 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "SHEOSAGAR"
 },
 {
@@ -247,7 +247,7 @@
     "link": "district/Rohtas/index.html", 
     "deceased": "1", 
     "active": "45", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

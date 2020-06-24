@@ -67,7 +67,7 @@
     "link": "district/Araria/index.html", 
     "deceased": "0", 
     "active": "21", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Narpatganj"
 },
 {
@@ -127,7 +127,7 @@
     "link": "district/Araria/index.html", 
     "deceased": "1", 
     "active": "20", 
-    "new_confirmed": "3", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

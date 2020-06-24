@@ -23,15 +23,15 @@
     "block": "BAJPATTI"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "1", 
-    "new_confirmed": "0", 
+    "active": "2", 
+    "new_confirmed": "1", 
     "block": "BATHNAHA"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
     "active": "5", 
-    "new_confirmed": "5", 
+    "new_confirmed": "0", 
     "block": "SUPPI"
 },
 {
@@ -215,15 +215,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "129", 
+    "confirmed": "130", 
     "recovered": "114", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
-    "active": "13", 
-    "new_confirmed": "5", 
+    "active": "14", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

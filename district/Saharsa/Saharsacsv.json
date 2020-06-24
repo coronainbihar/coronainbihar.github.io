@@ -11,15 +11,15 @@
     "block": "BANMA ITAHRI"
 },
 {
-    "confirmed": "33", 
+    "confirmed": "36", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "33", 
-    "new_confirmed": "0", 
+    "active": "36", 
+    "new_confirmed": "3", 
     "block": "KAHRA"
 },
 {
@@ -131,15 +131,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "153", 
+    "confirmed": "156", 
     "recovered": "92", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "61", 
-    "new_confirmed": "0", 
+    "active": "64", 
+    "new_confirmed": "3", 
     "block": "Total"
 }
 ]

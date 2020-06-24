@@ -11,38 +11,38 @@
     "block": "Barahia"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Channan"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "13", 
     "new_confirmed": "0", 
     "block": "Halsi"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "26", 
     "recovered": "0", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "14", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "21", 
+    "active": "26", 
     "new_confirmed": "0", 
     "block": "Lakhisarai"
 },
@@ -71,19 +71,19 @@
     "block": "Ramgarh Chowk"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "12", 
     "recovered": "1", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "11", 
     "new_confirmed": "0", 
     "block": "Suryagarha"
 },
 {
-    "confirmed": "41", 
+    "confirmed": "28", 
     "recovered": "66", 
     "district": "Lakhisarai", 
     "color": "", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "86", 
+    "confirmed": "91", 
     "recovered": "67", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "D+E": "31", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "19", 
+    "active": "24", 
     "new_confirmed": "1", 
     "block": "Total"
 }

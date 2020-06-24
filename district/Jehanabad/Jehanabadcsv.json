@@ -1,12 +1,12 @@
 [{
-    "confirmed": "30", 
+    "confirmed": "31", 
     "recovered": "1", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Jehanabad/index.html", 
     "deceased": "0", 
-    "active": "29", 
+    "active": "30", 
     "new_confirmed": "0", 
     "block": "Ghoshi"
 },
@@ -35,14 +35,14 @@
     "block": "Jehanabad"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "27", 
     "recovered": "0", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "15", 
     "link": "district/Jehanabad/index.html", 
     "deceased": "0", 
-    "active": "26", 
+    "active": "27", 
     "new_confirmed": "0", 
     "block": "Kako"
 },
@@ -83,8 +83,8 @@
     "block": "Ratni Faridpur"
 },
 {
-    "confirmed": "35", 
-    "recovered": "184", 
+    "confirmed": "34", 
+    "recovered": "187", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "0", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "221", 
-    "recovered": "185", 
+    "confirmed": "222", 
+    "recovered": "188", 
     "district": "Jehanabad", 
     "color": "orange", 
     "D+E": "114", 
     "link": "district/Jehanabad/index.html", 
     "deceased": "2", 
-    "active": "34", 
+    "active": "32", 
     "new_confirmed": "1", 
     "block": "Total"
 }

@@ -131,14 +131,14 @@
     "block": "MURAUL"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Muzaffarpur/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "1", 
     "block": "MUSHAHARI"
 },
@@ -191,8 +191,8 @@
     "block": "SARAIYA"
 },
 {
-    "confirmed": "69", 
-    "recovered": "164", 
+    "confirmed": "76", 
+    "recovered": "172", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
@@ -203,8 +203,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "206", 
-    "recovered": "164", 
+    "confirmed": "214", 
+    "recovered": "172", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 

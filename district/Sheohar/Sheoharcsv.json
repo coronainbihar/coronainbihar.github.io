@@ -11,14 +11,14 @@
     "block": "DUMARI"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sheohar/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "PIPRAHI"
 },
@@ -59,8 +59,8 @@
     "block": "TARIYANI"
 },
 {
-    "confirmed": "30", 
-    "recovered": "66", 
+    "confirmed": "33", 
+    "recovered": "69", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
@@ -71,14 +71,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "74", 
-    "recovered": "66", 
+    "confirmed": "78", 
+    "recovered": "69", 
     "district": "Sheohar", 
     "color": "orange", 
     "D+E": "6", 
     "link": "district/Sheohar/index.html", 
     "deceased": "1", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "22", 
     "block": "Total"
 }

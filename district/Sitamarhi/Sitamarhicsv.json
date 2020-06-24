@@ -1,12 +1,12 @@
 [{
-    "confirmed": "0", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "BAIRGANIA"
 },
@@ -167,14 +167,14 @@
     "block": "RUNNISAIDPUR"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "SONBARSA"
 },
@@ -203,8 +203,8 @@
     "block": "SURSAND"
 },
 {
-    "confirmed": "54", 
-    "recovered": "107", 
+    "confirmed": "51", 
+    "recovered": "113", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
@@ -216,13 +216,13 @@
 },
 {
     "confirmed": "129", 
-    "recovered": "108", 
+    "recovered": "114", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
-    "active": "19", 
+    "active": "13", 
     "new_confirmed": "5", 
     "block": "Total"
 }

@@ -131,14 +131,14 @@
     "block": "MAKER"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "1", 
     "block": "MANJHI"
 },
@@ -191,14 +191,14 @@
     "block": "PANAPUR"
 },
 {
-    "confirmed": "11", 
+    "confirmed": "12", 
     "recovered": "0", 
     "district": "Saran", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Saran/index.html", 
     "deceased": "0", 
-    "active": "11", 
+    "active": "12", 
     "new_confirmed": "0", 
     "block": "PARSA"
 },
@@ -239,25 +239,25 @@
     "block": "TARAIYAN"
 },
 {
-    "confirmed": "60", 
+    "confirmed": "59", 
     "recovered": "133", 
     "district": "Saran", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saran/index.html", 
-    "deceased": "4", 
+    "deceased": "5", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "185", 
+    "confirmed": "186", 
     "recovered": "135", 
     "district": "Saran", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Saran/index.html", 
-    "deceased": "4", 
+    "deceased": "5", 
     "active": "46", 
     "new_confirmed": "2", 
     "block": "Total"

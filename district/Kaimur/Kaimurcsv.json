@@ -11,14 +11,14 @@
     "block": "Adhaura"
 },
 {
-    "confirmed": "49", 
+    "confirmed": "50", 
     "recovered": "8", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "32", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "41", 
+    "active": "42", 
     "new_confirmed": "1", 
     "block": "Bhabhua"
 },
@@ -107,14 +107,14 @@
     "block": "Nuawon"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Ramgarh"
 },
@@ -131,7 +131,7 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "26", 
+    "confirmed": "22", 
     "recovered": "70", 
     "district": "Kaimur", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "148", 
+    "confirmed": "149", 
     "recovered": "86", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "62", 
+    "active": "63", 
     "new_confirmed": "4", 
     "block": "Total"
 }

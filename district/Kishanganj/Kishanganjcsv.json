@@ -23,14 +23,14 @@
     "block": "Dighalbank"
 },
 {
-    "confirmed": "16", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "16", 
+    "active": "17", 
     "new_confirmed": "0", 
     "block": "Kishanganj"
 },
@@ -47,14 +47,14 @@
     "block": "Kochadhaman"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "Pothia"
 },
@@ -83,8 +83,8 @@
     "block": "Thakurganj"
 },
 {
-    "confirmed": "30", 
-    "recovered": "115", 
+    "confirmed": "26", 
+    "recovered": "119", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
@@ -96,13 +96,13 @@
 },
 {
     "confirmed": "146", 
-    "recovered": "115", 
+    "recovered": "119", 
     "district": "Kishanganj", 
     "color": "orange", 
     "D+E": "32", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "31", 
+    "active": "27", 
     "new_confirmed": "4", 
     "block": "Total"
 }

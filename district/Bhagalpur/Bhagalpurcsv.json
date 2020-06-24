@@ -23,14 +23,14 @@
     "block": "Gauradih"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Bhagalpur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Bhagalpur/index.html", 
     "deceased": "0", 
-    "active": "13", 
+    "active": "14", 
     "new_confirmed": "3", 
     "block": "Gopalpur"
 },
@@ -59,14 +59,14 @@
     "block": "Jagdishpur"
 },
 {
-    "confirmed": "27", 
+    "confirmed": "28", 
     "recovered": "0", 
     "district": "Bhagalpur", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Bhagalpur/index.html", 
     "deceased": "0", 
-    "active": "27", 
+    "active": "28", 
     "new_confirmed": "0", 
     "block": "Kahalgaon"
 },
@@ -107,26 +107,26 @@
     "block": "Nathnagar"
 },
 {
-    "confirmed": "23", 
+    "confirmed": "24", 
     "recovered": "1", 
     "district": "Bhagalpur", 
     "color": "", 
     "D+E": "12", 
     "link": "district/Bhagalpur/index.html", 
     "deceased": "0", 
-    "active": "22", 
+    "active": "23", 
     "new_confirmed": "0", 
     "block": "Navgachhia"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Bhagalpur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Bhagalpur/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "17", 
     "new_confirmed": "0", 
     "block": "Pirpainty"
 },
@@ -191,8 +191,8 @@
     "block": "Sultanganj Purushottam"
 },
 {
-    "confirmed": "80", 
-    "recovered": "278", 
+    "confirmed": "76", 
+    "recovered": "302", 
     "district": "Bhagalpur", 
     "color": "", 
     "D+E": "8", 
@@ -203,14 +203,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "367", 
-    "recovered": "281", 
+    "confirmed": "371", 
+    "recovered": "305", 
     "district": "Bhagalpur", 
     "color": "orange", 
     "D+E": "112", 
     "link": "district/Bhagalpur/index.html", 
     "deceased": "1", 
-    "active": "85", 
+    "active": "65", 
     "new_confirmed": "14", 
     "block": "Total"
 }

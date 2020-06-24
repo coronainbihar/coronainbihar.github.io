@@ -95,14 +95,14 @@
     "block": "Manjha"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "8", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "9", 
+    "active": "10", 
     "new_confirmed": "0", 
     "block": "Panchdevari"
 },
@@ -119,14 +119,14 @@
     "block": "Phulwaria"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "Sidhwalia"
 },
@@ -167,8 +167,8 @@
     "block": "Vijaipur"
 },
 {
-    "confirmed": "72", 
-    "recovered": "150", 
+    "confirmed": "76", 
+    "recovered": "171", 
     "district": "Gopalganj", 
     "color": "", 
     "D+E": "10", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "211", 
-    "recovered": "153", 
+    "confirmed": "217", 
+    "recovered": "174", 
     "district": "Gopalganj", 
     "color": "orange", 
     "D+E": "101", 
     "link": "district/Gopalganj/index.html", 
     "deceased": "0", 
-    "active": "58", 
+    "active": "43", 
     "new_confirmed": "2", 
     "block": "Total"
 }

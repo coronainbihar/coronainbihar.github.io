@@ -95,14 +95,14 @@
     "block": "Kesath"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "0", 
     "block": "Nawanagar"
 },
@@ -131,8 +131,8 @@
     "block": "Simari"
 },
 {
-    "confirmed": "82", 
-    "recovered": "111", 
+    "confirmed": "81", 
+    "recovered": "119", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "25", 
@@ -144,13 +144,13 @@
 },
 {
     "confirmed": "205", 
-    "recovered": "137", 
+    "recovered": "145", 
     "district": "Buxar", 
     "color": "red", 
     "D+E": "114", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "68", 
+    "active": "60", 
     "new_confirmed": "1", 
     "block": "Total"
 }

@@ -1,12 +1,12 @@
 [{
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "AMOUR"
 },
@@ -47,40 +47,28 @@
     "block": "BANMANKHI"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "7", 
     "new_confirmed": "0", 
     "block": "BARHARA KOTHI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "2", 
+    "active": "3", 
     "new_confirmed": "0", 
     "block": "BHAWANIPUR"
-},
-{
-    "confirmed": "4", 
-    "recovered": "0", 
-    "district": "Purnia", 
-    "color": "", 
-    "D+E": "0", 
-    "link": "district/Purnia/index.html", 
-    "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "0", 
-    "block": "DAGARUA"
 },
 {
     "confirmed": "6", 
@@ -91,6 +79,18 @@
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
     "active": "6", 
+    "new_confirmed": "0", 
+    "block": "DAGARUA"
+},
+{
+    "confirmed": "8", 
+    "recovered": "0", 
+    "district": "Purnia", 
+    "color": "", 
+    "D+E": "0", 
+    "link": "district/Purnia/index.html", 
+    "deceased": "0", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "DHAMDAHA"
 },
@@ -107,14 +107,14 @@
     "block": "JALALGARH"
 },
 {
-    "confirmed": "37", 
+    "confirmed": "38", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "37", 
+    "active": "38", 
     "new_confirmed": "0", 
     "block": "KRITYANANDNAGAR"
 },
@@ -131,26 +131,26 @@
     "block": "KASBA"
 },
 {
-    "confirmed": "34", 
+    "confirmed": "44", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "16", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "34", 
+    "active": "44", 
     "new_confirmed": "5", 
     "block": "PURNIA"
 },
 {
-    "confirmed": "35", 
+    "confirmed": "36", 
     "recovered": "0", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "28", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "35", 
+    "active": "36", 
     "new_confirmed": "4", 
     "block": "RUPOULI"
 },
@@ -167,8 +167,8 @@
     "block": "SRINAGAR"
 },
 {
-    "confirmed": "60", 
-    "recovered": "209", 
+    "confirmed": "47", 
+    "recovered": "216", 
     "district": "Purnia", 
     "color": "", 
     "D+E": "0", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "262", 
-    "recovered": "209", 
+    "confirmed": "268", 
+    "recovered": "216", 
     "district": "Purnia", 
     "color": "orange", 
     "D+E": "62", 
     "link": "district/Purnia/index.html", 
     "deceased": "0", 
-    "active": "53", 
+    "active": "52", 
     "new_confirmed": "13", 
     "block": "Total"
 }

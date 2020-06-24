@@ -35,14 +35,14 @@
     "block": "DHARAHARA"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "21", 
     "recovered": "0", 
     "district": "Munger", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Munger/index.html", 
     "deceased": "0", 
-    "active": "20", 
+    "active": "21", 
     "new_confirmed": "2", 
     "block": "HAVELI KHARAGPUR"
 },
@@ -107,8 +107,8 @@
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "32", 
-    "recovered": "184", 
+    "confirmed": "41", 
+    "recovered": "221", 
     "district": "Munger", 
     "color": "", 
     "D+E": "0", 
@@ -119,14 +119,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "298", 
-    "recovered": "222", 
+    "confirmed": "308", 
+    "recovered": "259", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
     "deceased": "1", 
-    "active": "75", 
+    "active": "48", 
     "new_confirmed": "3", 
     "block": "Total"
 }

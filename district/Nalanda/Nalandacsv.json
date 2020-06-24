@@ -59,14 +59,14 @@
     "block": "CHANDI"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Nalanda/index.html", 
     "deceased": "0", 
-    "active": "8", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "EKANGARSARAI"
 },
@@ -239,8 +239,8 @@
     "block": "THARTHARI"
 },
 {
-    "confirmed": "31", 
-    "recovered": "102", 
+    "confirmed": "40", 
+    "recovered": "115", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
@@ -251,14 +251,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "168", 
-    "recovered": "132", 
+    "confirmed": "178", 
+    "recovered": "145", 
     "district": "Nalanda", 
     "color": "orange", 
     "D+E": "102", 
     "link": "district/Nalanda/index.html", 
     "deceased": "3", 
-    "active": "33", 
+    "active": "30", 
     "new_confirmed": "1", 
     "block": "Total"
 }

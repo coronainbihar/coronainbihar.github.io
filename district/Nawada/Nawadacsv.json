@@ -167,8 +167,8 @@
     "block": "WARSALIGANJ"
 },
 {
-    "confirmed": "42", 
-    "recovered": "180", 
+    "confirmed": "56", 
+    "recovered": "181", 
     "district": "Nawada", 
     "color": "", 
     "D+E": "13", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "203", 
-    "recovered": "182", 
+    "confirmed": "217", 
+    "recovered": "183", 
     "district": "Nawada", 
     "color": "orange", 
     "D+E": "83", 
     "link": "district/Nawada/index.html", 
     "deceased": "2", 
-    "active": "19", 
+    "active": "32", 
     "new_confirmed": "2", 
     "block": "Total"
 }

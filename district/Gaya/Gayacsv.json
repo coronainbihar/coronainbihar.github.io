@@ -131,14 +131,14 @@
     "block": "Gaya Sadar"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "Guraru"
 },
@@ -179,14 +179,14 @@
     "block": "Khizar Sarai"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Konch"
 },
@@ -227,14 +227,14 @@
     "block": "Mohra"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "Paraiya"
 },
@@ -287,8 +287,8 @@
     "block": "Wazirganj"
 },
 {
-    "confirmed": "48", 
-    "recovered": "121", 
+    "confirmed": "43", 
+    "recovered": "128", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "6", 
@@ -300,13 +300,13 @@
 },
 {
     "confirmed": "172", 
-    "recovered": "126", 
+    "recovered": "133", 
     "district": "Gaya", 
     "color": "red", 
     "D+E": "65", 
     "link": "district/Gaya/index.html", 
     "deceased": "2", 
-    "active": "44", 
+    "active": "37", 
     "new_confirmed": "5", 
     "block": "Total"
 }

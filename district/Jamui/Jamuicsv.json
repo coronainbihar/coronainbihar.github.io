@@ -71,14 +71,14 @@
     "block": "Jhajha"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Jamui/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Khaira"
 },
@@ -119,8 +119,8 @@
     "block": "Sono"
 },
 {
-    "confirmed": "17", 
-    "recovered": "43", 
+    "confirmed": "20", 
+    "recovered": "47", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "11", 
@@ -131,8 +131,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "57", 
-    "recovered": "43", 
+    "confirmed": "61", 
+    "recovered": "47", 
     "district": "Jamui", 
     "color": "orange", 
     "D+E": "29", 

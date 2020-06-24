@@ -1,24 +1,24 @@
 [{
-    "confirmed": "37", 
+    "confirmed": "39", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "33", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "37", 
+    "active": "39", 
     "new_confirmed": "0", 
     "block": "Allouli"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "0", 
     "block": "Beldaur"
 },
@@ -83,8 +83,8 @@
     "block": "Parbatta"
 },
 {
-    "confirmed": "127", 
-    "recovered": "271", 
+    "confirmed": "124", 
+    "recovered": "272", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "24", 
@@ -96,13 +96,13 @@
 },
 {
     "confirmed": "296", 
-    "recovered": "271", 
+    "recovered": "272", 
     "district": "Khagaria", 
     "color": "orange", 
     "D+E": "149", 
     "link": "district/Khagaria/index.html", 
     "deceased": "3", 
-    "active": "22", 
+    "active": "21", 
     "new_confirmed": "3", 
     "block": "Total"
 }

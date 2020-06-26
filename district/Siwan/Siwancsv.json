@@ -227,8 +227,8 @@
     "block": "SIWAN"
 },
 {
-    "confirmed": "137", 
-    "recovered": "193", 
+    "confirmed": "157", 
+    "recovered": "217", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "9", 
@@ -239,14 +239,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "380", 
-    "recovered": "217", 
+    "confirmed": "400", 
+    "recovered": "241", 
     "district": "Siwan", 
     "color": "orange", 
     "D+E": "73", 
     "link": "district/Siwan/index.html", 
     "deceased": "2", 
-    "active": "161", 
+    "active": "157", 
     "new_confirmed": "29", 
     "block": "Total"
 }

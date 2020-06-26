@@ -204,7 +204,7 @@
 },
 {
     "confirmed": "51", 
-    "recovered": "113", 
+    "recovered": "115", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
@@ -216,13 +216,13 @@
 },
 {
     "confirmed": "130", 
-    "recovered": "114", 
+    "recovered": "116", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
-    "active": "14", 
+    "active": "12", 
     "new_confirmed": "1", 
     "block": "Total"
 }

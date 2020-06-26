@@ -239,8 +239,8 @@
     "block": "THARTHARI"
 },
 {
-    "confirmed": "40", 
-    "recovered": "115", 
+    "confirmed": "57", 
+    "recovered": "128", 
     "district": "Nalanda", 
     "color": "", 
     "D+E": "1", 
@@ -251,14 +251,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "181", 
-    "recovered": "145", 
+    "confirmed": "198", 
+    "recovered": "158", 
     "district": "Nalanda", 
     "color": "orange", 
     "D+E": "102", 
     "link": "district/Nalanda/index.html", 
     "deceased": "3", 
-    "active": "33", 
+    "active": "37", 
     "new_confirmed": "3", 
     "block": "Total"
 }

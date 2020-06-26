@@ -132,7 +132,7 @@
 },
 {
     "confirmed": "22", 
-    "recovered": "70", 
+    "recovered": "124", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "1", 
@@ -144,13 +144,13 @@
 },
 {
     "confirmed": "149", 
-    "recovered": "86", 
+    "recovered": "140", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "63", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "Total"
 }

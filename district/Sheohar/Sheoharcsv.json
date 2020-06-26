@@ -60,7 +60,7 @@
 },
 {
     "confirmed": "33", 
-    "recovered": "69", 
+    "recovered": "73", 
     "district": "Sheohar", 
     "color": "", 
     "D+E": "0", 
@@ -72,13 +72,13 @@
 },
 {
     "confirmed": "78", 
-    "recovered": "69", 
+    "recovered": "73", 
     "district": "Sheohar", 
     "color": "orange", 
     "D+E": "6", 
     "link": "district/Sheohar/index.html", 
     "deceased": "1", 
-    "active": "8", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "Total"
 }

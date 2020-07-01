@@ -167,8 +167,8 @@
     "block": "Udwantnagar"
 },
 {
-    "confirmed": "26", 
-    "recovered": "127", 
+    "confirmed": "89", 
+    "recovered": "147", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "1", 
@@ -179,14 +179,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "166", 
-    "recovered": "137", 
+    "confirmed": "229", 
+    "recovered": "157", 
     "district": "Bhojpur", 
     "color": "orange", 
     "D+E": "54", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "2", 
-    "active": "27", 
+    "active": "70", 
     "new_confirmed": "4", 
     "block": "Total"
 }

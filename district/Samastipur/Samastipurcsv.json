@@ -239,8 +239,8 @@
     "block": "WARISNAGAR"
 },
 {
-    "confirmed": "178", 
-    "recovered": "166", 
+    "confirmed": "231", 
+    "recovered": "245", 
     "district": "Samastipur", 
     "color": "", 
     "D+E": "17", 
@@ -251,14 +251,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "309", 
-    "recovered": "166", 
+    "confirmed": "362", 
+    "recovered": "245", 
     "district": "Samastipur", 
     "color": "orange", 
     "D+E": "63", 
     "link": "district/Samastipur/index.html", 
     "deceased": "2", 
-    "active": "141", 
+    "active": "115", 
     "new_confirmed": "7", 
     "block": "Total"
 }

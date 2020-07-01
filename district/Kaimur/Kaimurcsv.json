@@ -95,18 +95,6 @@
     "block": "Mohania"
 },
 {
-    "confirmed": "3", 
-    "recovered": "0", 
-    "district": "Kaimur", 
-    "color": "", 
-    "D+E": "0", 
-    "link": "district/Kaimur/index.html", 
-    "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
-    "block": "Nuawon"
-},
-{
     "confirmed": "4", 
     "recovered": "0", 
     "district": "Kaimur", 
@@ -115,6 +103,18 @@
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
     "active": "4", 
+    "new_confirmed": "0", 
+    "block": "Nuawon"
+},
+{
+    "confirmed": "9", 
+    "recovered": "0", 
+    "district": "Kaimur", 
+    "color": "", 
+    "D+E": "0", 
+    "link": "district/Kaimur/index.html", 
+    "deceased": "0", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "Ramgarh"
 },
@@ -131,7 +131,7 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "54", 
+    "confirmed": "53", 
     "recovered": "131", 
     "district": "Kaimur", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "181", 
+    "confirmed": "186", 
     "recovered": "147", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
     "deceased": "0", 
-    "active": "34", 
+    "active": "39", 
     "new_confirmed": "0", 
     "block": "Total"
 }

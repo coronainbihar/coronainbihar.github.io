@@ -11,40 +11,28 @@
     "block": "Amarpur"
 },
 {
-    "confirmed": "33", 
+    "confirmed": "40", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "33", 
+    "active": "40", 
     "new_confirmed": "0", 
     "block": "Banka"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Barahat"
-},
-{
-    "confirmed": "14", 
-    "recovered": "0", 
-    "district": "Banka", 
-    "color": "", 
-    "D+E": "7", 
-    "link": "district/Banka/index.html", 
-    "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "0", 
-    "block": "Belhar"
 },
 {
     "confirmed": "15", 
@@ -56,6 +44,18 @@
     "deceased": "0", 
     "active": "15", 
     "new_confirmed": "1", 
+    "block": "Belhar"
+},
+{
+    "confirmed": "15", 
+    "recovered": "0", 
+    "district": "Banka", 
+    "color": "", 
+    "D+E": "7", 
+    "link": "district/Banka/index.html", 
+    "deceased": "0", 
+    "active": "15", 
+    "new_confirmed": "0", 
     "block": "Bounsi"
 },
 {
@@ -71,14 +71,14 @@
     "block": "Chandan"
 },
 {
-    "confirmed": "27", 
+    "confirmed": "28", 
     "recovered": "0", 
     "district": "Banka", 
     "color": "", 
     "D+E": "22", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "27", 
+    "active": "28", 
     "new_confirmed": "0", 
     "block": "Dhoraiya"
 },
@@ -131,7 +131,7 @@
     "block": "Shambhuganj"
 },
 {
-    "confirmed": "79", 
+    "confirmed": "71", 
     "recovered": "198", 
     "district": "Banka", 
     "color": "", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "233", 
+    "confirmed": "235", 
     "recovered": "198", 
     "district": "Banka", 
     "color": "orange", 
     "D+E": "108", 
     "link": "district/Banka/index.html", 
     "deceased": "0", 
-    "active": "35", 
+    "active": "37", 
     "new_confirmed": "1", 
     "block": "Total"
 }

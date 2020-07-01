@@ -11,15 +11,15 @@
     "block": "Brahmpur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "0", 
+    "active": "10", 
+    "new_confirmed": "1", 
     "block": "Buxar"
 },
 {
@@ -83,15 +83,15 @@
     "block": "Itarhi"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "0", 
-    "new_confirmed": "0", 
+    "active": "3", 
+    "new_confirmed": "3", 
     "block": "Kesath"
 },
 {
@@ -131,7 +131,7 @@
     "block": "Simari"
 },
 {
-    "confirmed": "103", 
+    "confirmed": "95", 
     "recovered": "183", 
     "district": "Buxar", 
     "color": "", 
@@ -151,7 +151,7 @@
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
     "active": "18", 
-    "new_confirmed": "0", 
+    "new_confirmed": "4", 
     "block": "Total"
 }
 ]

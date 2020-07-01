@@ -31,7 +31,7 @@
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
     "active": "14", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Kaler"
 },
 {
@@ -47,19 +47,19 @@
     "block": "Karpi"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Arwal/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "Kurtha"
 },
 {
-    "confirmed": "41", 
+    "confirmed": "40", 
     "recovered": "86", 
     "district": "Arwal", 
     "color": "", 
@@ -79,7 +79,7 @@
     "link": "district/Arwal/index.html", 
     "deceased": "1", 
     "active": "22", 
-    "new_confirmed": "4", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

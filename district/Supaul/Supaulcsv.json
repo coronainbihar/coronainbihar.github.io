@@ -1,13 +1,13 @@
 [{
-    "confirmed": "13", 
+    "confirmed": "16", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "16", 
+    "new_confirmed": "3", 
     "block": "BASANTPUR"
 },
 {
@@ -19,30 +19,30 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "18", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "CHHATAPUR"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "13", 
     "new_confirmed": "0", 
     "block": "KISHANPUR"
 },
 {
-    "confirmed": "19", 
+    "confirmed": "21", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "19", 
+    "active": "21", 
     "new_confirmed": "0", 
     "block": "MARAUNA"
 },
@@ -55,7 +55,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "9", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "NIRMALI"
 },
 {
@@ -67,7 +67,7 @@
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
     "active": "17", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "PIPRA"
 },
 {
@@ -119,19 +119,19 @@
     "block": "SUPAUL"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "13", 
     "recovered": "0", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "10", 
-    "new_confirmed": "0", 
+    "active": "13", 
+    "new_confirmed": "2", 
     "block": "TRIVENGANJ"
 },
 {
-    "confirmed": "73", 
+    "confirmed": "65", 
     "recovered": "210", 
     "district": "Supaul", 
     "color": "", 
@@ -143,15 +143,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "250", 
+    "confirmed": "251", 
     "recovered": "210", 
     "district": "Supaul", 
     "color": "orange", 
     "D+E": "65", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "40", 
-    "new_confirmed": "4", 
+    "active": "41", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

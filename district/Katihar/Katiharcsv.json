@@ -35,26 +35,26 @@
     "block": "Balrampur"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "9", 
+    "active": "11", 
     "new_confirmed": "0", 
     "block": "Barari"
 },
 {
-    "confirmed": "35", 
+    "confirmed": "37", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "33", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "35", 
+    "active": "37", 
     "new_confirmed": "0", 
     "block": "Barsoi"
 },
@@ -67,18 +67,18 @@
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
     "active": "6", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Dandkhora"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "10", 
     "new_confirmed": "0", 
     "block": "Falka"
 },
@@ -119,14 +119,14 @@
     "block": "Katihar"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Katihar/index.html in", 
     "deceased": "0", 
-    "active": "8", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "Korha"
 },
@@ -143,26 +143,26 @@
     "block": "Kursela"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "1", 
     "block": "Manihari"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "6", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "Mansahi"
 },
@@ -179,19 +179,19 @@
     "block": "Pranpur"
 },
 {
-    "confirmed": "0", 
+    "confirmed": "1", 
     "recovered": "0", 
     "district": "Katihar", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Katihar/index.html", 
     "deceased": "0", 
-    "active": "0", 
+    "active": "1", 
     "new_confirmed": "0", 
     "block": "Sameli"
 },
 {
-    "confirmed": "169", 
+    "confirmed": "164", 
     "recovered": "242", 
     "district": "Katihar", 
     "color": "", 
@@ -203,15 +203,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "340", 
+    "confirmed": "348", 
     "recovered": "242", 
     "district": "Katihar", 
     "color": "orange", 
     "D+E": "135", 
     "link": "district/Katihar/index.html", 
     "deceased": "1", 
-    "active": "97", 
-    "new_confirmed": "2", 
+    "active": "105", 
+    "new_confirmed": "1", 
     "block": "Total"
 }
 ]

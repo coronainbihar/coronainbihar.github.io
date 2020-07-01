@@ -1,37 +1,37 @@
 [{
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "13", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "13", 
+    "active": "14", 
     "new_confirmed": "0", 
     "block": "BANMA ITAHRI"
 },
 {
-    "confirmed": "36", 
+    "confirmed": "52", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "21", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "36", 
-    "new_confirmed": "3", 
+    "active": "52", 
+    "new_confirmed": "14", 
     "block": "KAHRA"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "14", 
+    "new_confirmed": "1", 
     "block": "MAHISHI"
 },
 {
@@ -95,31 +95,31 @@
     "block": "SAUR BAZAR"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "5", 
+    "new_confirmed": "2", 
     "block": "SIMRI BAKHTIYARPUR"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Saharsa", 
     "color": "", 
     "D+E": "11", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "15", 
-    "new_confirmed": "0", 
+    "active": "17", 
+    "new_confirmed": "1", 
     "block": "SONBARSA"
 },
 {
-    "confirmed": "70", 
+    "confirmed": "51", 
     "recovered": "153", 
     "district": "Saharsa", 
     "color": "", 
@@ -131,15 +131,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "175", 
+    "confirmed": "178", 
     "recovered": "153", 
     "district": "Saharsa", 
     "color": "orange", 
     "D+E": "58", 
     "link": "district/Saharsa/index.html", 
     "deceased": "0", 
-    "active": "22", 
-    "new_confirmed": "3", 
+    "active": "25", 
+    "new_confirmed": "18", 
     "block": "Total"
 }
 ]

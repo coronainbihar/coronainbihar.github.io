@@ -11,26 +11,26 @@
     "block": "ALAMNAGAR"
 },
 {
-    "confirmed": "20", 
+    "confirmed": "21", 
     "recovered": "1", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "18", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "19", 
-    "new_confirmed": "0", 
+    "active": "20", 
+    "new_confirmed": "1", 
     "block": "BIHARIGANJ"
 },
 {
-    "confirmed": "22", 
+    "confirmed": "23", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "22", 
+    "active": "23", 
     "new_confirmed": "0", 
     "block": "CHAUSA"
 },
@@ -71,26 +71,26 @@
     "block": "GUALPARA"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "13", 
+    "active": "14", 
     "new_confirmed": "0", 
     "block": "KUMARKHAND"
 },
 {
-    "confirmed": "16", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "16", 
+    "active": "17", 
     "new_confirmed": "0", 
     "block": "MADHEPURA"
 },
@@ -119,26 +119,26 @@
     "block": "PURAINI"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "15", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "3", 
     "block": "SHANKARPUR"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Madhepura", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Madhepura/index.html", 
     "deceased": "0", 
-    "active": "8", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "SIGHESHWARSTHAN"
 },
@@ -155,7 +155,7 @@
     "block": "UDA KISHANGANJ"
 },
 {
-    "confirmed": "70", 
+    "confirmed": "66", 
     "recovered": "143", 
     "district": "Madhepura", 
     "color": "", 
@@ -167,15 +167,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "203", 
+    "confirmed": "207", 
     "recovered": "145", 
     "district": "Madhepura", 
     "color": "orange", 
     "D+E": "52", 
     "link": "district/Madhepura/index.html", 
     "deceased": "1", 
-    "active": "57", 
-    "new_confirmed": "0", 
+    "active": "61", 
+    "new_confirmed": "4", 
     "block": "Total"
 }
 ]

@@ -79,7 +79,7 @@
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Bodh Gaya"
 },
 {
@@ -127,7 +127,7 @@
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
     "active": "9", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Gaya Sadar"
 },
 {
@@ -163,7 +163,7 @@
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
     "active": "1", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Imamganj"
 },
 {
@@ -187,7 +187,7 @@
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Konch"
 },
 {
@@ -227,14 +227,14 @@
     "block": "Mohra"
 },
 {
-    "confirmed": "8", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
-    "active": "8", 
+    "active": "9", 
     "new_confirmed": "0", 
     "block": "Paraiya"
 },
@@ -271,7 +271,7 @@
     "link": "district/Gaya/index.html", 
     "deceased": "0", 
     "active": "23", 
-    "new_confirmed": "7", 
+    "new_confirmed": "0", 
     "block": "Tekari"
 },
 {
@@ -287,7 +287,7 @@
     "block": "Wazirganj"
 },
 {
-    "confirmed": "69", 
+    "confirmed": "71", 
     "recovered": "159", 
     "district": "Gaya", 
     "color": "", 
@@ -299,15 +299,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "210", 
+    "confirmed": "213", 
     "recovered": "164", 
     "district": "Gaya", 
     "color": "red", 
     "D+E": "65", 
     "link": "district/Gaya/index.html", 
     "deceased": "3", 
-    "active": "43", 
-    "new_confirmed": "12", 
+    "active": "46", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

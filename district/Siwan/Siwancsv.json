@@ -11,15 +11,15 @@
     "block": "ANDAR"
 },
 {
-    "confirmed": "21", 
+    "confirmed": "22", 
     "recovered": "2", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "7", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "19", 
-    "new_confirmed": "1", 
+    "active": "20", 
+    "new_confirmed": "0", 
     "block": "BARHARIA"
 },
 {
@@ -31,55 +31,55 @@
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
     "active": "79", 
-    "new_confirmed": "13", 
+    "new_confirmed": "0", 
     "block": "BASANTPUR"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "3", 
-    "new_confirmed": "0", 
+    "active": "4", 
+    "new_confirmed": "1", 
     "block": "BHAGWANPUR"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "13", 
     "recovered": "1", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "8", 
-    "new_confirmed": "0", 
+    "active": "12", 
+    "new_confirmed": "4", 
     "block": "DARAULI"
 },
 {
-    "confirmed": "9", 
+    "confirmed": "11", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "9", 
-    "new_confirmed": "2", 
+    "active": "11", 
+    "new_confirmed": "0", 
     "block": "DURAUNDHA"
 },
 {
-    "confirmed": "25", 
+    "confirmed": "32", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "25", 
-    "new_confirmed": "8", 
+    "active": "32", 
+    "new_confirmed": "0", 
     "block": "GOREAKOTHI"
 },
 {
@@ -95,14 +95,14 @@
     "block": "GUTHANI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "9", 
     "recovered": "1", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "HASANPURA"
 },
@@ -119,26 +119,26 @@
     "block": "HUSSAINGANJ"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "5", 
-    "new_confirmed": "1", 
+    "active": "17", 
+    "new_confirmed": "0", 
     "block": "JEERADEI"
 },
 {
-    "confirmed": "3", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "LAKRI NABIGANJ"
 },
@@ -155,39 +155,39 @@
     "block": "MAHARAJGANJ"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "4", 
-    "new_confirmed": "3", 
+    "active": "5", 
+    "new_confirmed": "0", 
     "block": "MAIRWA"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "1", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "3", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "NAUTAN"
 },
 {
-    "confirmed": "15", 
+    "confirmed": "18", 
     "recovered": "1", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "14", 
-    "new_confirmed": "1", 
+    "active": "17", 
+    "new_confirmed": "0", 
     "block": "PACHRUKHI"
 },
 {
@@ -203,14 +203,14 @@
     "block": "RAGHUNATHPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "4", 
     "recovered": "0", 
     "district": "Siwan", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Siwan/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "4", 
     "new_confirmed": "0", 
     "block": "SISWAN"
 },
@@ -227,7 +227,7 @@
     "block": "SIWAN"
 },
 {
-    "confirmed": "176", 
+    "confirmed": "133", 
     "recovered": "330", 
     "district": "Siwan", 
     "color": "", 
@@ -247,7 +247,7 @@
     "link": "district/Siwan/index.html", 
     "deceased": "2", 
     "active": "63", 
-    "new_confirmed": "29", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

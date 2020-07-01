@@ -23,15 +23,15 @@
     "block": "BAJPATTI"
 },
 {
-    "confirmed": "2", 
+    "confirmed": "3", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "2", 
-    "new_confirmed": "1", 
+    "active": "3", 
+    "new_confirmed": "0", 
     "block": "BATHNAHA"
 },
 {
@@ -167,14 +167,14 @@
     "block": "RUNNISAIDPUR"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "10", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "10", 
     "new_confirmed": "0", 
     "block": "SONBARSA"
 },
@@ -191,19 +191,19 @@
     "block": "SUPPI"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "SURSAND"
 },
 {
-    "confirmed": "63", 
+    "confirmed": "51", 
     "recovered": "125", 
     "district": "Sitamarhi", 
     "color": "", 
@@ -215,15 +215,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "142", 
+    "confirmed": "144", 
     "recovered": "126", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
     "deceased": "2", 
-    "active": "14", 
-    "new_confirmed": "1", 
+    "active": "16", 
+    "new_confirmed": "0", 
     "block": "Total"
 }
 ]

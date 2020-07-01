@@ -11,14 +11,14 @@
     "block": "Allouli"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "9", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "13", 
+    "active": "14", 
     "new_confirmed": "0", 
     "block": "Beldaur"
 },
@@ -71,19 +71,19 @@
     "block": "Mansi"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "17", 
     "recovered": "0", 
     "district": "Khagaria", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Khagaria/index.html", 
     "deceased": "0", 
-    "active": "12", 
+    "active": "17", 
     "new_confirmed": "0", 
     "block": "Parbatta"
 },
 {
-    "confirmed": "132", 
+    "confirmed": "126", 
     "recovered": "293", 
     "district": "Khagaria", 
     "color": "", 

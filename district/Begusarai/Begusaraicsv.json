@@ -23,14 +23,14 @@
     "block": "Bakhri"
 },
 {
-    "confirmed": "10", 
+    "confirmed": "13", 
     "recovered": "1", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "6", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "9", 
+    "active": "12", 
     "new_confirmed": "0", 
     "block": "Balia"
 },
@@ -71,14 +71,14 @@
     "block": "Bhagawanpur"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "5", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "5", 
     "new_confirmed": "0", 
     "block": "Birpur"
 },
@@ -107,14 +107,14 @@
     "block": "Chhourahi"
 },
 {
-    "confirmed": "4", 
+    "confirmed": "12", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "12", 
     "new_confirmed": "0", 
     "block": "Dandari"
 },
@@ -131,26 +131,26 @@
     "block": "Gadhpura"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "4", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Khodabandpur"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "5", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Mansurchak"
 },
@@ -179,14 +179,14 @@
     "block": "Navkothi"
 },
 {
-    "confirmed": "37", 
+    "confirmed": "42", 
     "recovered": "0", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "19", 
     "link": "district/Begusarai/index.html", 
     "deceased": "0", 
-    "active": "37", 
+    "active": "42", 
     "new_confirmed": "0", 
     "block": "Sahebpur Kamal"
 },
@@ -215,7 +215,7 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "318", 
+    "confirmed": "303", 
     "recovered": "341", 
     "district": "Begusarai", 
     "color": "", 

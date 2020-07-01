@@ -7,19 +7,19 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "7", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Agiaon"
 },
 {
-    "confirmed": "48", 
+    "confirmed": "50", 
     "recovered": "8", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "25", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "40", 
-    "new_confirmed": "0", 
+    "active": "42", 
+    "new_confirmed": "1", 
     "block": "Ara Sadar"
 },
 {
@@ -43,7 +43,7 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "8", 
-    "new_confirmed": "1", 
+    "new_confirmed": "0", 
     "block": "Bihiya"
 },
 {
@@ -91,18 +91,18 @@
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
     "active": "10", 
-    "new_confirmed": "2", 
+    "new_confirmed": "0", 
     "block": "Koilwar"
 },
 {
-    "confirmed": "5", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "5", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "Piro"
 },
@@ -131,26 +131,26 @@
     "block": "Sandesh"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "7", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "7", 
+    "new_confirmed": "1", 
     "block": "Shahpur"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "2", 
     "recovered": "0", 
     "district": "Bhojpur", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "2", 
     "new_confirmed": "0", 
     "block": "Tarari"
 },
@@ -167,7 +167,7 @@
     "block": "Udwantnagar"
 },
 {
-    "confirmed": "89", 
+    "confirmed": "85", 
     "recovered": "147", 
     "district": "Bhojpur", 
     "color": "", 
@@ -179,15 +179,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "229", 
+    "confirmed": "230", 
     "recovered": "157", 
     "district": "Bhojpur", 
     "color": "orange", 
     "D+E": "54", 
     "link": "district/Bhojpur/index.html", 
     "deceased": "2", 
-    "active": "70", 
-    "new_confirmed": "4", 
+    "active": "71", 
+    "new_confirmed": "2", 
     "block": "Total"
 }
 ]

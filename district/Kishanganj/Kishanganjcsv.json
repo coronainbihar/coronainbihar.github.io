@@ -1,13 +1,13 @@
 [{
-    "confirmed": "42", 
+    "confirmed": "45", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "10", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "42", 
-    "new_confirmed": "0", 
+    "active": "45", 
+    "new_confirmed": "3", 
     "block": "Bahadurganj"
 },
 {
@@ -35,39 +35,39 @@
     "block": "Kishanganj"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "12", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "12", 
+    "new_confirmed": "6", 
     "block": "Kochadhaman"
 },
 {
-    "confirmed": "7", 
+    "confirmed": "8", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "7", 
+    "active": "8", 
     "new_confirmed": "0", 
     "block": "Pothia"
 },
 {
-    "confirmed": "12", 
+    "confirmed": "14", 
     "recovered": "0", 
     "district": "Kishanganj", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "12", 
-    "new_confirmed": "0", 
+    "active": "14", 
+    "new_confirmed": "2", 
     "block": "Terhagachh"
 },
 {
@@ -83,7 +83,7 @@
     "block": "Thakurganj"
 },
 {
-    "confirmed": "48", 
+    "confirmed": "38", 
     "recovered": "136", 
     "district": "Kishanganj", 
     "color": "", 
@@ -95,15 +95,15 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "168", 
+    "confirmed": "170", 
     "recovered": "136", 
     "district": "Kishanganj", 
     "color": "orange", 
     "D+E": "32", 
     "link": "district/Kishanganj/index.html", 
     "deceased": "0", 
-    "active": "32", 
-    "new_confirmed": "0", 
+    "active": "34", 
+    "new_confirmed": "11", 
     "block": "Total"
 }
 ]

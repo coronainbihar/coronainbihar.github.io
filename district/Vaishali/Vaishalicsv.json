@@ -1,12 +1,12 @@
 [{
-    "confirmed": "4", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "4", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "BHAGWANPUR"
 },
@@ -47,27 +47,27 @@
     "block": "DESRI"
 },
 {
-    "confirmed": "6", 
+    "confirmed": "9", 
     "recovered": "0", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "6", 
-    "new_confirmed": "0", 
+    "active": "9", 
+    "new_confirmed": "3", 
     "block": "GARAUL"
 },
 {
-    "confirmed": "13", 
+    "confirmed": "15", 
     "recovered": "0", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "13", 
-    "new_confirmed": "0", 
+    "active": "15", 
+    "new_confirmed": "1", 
     "block": "HAJIPUR"
 },
 {
@@ -95,14 +95,14 @@
     "block": "LALGANJ"
 },
 {
-    "confirmed": "1", 
+    "confirmed": "6", 
     "recovered": "0", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "1", 
+    "active": "6", 
     "new_confirmed": "0", 
     "block": "MAHNAR"
 },
@@ -179,19 +179,19 @@
     "block": "SAHDEI"
 },
 {
-    "confirmed": "18", 
+    "confirmed": "19", 
     "recovered": "0", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "10", 
     "link": "district/Vaishali/index.html", 
     "deceased": "0", 
-    "active": "18", 
-    "new_confirmed": "0", 
+    "active": "19", 
+    "new_confirmed": "1", 
     "block": "VAISHALI"
 },
 {
-    "confirmed": "90", 
+    "confirmed": "77", 
     "recovered": "119", 
     "district": "Vaishali", 
     "color": "", 
@@ -211,7 +211,7 @@
     "link": "district/Vaishali/index.html", 
     "deceased": "3", 
     "active": "64", 
-    "new_confirmed": "0", 
+    "new_confirmed": "5", 
     "block": "Total"
 }
 ]

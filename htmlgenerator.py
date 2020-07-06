@@ -45,7 +45,7 @@ for row in reader:
 	<meta name="keywords" content="Corona, Bihar, Tracker, Covid-19, Blockwise, Block wise, Block, Coronavirus">
 	<meta name="author" content="Anand Kumar Verma">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="../../indexauto.css">
+	<link rel="stylesheet" type="text/css" href="../../index.css">
 	<link href="../../chart.css" rel="stylesheet" type="text/css" />
 	<script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/modules/exporting.js"></script>

@@ -82,7 +82,7 @@ for row in reader:
 	  <div class="column middle">
 		
 		<div class="info">
-		  <p><strong>Info! </strong> Recovered data is subject to further verification.</p>
+		  <p><strong>Info! </strong> Bihar government has stopped to release block wise data. Stay home, stay safe.</p>
 		</div>
 		
 		<div style="overflow-x:auto;">

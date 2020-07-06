@@ -227,26 +227,26 @@
     "block": "TILOUTHU"
 },
 {
-    "confirmed": "67", 
-    "recovered": "295", 
+    "confirmed": "101", 
+    "recovered": "309", 
     "district": "Rohtas", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Rohtas/index.html", 
-    "deceased": "3", 
+    "deceased": "4", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "343", 
-    "recovered": "317", 
+    "confirmed": "377", 
+    "recovered": "331", 
     "district": "Rohtas", 
     "color": "red", 
     "D+E": "187", 
     "link": "district/Rohtas/index.html", 
-    "deceased": "4", 
-    "active": "22", 
+    "deceased": "5", 
+    "active": "41", 
     "new_confirmed": "0", 
     "block": "Total"
 }

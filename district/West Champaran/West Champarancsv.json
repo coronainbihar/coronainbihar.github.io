@@ -215,26 +215,26 @@
     "block": "THAKARAHA"
 },
 {
-    "confirmed": "111", 
-    "recovered": "130", 
+    "confirmed": "198", 
+    "recovered": "184", 
     "district": "West Champaran", 
     "color": "", 
     "D+E": "0", 
     "link": "district/West Champaran/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "208", 
-    "recovered": "130", 
+    "confirmed": "295", 
+    "recovered": "184", 
     "district": "West Champaran", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/West Champaran/index.html", 
-    "deceased": "1", 
-    "active": "77", 
+    "deceased": "2", 
+    "active": "109", 
     "new_confirmed": "0", 
     "block": "Total"
 }

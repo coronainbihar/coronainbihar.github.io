@@ -83,8 +83,8 @@
     "block": "Suryagarha"
 },
 {
-    "confirmed": "48", 
-    "recovered": "82", 
+    "confirmed": "62", 
+    "recovered": "126", 
     "district": "Lakhisarai", 
     "color": "", 
     "D+E": "3", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "128", 
-    "recovered": "83", 
+    "confirmed": "142", 
+    "recovered": "127", 
     "district": "Lakhisarai", 
     "color": "orange", 
     "D+E": "31", 
     "link": "district/Lakhisarai/index.html", 
     "deceased": "0", 
-    "active": "45", 
+    "active": "15", 
     "new_confirmed": "1", 
     "block": "Total"
 }

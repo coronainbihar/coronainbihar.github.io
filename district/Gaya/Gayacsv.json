@@ -287,8 +287,8 @@
     "block": "Wazirganj"
 },
 {
-    "confirmed": "71", 
-    "recovered": "159", 
+    "confirmed": "134", 
+    "recovered": "182", 
     "district": "Gaya", 
     "color": "", 
     "D+E": "6", 
@@ -299,14 +299,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "213", 
-    "recovered": "164", 
+    "confirmed": "276", 
+    "recovered": "187", 
     "district": "Gaya", 
     "color": "red", 
     "D+E": "65", 
     "link": "district/Gaya/index.html", 
     "deceased": "3", 
-    "active": "46", 
+    "active": "86", 
     "new_confirmed": "0", 
     "block": "Total"
 }

@@ -203,26 +203,26 @@
     "block": "SURSAND"
 },
 {
-    "confirmed": "51", 
+    "confirmed": "61", 
     "recovered": "125", 
     "district": "Sitamarhi", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Sitamarhi/index.html", 
-    "deceased": "1", 
+    "deceased": "2", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "144", 
+    "confirmed": "154", 
     "recovered": "126", 
     "district": "Sitamarhi", 
     "color": "orange", 
     "D+E": "44", 
     "link": "district/Sitamarhi/index.html", 
-    "deceased": "2", 
-    "active": "16", 
+    "deceased": "3", 
+    "active": "25", 
     "new_confirmed": "0", 
     "block": "Total"
 }

@@ -191,26 +191,26 @@
     "block": "SARAIYA"
 },
 {
-    "confirmed": "137", 
-    "recovered": "232", 
+    "confirmed": "320", 
+    "recovered": "338", 
     "district": "Muzaffarpur", 
     "color": "", 
     "D+E": "2", 
     "link": "district/Muzaffarpur/index.html", 
-    "deceased": "2", 
+    "deceased": "5", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "313", 
-    "recovered": "232", 
+    "confirmed": "496", 
+    "recovered": "338", 
     "district": "Muzaffarpur", 
     "color": "orange", 
     "D+E": "43", 
     "link": "district/Muzaffarpur/index.html", 
-    "deceased": "2", 
-    "active": "79", 
+    "deceased": "5", 
+    "active": "153", 
     "new_confirmed": "1", 
     "block": "Total"
 }

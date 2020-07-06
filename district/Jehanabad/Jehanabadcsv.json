@@ -83,8 +83,8 @@
     "block": "Ratni Faridpur"
 },
 {
-    "confirmed": "59", 
-    "recovered": "217", 
+    "confirmed": "86", 
+    "recovered": "244", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "0", 
@@ -95,8 +95,8 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "252", 
-    "recovered": "218", 
+    "confirmed": "279", 
+    "recovered": "245", 
     "district": "Jehanabad", 
     "color": "orange", 
     "D+E": "114", 

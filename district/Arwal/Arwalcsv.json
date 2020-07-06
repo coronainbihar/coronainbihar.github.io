@@ -59,8 +59,8 @@
     "block": "Kurtha"
 },
 {
-    "confirmed": "40", 
-    "recovered": "86", 
+    "confirmed": "55", 
+    "recovered": "100", 
     "district": "Arwal", 
     "color": "", 
     "D+E": "0", 
@@ -71,14 +71,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "110", 
-    "recovered": "87", 
+    "confirmed": "125", 
+    "recovered": "101", 
     "district": "Arwal", 
     "color": "orange", 
     "D+E": "38", 
     "link": "district/Arwal/index.html", 
     "deceased": "1", 
-    "active": "22", 
+    "active": "23", 
     "new_confirmed": "0", 
     "block": "Total"
 }

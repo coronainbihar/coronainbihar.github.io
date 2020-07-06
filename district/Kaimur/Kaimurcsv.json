@@ -131,26 +131,26 @@
     "block": "Rampur"
 },
 {
-    "confirmed": "53", 
-    "recovered": "131", 
+    "confirmed": "75", 
+    "recovered": "162", 
     "district": "Kaimur", 
     "color": "", 
     "D+E": "1", 
     "link": "district/Kaimur/index.html", 
-    "deceased": "0", 
+    "deceased": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "186", 
-    "recovered": "147", 
+    "confirmed": "208", 
+    "recovered": "178", 
     "district": "Kaimur", 
     "color": "orange", 
     "D+E": "57", 
     "link": "district/Kaimur/index.html", 
-    "deceased": "0", 
-    "active": "39", 
+    "deceased": "1", 
+    "active": "29", 
     "new_confirmed": "0", 
     "block": "Total"
 }

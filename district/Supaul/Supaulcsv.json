@@ -131,8 +131,8 @@
     "block": "TRIVENGANJ"
 },
 {
-    "confirmed": "99", 
-    "recovered": "262", 
+    "confirmed": "184", 
+    "recovered": "309", 
     "district": "Supaul", 
     "color": "", 
     "D+E": "4", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "285", 
-    "recovered": "262", 
+    "confirmed": "370", 
+    "recovered": "309", 
     "district": "Supaul", 
     "color": "orange", 
     "D+E": "65", 
     "link": "district/Supaul/index.html", 
     "deceased": "0", 
-    "active": "23", 
+    "active": "61", 
     "new_confirmed": "5", 
     "block": "Total"
 }

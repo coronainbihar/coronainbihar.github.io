@@ -191,26 +191,26 @@
     "block": "VAISHALI"
 },
 {
-    "confirmed": "134", 
-    "recovered": "154", 
+    "confirmed": "271", 
+    "recovered": "251", 
     "district": "Vaishali", 
     "color": "", 
     "D+E": "3", 
     "link": "district/Vaishali/index.html", 
-    "deceased": "2", 
+    "deceased": "3", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "245", 
-    "recovered": "156", 
+    "confirmed": "382", 
+    "recovered": "253", 
     "district": "Vaishali", 
     "color": "orange", 
     "D+E": "61", 
     "link": "district/Vaishali/index.html", 
-    "deceased": "3", 
-    "active": "86", 
+    "deceased": "4", 
+    "active": "125", 
     "new_confirmed": "5", 
     "block": "Total"
 }

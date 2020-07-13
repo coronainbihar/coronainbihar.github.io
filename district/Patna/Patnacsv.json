@@ -275,26 +275,26 @@
     "block": "SAMPATCHAK"
 },
 {
-    "confirmed": "672", 
-    "recovered": "554", 
+    "confirmed": "1711", 
+    "recovered": "1154", 
     "district": "Patna", 
     "color": "", 
     "D+E": "17", 
     "link": "district/Patna/index.html", 
-    "deceased": "10", 
+    "deceased": "13", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "1058", 
-    "recovered": "572", 
+    "confirmed": "2097", 
+    "recovered": "1172", 
     "district": "Patna", 
     "color": "red", 
     "D+E": "233", 
     "link": "district/Patna/index.html", 
-    "deceased": "12", 
-    "active": "474", 
+    "deceased": "15", 
+    "active": "910", 
     "new_confirmed": "16", 
     "block": "Total"
 }

@@ -107,26 +107,26 @@
     "block": "TETIYA BAMBER"
 },
 {
-    "confirmed": "129", 
-    "recovered": "269", 
+    "confirmed": "356", 
+    "recovered": "360", 
     "district": "Munger", 
     "color": "", 
     "D+E": "0", 
     "link": "district/Munger/index.html", 
-    "deceased": "0", 
+    "deceased": "1", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "419", 
-    "recovered": "307", 
+    "confirmed": "646", 
+    "recovered": "398", 
     "district": "Munger", 
     "color": "red", 
     "D+E": "147", 
     "link": "district/Munger/index.html", 
-    "deceased": "1", 
-    "active": "111", 
+    "deceased": "2", 
+    "active": "246", 
     "new_confirmed": "0", 
     "block": "Total"
 }

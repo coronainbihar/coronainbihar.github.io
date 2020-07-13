@@ -119,8 +119,8 @@
     "block": "Sono"
 },
 {
-    "confirmed": "61", 
-    "recovered": "79", 
+    "confirmed": "154", 
+    "recovered": "103", 
     "district": "Jamui", 
     "color": "", 
     "D+E": "11", 
@@ -131,14 +131,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "108", 
-    "recovered": "79", 
+    "confirmed": "201", 
+    "recovered": "103", 
     "district": "Jamui", 
     "color": "orange", 
     "D+E": "29", 
     "link": "district/Jamui/index.html", 
     "deceased": "1", 
-    "active": "28", 
+    "active": "97", 
     "new_confirmed": "1", 
     "block": "Total"
 }

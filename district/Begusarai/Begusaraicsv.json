@@ -215,26 +215,26 @@
     "block": "Teghra"
 },
 {
-    "confirmed": "379", 
-    "recovered": "382", 
+    "confirmed": "664", 
+    "recovered": "516", 
     "district": "Begusarai", 
     "color": "", 
     "D+E": "39", 
     "link": "district/Begusarai/index.html", 
-    "deceased": "4", 
+    "deceased": "6", 
     "active": "0", 
     "new_confirmed": "0", 
     "block": "Unknown"
 },
 {
-    "confirmed": "528", 
-    "recovered": "384", 
+    "confirmed": "813", 
+    "recovered": "518", 
     "district": "Begusarai", 
     "color": "orange", 
     "D+E": "182", 
     "link": "district/Begusarai/index.html", 
-    "deceased": "4", 
-    "active": "140", 
+    "deceased": "6", 
+    "active": "289", 
     "new_confirmed": "0", 
     "block": "Total"
 }

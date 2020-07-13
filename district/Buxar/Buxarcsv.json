@@ -131,8 +131,8 @@
     "block": "Simari"
 },
 {
-    "confirmed": "108", 
-    "recovered": "192", 
+    "confirmed": "177", 
+    "recovered": "216", 
     "district": "Buxar", 
     "color": "", 
     "D+E": "25", 
@@ -143,14 +143,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "240", 
-    "recovered": "218", 
+    "confirmed": "309", 
+    "recovered": "242", 
     "district": "Buxar", 
     "color": "red", 
     "D+E": "114", 
     "link": "district/Buxar/index.html", 
     "deceased": "0", 
-    "active": "22", 
+    "active": "67", 
     "new_confirmed": "4", 
     "block": "Total"
 }

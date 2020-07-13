@@ -83,8 +83,8 @@
     "block": "Ratni Faridpur"
 },
 {
-    "confirmed": "86", 
-    "recovered": "244", 
+    "confirmed": "151", 
+    "recovered": "270", 
     "district": "Jehanabad", 
     "color": "", 
     "D+E": "0", 
@@ -95,14 +95,14 @@
     "block": "Unknown"
 },
 {
-    "confirmed": "279", 
-    "recovered": "245", 
+    "confirmed": "344", 
+    "recovered": "271", 
     "district": "Jehanabad", 
     "color": "orange", 
     "D+E": "114", 
     "link": "district/Jehanabad/index.html", 
     "deceased": "3", 
-    "active": "31", 
+    "active": "70", 
     "new_confirmed": "1", 
     "block": "Total"
 }
